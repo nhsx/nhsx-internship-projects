@@ -8,9 +8,10 @@ permalink: /nhs-language-corpus/
 *Output update coming in September 2021* 
 
 # NHS Language Corpus
+
 **Keywords:** Natural Language Processing, Healthcare Text, Dataset, Corpus
 
-**Need:** Currently there is no large, open, representative UK based medical text database available.  When training NLP models on available datasets (e.g. MedMentions, MIMIC III) issues can include: not picking up domain specific terms (e.g. drug names), get sentiment wrong, fail to understand UK specific abbreviations, or struggle with context due to regional differences.  These issues may not be obvious from surface testing.  This project would seek to build the first steps towards having a data set of United Kingdom focussed medical text sources for the purposes of training NLP models for the NHS.
+**Need:** Currently there is no large, open, representative UK based medical text database available.  When training NLP models on available datasets (e.g. MedMentions, MIMIC III or IV) issues can include: not picking up domain specific terms (e.g. drug names), get sentiment wrong, fail to understand UK specific abbreviations, or struggle with context due to regional differences.  These issues may not be obvious from surface testing.  This project would seek to build the first steps towards having a data set of United Kingdom focussed medical text sources for the purposes of training NLP models for the NHS.
 
 **Current Knowledge/Examples & Possible Techniques/Approaches:** Text Extraction, Processing and Curation, Task Definition, Evaluation and Benchmarking.  Uses of more recent work in synthetic medical text generation and open source NLP tools for metadata enrichment.
 
@@ -22,4 +23,4 @@ permalink: /nhs-language-corpus/
 
 **Datasets:** No specific dataset but project requires a variety of open health text data to be sourced e.g. NHS.net, clinical articles, data dictionary and metadata descriptions
 
-**Desired skill set:** When applying please highlight any experience around work with text data and specifically medical text data, natural language processing, tagging of text, coding experience (including any coding in the open), any other data science experience you feel relevant. 
+**Desired skill set:** When applying please highlight any experience around work with text data and specifically medical text data, natural language processing, tagging of text, coding experience (including any coding in the open), and any other data science experience you feel relevant. 
