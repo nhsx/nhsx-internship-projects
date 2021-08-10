@@ -19,10 +19,9 @@ A list of previous projects can be found here: https://saildatabank.com/wp-conte
 **Enables Future Work:** Any open demonstration of analysis of large linked datasets is of use to the NHS but more so the application of remote modelling.
 
 **Outcome/Learning Objectives:** 
-- Machine Learning on data
-- Pathway analysis on data
+Either:
+- Pathway analysis methodologies, or
 - Graph-based data representations
-- Modelling capabilities within SAIL
 
 **Datasets:** SAIL Databank Datasets
 

@@ -13,13 +13,13 @@ permalink: /commercial-data-healthcare-predictions/
 
 **Current Knowledge/Examples & Possible Techniques/Approaches:**  A procedure for model selection will be created with the criterion for this process to include the ability to gauge the importance of selected features. The focus will be on identifying the significance of features reliant on commercial data, and measuring the effects of this feature type on machine learning models for predicting deaths from respiratory disease. The intention is to use the new technique Model Class Reliance (MCR), which is able to identify when features “mask” or occlude one another, to measure feature (variable) importance.
 
-A [known current linear regression model](...) predicts national respiratory deaths over a five year period in England and Wales from 2010 to mid 2015. The model uses commercial sales data to predict weekly registered deaths from respiratory disease. The optimum performance of those models is produced using the sales data of key healthcare products 17 days in advance of predicted deaths.
+A known current linear regression model predicts national respiratory deaths over a five year period in England and Wales from 2010 to mid 2015. The model uses commercial sales data to predict weekly registered deaths from respiratory disease. The optimum performance of those models is produced using the sales data of key healthcare products 17 days in advance of predicted deaths.
 
 **Related Previous Internship Projects:** n/a
 
 **Enables Future Work:**  Learning from approaches taken and expected to be a good example of machine learning on linked datasets.
 
-**Outcome/Learning Objectives:**   A suite of models will be created using a dataset covering a 10 year period from 2010 to 2020 containing identified key healthcare products.  The models will investigate including other variables identified by previous studies, ongoing research in the [CIVIC project](...) and as advised by NHSX, as important in the estimation of respiratory deaths.
+**Outcome/Learning Objectives:**   A suite of models will be created using a dataset covering a 10 year period from 2010 to 2020 containing identified key healthcare products.  The models will investigate including other variables identified by previous studies, ongoing research in the [CIVIC project](https://proposals.epi.bristol.ac.uk/?q=node/130323) and as advised by NHSX, as important in the estimation of respiratory deaths.
 
 **Datasets:** 
 - UK commercial sales data 2010 to 2015
