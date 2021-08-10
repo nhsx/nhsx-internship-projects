@@ -1,2 +1,2 @@
 # nhsx-internship-projects
-Single repository containing the curent NHSX Internship Projects
+Single repository containing the current NHSX Internship Projects
