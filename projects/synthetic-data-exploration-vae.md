@@ -1,7 +1,7 @@
 ---
 remote_theme: nhsx/nhsx-io-theme
-title: Synthetic Data Exploration - VAE
-description: NHSX PhD Internship - Synthetic Data Exploration - VAE
+title: Synthetic Data Exploration - Variational AutoEncoder for Healthcare Data
+description: NHSX PhD Internship - Synthetic Data Exploration - Variational AutoEncoder for Healthcare Data
 permalink: /synthetic-data-exploration-vae/
 ---
 
