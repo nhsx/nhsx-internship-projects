@@ -26,4 +26,4 @@ A list of previous projects can be found here: [Sail-Previous-Projects](https://
 
 **Datasets:** SAIL Databank Datasets (Core-set)
 
-**Desired skill set:** When applying please highlight any experience around graph databases and representations, Grpah-NN, Multi-State models or Clustering Algorithms, coding experience (including any coding in the open), and any other data science experience you feel relevant.
+**Desired skill set:** When applying please highlight any experience around graph databases and representations, Graph-NN, Multi-State models or Clustering Algorithms, coding experience (including any coding in the open), and any other data science experience you feel relevant.
