@@ -1,8 +1,8 @@
 ---
 remote_theme: nhsx/nhsx-io-theme
 title: Transforming Healthcare Data with Graph Databases Using SAIL DataBank
-description: NHSX PhD Internship - Transforming Healthcare Data with Graph Databases Using SAIL DataBank
-permalink: /Transforming-Healthcare-Data-with-Graph-Databases-Using-SAIL-DataBank/
+description: NHSX PhD Internship - Transforming Healthcare Data with Graph-based Techniques Using SAIL DataBank
+permalink: /Transforming-Healthcare-Data-with-Graph-Based-Techniques-Using-SAIL-DataBank/
 ---
 
 # Graph 
