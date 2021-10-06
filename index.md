@@ -17,7 +17,7 @@ Below is a list of projects which are continually being added to. We welcome pro
 - [NHS GreenSpace](https://nhsx.github.io/nhsx-internship-projects/nhs-greenspace/)
 - [NHS Language Corpus](https://nhsx.github.io/nhsx-internship-projects/nhs-language-corpus/)
 - [NHS Semantic Search](https://nhsx.github.io/nhsx-internship-projects/nhs-semantic-search/)
-- [Predicting outcomes using SAIL Databank](https://nhsx.github.io/nhsx-internship-projects/sail-databank-outcomes-prediciton/)
+- [Transforming Healthcare Data with Graph-based Techniques Using SAIL DataBank](https://nhsx.github.io/nhsx-internship-projects/transforming-healthcare-data-graph-based-sail/)
 - [Predicting the Impact of Health Inequalities](https://nhsx.github.io/nhsx-internship-projects/population-health-and-inequalities/)
 - [Synthetic Data Exploration - Longitudinal](https://nhsx.github.io/nhsx-internship-projects/synthetic-data-exploration-longitudinal/)
 - [Synthetic Data Exploration - Probablistic Graphical Models](https://nhsx.github.io/nhsx-internship-projects/synthetic-data-exploration-probablistic-graphical-models/)
