@@ -19,6 +19,7 @@ Below is a list of projects which are continually being added to. We welcome pro
 - [NHS Semantic Search](https://nhsx.github.io/nhsx-internship-projects/nhs-semantic-search/)
 - [Transforming Healthcare Data with Graph-based Techniques Using SAIL DataBank](https://nhsx.github.io/nhsx-internship-projects/transforming-healthcare-data-graph-based-sail/)
 - [Predicting the Impact of Health Inequalities](https://nhsx.github.io/nhsx-internship-projects/population-health-and-inequalities/)
+- [Structural Topic Modelling on Contact Tracing Feedback Data](https://nhsx.github.io/nhsx-internship-projects/structural-topic-modelling-contact-tracing-feedback)
 - [Synthetic Data Exploration - Longitudinal](https://nhsx.github.io/nhsx-internship-projects/synthetic-data-exploration-longitudinal/)
 - [Synthetic Data Exploration - Probablistic Graphical Models](https://nhsx.github.io/nhsx-internship-projects/synthetic-data-exploration-probablistic-graphical-models/)
 - [Synthetic Data Exploration - Text](https://nhsx.github.io/nhsx-internship-projects/synthetic-data-exploration-text/)
