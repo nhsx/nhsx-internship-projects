@@ -13,6 +13,7 @@ Below is a list of projects which are continually being added to. We welcome pro
 - [Automated Text Descriptions from Imaging](https://nhsx.github.io/nhsx-internship-projects/text-description-imaging/)
 - [Building an NHS Agent Based Model in HashAi](https://nhsx.github.io/nhsx-internship-projects/agent-based-model-hash-ai/)
 - [Exploring Data Representations - Graph Neural Networks](https://nhsx.github.io/nhsx-internship-projects/exploring-data-representations-gnn/)
+- [Exploring large-scale language models with NHS incident data](https://nhsx.github.io/nhsx-internship-projects/incident-language-model/)
 - [Granular Mapping](https://nhsx.github.io/nhsx-internship-projects/granular-mapping/)
 - [NHS GreenSpace](https://nhsx.github.io/nhsx-internship-projects/nhs-greenspace/)
 - [NHS Language Corpus](https://nhsx.github.io/nhsx-internship-projects/nhs-language-corpus/)
