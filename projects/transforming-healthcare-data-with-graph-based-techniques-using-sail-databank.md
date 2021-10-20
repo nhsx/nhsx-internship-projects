@@ -5,7 +5,7 @@ description: NHSX PhD Internship - Transforming Healthcare Data with Graph-based
 permalink: /transforming-healthcare-data-graph-based-sail/
 ---
 
-# Graph 
+# Transforming Healthcare Data with Graph-based Techniques Using SAIL DataBank
 
 **Keywords:** Graph Structures, Data Representation, Hypergraphs
 
