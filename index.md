@@ -26,5 +26,6 @@ Below is a list of projects which are continually being added to. We welcome pro
 - [Synthetic Data Exploration - Text](https://nhsx.github.io/nhsx-internship-projects/synthetic-data-exploration-text/)
 - [Synthetic Data Exploration - Variational AutoEncoder for Healthcare Data](https://nhsx.github.io/nhsx-internship-projects/synthetic-data-exploration-vae/)
 - [Value of Commercial Product Sales Data in Healthcare Prediction](https://nhsx.github.io/nhsx-internship-projects/commercial-data-healthcare-predictions/)
+- [Explaining facial skin disease classification using LIME](https://nhsx.github.io/nhsx-internship-projects/explaining-classification-using-lime/)
 
 More information on the internship scheme can be found on the [NHSX internship scheme for innovation and analytics in health](https://www.nhsx.nhs.uk/key-tools-and-info/nhsx-analytics-unit/nhsx-internship-scheme-innovation-and-analytics-health/) website.
