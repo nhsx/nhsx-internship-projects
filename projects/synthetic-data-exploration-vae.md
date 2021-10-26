@@ -5,8 +5,6 @@ description: NHSX PhD Internship - Synthetic Data Exploration - Variational Auto
 permalink: /synthetic-data-exploration-vae/
 ---
 
-*Output update coming in September 2021*
-
 # Synthetic Data Exploration: 
 ## Variational AutoEncoder for Healthcare Data
 
@@ -16,7 +14,8 @@ permalink: /synthetic-data-exploration-vae/
 
 **Current Knowledge/Examples & Possible Techniques/Approaches:**  Colleagues in the NHSD data science and innovation team have created a VAE to create realistic Health data. 
 
-**Related Previous Internship Projects:** n/a as first year of the scheme.
+**Related Previous Internship Projects:** 
+- [SynthVAE](https://github.com/nhsx/SynthVAE) - Summer 2021
 
 **Enables Future Work:** Depending on recommendation from this piece, further projects may seek to use or build upon the model.
 
