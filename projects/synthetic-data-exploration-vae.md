@@ -24,3 +24,6 @@ permalink: /synthetic-data-exploration-vae/
 **Datasets:** Open transactional data with rare values to simulate basic structure of health activity data
 
 **Desired skill set:** When applying please highlight any experience around synthetic generation (especially variational autoencoders), differential privacy, coding experience (including any coding in the open), any other data science experience you feel relevant. 
+
+---
+Return to list of [all available projects](https://nhsx.github.io/nhsx-internship-projects/).

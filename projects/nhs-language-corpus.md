@@ -5,7 +5,7 @@ description: NHSX PhD Internship - NHS Language Corpus
 permalink: /nhs-language-corpus/
 ---
 
-*Output update coming in September 2021* 
+*Output update coming in early 2022* 
 
 # NHS Language Corpus
 
@@ -23,4 +23,7 @@ permalink: /nhs-language-corpus/
 
 **Datasets:** No specific dataset but project requires a variety of open health text data to be sourced e.g. NHS.net, clinical articles, data dictionary and metadata descriptions
 
-**Desired skill set:** When applying please highlight any experience around work with text data and specifically medical text data, natural language processing, tagging of text, coding experience (including any coding in the open), and any other data science experience you feel relevant. 
+**Desired skill set:** When applying please highlight any experience around work with text data and specifically medical text data, natural language processing, tagging of text, coding experience (including any coding in the open), and any other data science experience you feel relevant.
+
+---
+Return to list of [all available projects](https://nhsx.github.io/nhsx-internship-projects/).

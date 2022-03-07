@@ -25,3 +25,6 @@ permalink: /synthea-nhs-use-cases/
 **Datasets:** n/a
 
 **Desired skill set:**  When applying please highlight any experience around work with pathways or longitudinal data, software development, coding experience (including any coding in the open), and any other data science experience you feel relevant.
+
+---
+Return to list of [all available projects](https://nhsx.github.io/nhsx-internship-projects/).

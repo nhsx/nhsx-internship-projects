@@ -25,4 +25,7 @@ There are a few works on LIME used for skin cancer image explanation. For exampl
 
 **Datasets:** Open data such as <http://www.dermweb.com/photo_atlas/>; <https://nsufl.libguides.com/c.php?g=112152&p=724706>, or MIMIC-CXR.
 
-**Desired skill set:**  When applying please highlight any experience around image recognition, use of model-agnostic explainability, coding experience (including any coding in the open), any other data science experience you feel relevant. 
+**Desired skill set:**  When applying please highlight any experience around image recognition, use of model-agnostic explainability, coding experience (including any coding in the open), any other data science experience you feel relevant.
+
+---
+Return to list of [all available projects](https://nhsx.github.io/nhsx-internship-projects/).

@@ -22,3 +22,6 @@ permalink: /population-health-and-inequalities/
 **Datasets:** East Suffolk and North Essex Foundation Trust patient administration systems linked to other datasets from primary care (incl. community Integrated Diabetes Service) and open datasets such as indices of deprivation. Approx. 1.7 million patients on the system.
 
 **Desired skill set:** When applying please highlight any experience around informatics, statistical analysis, deep learning, coding experience, or any other data science experience you feel relevant.
+
+---
+Return to list of [all available projects](https://nhsx.github.io/nhsx-internship-projects/).

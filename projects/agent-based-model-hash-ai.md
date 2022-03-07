@@ -22,3 +22,6 @@ permalink: /agent-based-model-hash-ai/
 **Datasets:** n/a for development, but SUS and ECDS data for validation.
 
 **Desired skill set:**  When applying please highlight any experience around agent based simulations, coding experience (including any coding in the open), and any other data science experience you feel relevant.
+
+---
+Return to list of [all available projects](https://nhsx.github.io/nhsx-internship-projects/).

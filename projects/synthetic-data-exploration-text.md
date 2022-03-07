@@ -23,3 +23,6 @@ permalink: /synthetic-data-exploration-text/
 **Datasets:** Working with available medical text data such as MIMIC III (or IV) for training but would like to ensure that the training dataset can be updated to a UK specific one in the future (requires IG training prior to project start).
 
 **Desired skill set:** When applying please highlight any experience around work with text data and specifically medical text data, natural language processing, training and evaluating models, understanding of bias in text training data, privacy, coding experience (including any coding in the open), and any other data science experience you feel relevant. 
+
+---
+Return to list of [all available projects](https://nhsx.github.io/nhsx-internship-projects/).
