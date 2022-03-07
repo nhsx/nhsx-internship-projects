@@ -12,6 +12,7 @@ Below is a list of projects which are continually being added to. We welcome pro
 - [Augmenting Text Generation in Healthcare with Knowledge Retrieval Approaches](https://nhsx.github.io/nhsx-internship-projects/text-generation-knowledge-retreival/)
 - [Automated Text Descriptions from Imaging](https://nhsx.github.io/nhsx-internship-projects/text-description-imaging/)
 - [Building an NHS Agent Based Model in HashAi](https://nhsx.github.io/nhsx-internship-projects/agent-based-model-hash-ai/)
+- [Explaining facial skin disease classification using LIME](https://nhsx.github.io/nhsx-internship-projects/explaining-classification-using-lime/)
 - [Exploring Data Representations - Graph Neural Networks](https://nhsx.github.io/nhsx-internship-projects/exploring-data-representations-gnn/)
 - [Exploring large-scale language models with NHS incident data](https://nhsx.github.io/nhsx-internship-projects/incident-language-model/)
 - [Granular Mapping](https://nhsx.github.io/nhsx-internship-projects/granular-mapping/)
@@ -26,6 +27,5 @@ Below is a list of projects which are continually being added to. We welcome pro
 - [Synthetic Data Exploration - Text](https://nhsx.github.io/nhsx-internship-projects/synthetic-data-exploration-text/)
 - [Synthetic Data Exploration - Variational AutoEncoder for Healthcare Data](https://nhsx.github.io/nhsx-internship-projects/synthetic-data-exploration-vae/)
 - [Value of Commercial Product Sales Data in Healthcare Prediction](https://nhsx.github.io/nhsx-internship-projects/commercial-data-healthcare-predictions/)
-- [Explaining facial skin disease classification using LIME](https://nhsx.github.io/nhsx-internship-projects/explaining-classification-using-lime/)
 
 More information on the internship scheme can be found on the [NHSX internship scheme for innovation and analytics in health](https://www.nhsx.nhs.uk/key-tools-and-info/nhsx-analytics-unit/nhsx-internship-scheme-innovation-and-analytics-health/) website.
