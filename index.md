@@ -6,9 +6,9 @@ permalink: /
 
 # Current projects available as internships
 
-Below is a list of projects which are continually being added to. We welcome project proposals from both prospective students and interested organisations.  Please contact [analytics-unit@nhsx.nhs.uk](analytics-unit@nhsx.nhs.uk) with any queries.
+Below is a list of internship projects which are continually being added to. We welcome project proposals from both prospective students and interested organisations.  Please contact [analytics-unit@nhsx.nhs.uk](analytics-unit@nhsx.nhs.uk) with any queries.
 
-## Newly proposed and open projects
+## Newly Proposed and Open Projects
 
 - [Adapting Synthea for NHS Use Cases](https://nhsx.github.io/nhsx-internship-projects/synthea-nhs-use-cases/)
 - [Augmenting Text Generation in Healthcare with Knowledge Retrieval Approaches](https://nhsx.github.io/nhsx-internship-projects/text-generation-knowledge-retreival/)
@@ -24,15 +24,15 @@ Below is a list of projects which are continually being added to. We welcome pro
 - [Automated Text Descriptions from Imaging](https://nhsx.github.io/nhsx-internship-projects/text-description-imaging/)
 - [Exploring large-scale language models with NHS incident data](https://nhsx.github.io/nhsx-internship-projects/incident-language-model/)
 - [NHS Language Corpus](https://nhsx.github.io/nhsx-internship-projects/nhs-language-corpus/)
-- [Predicting the Impact of Health Inequalities](https://nhsx.github.io/nhsx-internship-projects/population-health-and-inequalities/)
 - [Structural Topic Modelling on Contact Tracing Feedback Data](https://nhsx.github.io/nhsx-internship-projects/structural-topic-modelling-contact-tracing-feedback)
 - [Synthetic Data Exploration - Longitudinal](https://nhsx.github.io/nhsx-internship-projects/synthetic-data-exploration-longitudinal/)
 - [Synthetic Data Exploration - Variational AutoEncoder for Healthcare Data](https://nhsx.github.io/nhsx-internship-projects/synthetic-data-exploration-vae/)
 - [Transforming Healthcare Data with Graph-based Techniques Using SAIL DataBank](https://nhsx.github.io/nhsx-internship-projects/transforming-healthcare-data-graph-based-sail/)
+
+## Closed Projects
+
+- [Predicting the Impact of Health Inequalities](https://nhsx.github.io/nhsx-internship-projects/population-health-and-inequalities/)
 - [Value of Commercial Product Sales Data in Healthcare Prediction](https://nhsx.github.io/nhsx-internship-projects/commercial-data-healthcare-predictions/)
-
-## Completed Projects
-
 
 ## Archived Projects
 *Ideas we’ve decided not to take forwards*
