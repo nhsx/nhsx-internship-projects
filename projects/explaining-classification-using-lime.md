@@ -23,6 +23,6 @@ There are a few works on LIME used for skin cancer image explanation. For exampl
 
 **Outcome/Learning Objectives:** Use of [Google Inception v3](https://cloud.google.com/tpu/docs/inception-v3-advanced) as a base model for classifying facial skin conditions and then apply LIME as a surrogate model for explaining the predicted output.    
 
-**Datasets:** Open data such as http://www.dermweb.com/photo_atlas/; https://nsufl.libguides.com/c.php?g=112152&p=724706 or MIMIC-CXR
+**Datasets:** Open data such as <http://www.dermweb.com/photo_atlas/>; <https://nsufl.libguides.com/c.php?g=112152&p=724706>, or MIMIC-CXR.
 
 **Desired skill set:**  When applying please highlight any experience around image recognition, use of model-agnostic explainability, coding experience (including any coding in the open), any other data science experience you feel relevant. 
