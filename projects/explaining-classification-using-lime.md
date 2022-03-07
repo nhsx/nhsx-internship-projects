@@ -9,7 +9,7 @@ permalink: /explaining-classification-using-lime/
 
 **Keywords:**  Machine Learning, Explainability, Classification, Image Recognition
 
-**Need:**  Skin diseases are currently ranked as the fourth leading cause of nonfatal diseases worldwide with a significant treatment burden.  Skin disease classification has been previously suggested as a comparable screening mechanism for skin cancers to current manual practice.  Deep learning algorithms often appear as black-box and lack the explainability required to use them in a clinical setting.  This project would seek to investigate applying a classification algorithm to skin-disease images and then demonstrating the use of LIME as an explainability tool. 
+**Need:**  Skin diseases are currently ranked as the fourth leading cause of non-fatal diseases worldwide with a significant treatment burden.  Skin disease classification has been previously suggested as a comparable screening mechanism for skin cancers to current manual practice.  Deep learning algorithms often appear as black-box and lack the explainability required to use them in a clinical setting.  This project would seek to investigate applying a classification algorithm to skin-disease images and then demonstrating the use of LIME as an explainability tool. 
 
 **Current Knowledge/Examples & Possible Techniques/Approaches:** In May 2021, Google announced an [AI-powered dermatology tool](https://blog.google/technology/health/ai-dermatology-preview-io-2021/) ([paper here](https://www.nature.com/articles/s41591-020-0842-3?proof=tr)) built on a knowledge base of 288 skin conditions which can analyse a variety of skin conditions.  The system is developed as a web-based application which enables a camera to take an image and then provides possible matching conditions of the diseases with further information. 
 
@@ -21,7 +21,7 @@ There are a few works on LIME used for skin cancer image explanation. For exampl
 
 **Enables Future Work:** Demonstration of applying model-agnostic explainability in a healthcare context.
 
-**Outcome/Learning Objectives:** Use of Google Inception v3 as a base model for classifying facial skin conditions and then apply LIME as a surrogate model for explaining the predicted output.    
+**Outcome/Learning Objectives:** Use of [Google Inception v3](https://cloud.google.com/tpu/docs/inception-v3-advanced) as a base model for classifying facial skin conditions and then apply LIME as a surrogate model for explaining the predicted output.    
 
 **Datasets:** Open data such as http://www.dermweb.com/photo_atlas/; https://nsufl.libguides.com/c.php?g=112152&p=724706 or MIMIC-CXR
 
