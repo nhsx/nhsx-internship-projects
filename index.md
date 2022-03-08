@@ -6,14 +6,13 @@ permalink: /
 
 # Current projects available as internships
 
-Below is a list of internship projects which are continually being added to. We welcome project proposals from both prospective students and interested organisations.  Please contact [analytics-unit@nhsx.nhs.uk](analytics-unit@nhsx.nhs.uk) with any queries.
+Below is a list of internship projects which are continually being added to. We also welcome project proposals from both prospective students and interested organisations.  Please contact [analytics-unit@nhsx.nhs.uk](analytics-unit@nhsx.nhs.uk) with any queries.
 
 ## Newly Proposed and Open Projects
 
 - [Adapting Synthea for NHS Use Cases](https://nhsx.github.io/nhsx-internship-projects/synthea-nhs-use-cases/)
 - [Augmenting Text Generation in Healthcare with Knowledge Retrieval Approaches](https://nhsx.github.io/nhsx-internship-projects/text-generation-knowledge-retreival/)
 - [Building an NHS Agent Based Model in HashAi](https://nhsx.github.io/nhsx-internship-projects/agent-based-model-hash-ai/)
-- [Explaining facial skin disease classification using LIME](https://nhsx.github.io/nhsx-internship-projects/explaining-classification-using-lime/)
 - [Exploring Data Representations - Graph Neural Networks](https://nhsx.github.io/nhsx-internship-projects/exploring-data-representations-gnn/)
 - [NHS Semantic Search](https://nhsx.github.io/nhsx-internship-projects/nhs-semantic-search/)
 - [Synthetic Data Exploration - Probablistic Graphical Models](https://nhsx.github.io/nhsx-internship-projects/synthetic-data-exploration-probablistic-graphical-models/)
@@ -22,6 +21,7 @@ Below is a list of internship projects which are continually being added to. We 
 *Developed but still open projects*
 
 - [Automated Text Descriptions from Imaging](https://nhsx.github.io/nhsx-internship-projects/text-description-imaging/)
+- [Explaining facial skin disease classification using LIME](https://nhsx.github.io/nhsx-internship-projects/explaining-classification-using-lime/)
 - [Exploring large-scale language models with NHS incident data](https://nhsx.github.io/nhsx-internship-projects/incident-language-model/)
 - [NHS Language Corpus](https://nhsx.github.io/nhsx-internship-projects/nhs-language-corpus/)
 - [Structural Topic Modelling on Contact Tracing Feedback Data](https://nhsx.github.io/nhsx-internship-projects/structural-topic-modelling-contact-tracing-feedback)
