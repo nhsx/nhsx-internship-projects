@@ -17,6 +17,7 @@ Below is a list of internship projects which are continually being added to. We 
 - [NHS Semantic Search](https://nhsx.github.io/nhsx-internship-projects/nhs-semantic-search/)
 - [Synthetic Data Exploration - Probablistic Graphical Models](https://nhsx.github.io/nhsx-internship-projects/synthetic-data-exploration-probablistic-graphical-models/)
 - [Synthetic Data Exploration - Text](https://nhsx.github.io/nhsx-internship-projects/synthetic-data-exploration-text/)
+
 ## Ongoing Projects
 *Developed but still open projects*
 
