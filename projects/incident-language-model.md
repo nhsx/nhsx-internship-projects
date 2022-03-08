@@ -22,3 +22,6 @@ permalink: /incident-language-model/
 **Datasets:** The National Reporting and Learning (NRLS) system - the national repository of NHS Incident reporting data, holding over 15 years of NHS data.
 
 **Desired skill set:** When applying please highlight any experience around work with text data and specifically medical text data, natural language processing, embeddings, coding experience (including any coding in the open), and any other data science experience you feel relevant.
+
+---
+Return to list of [all available projects](https://nhsx.github.io/nhsx-internship-projects/).

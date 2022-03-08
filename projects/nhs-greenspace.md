@@ -22,3 +22,6 @@ permalink: /nhs-greenspace/
 **Datasets:** OS satellite images.  NHS premise postcodes from NHS-D ODS.
 
 **Desired skill set:** When applying please highlight any experience around work with imaging data, computer vision and semantic segmentation, training and evaluating models, understanding of bias in training data, coding experience (including any coding in the open), any other data science experience you feel relevant.
+
+---
+Return to list of [all available projects](https://nhsx.github.io/nhsx-internship-projects/).

@@ -27,3 +27,6 @@ Based on this preliminary work, the team hope to extend the capabilities of the 
 **Datasets:** CTAS feedback free-text responses, possibly alternative public health datasets.
 
 **Desired skill set:** When applying please highlight any experience around natural language processing, machine learning, user experience data, responsive interfaces for data presentation, coding experience, or any other data science experience you feel relevant.
+
+---
+Return to list of [all available projects](https://nhsx.github.io/nhsx-internship-projects/).

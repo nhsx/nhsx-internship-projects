@@ -24,3 +24,6 @@ permalink: /synthetic-data-exploration-longitudinal/
 **Datasets:** n/a
 
 **Desired skill set:** When applying please highlight any experience around work with synthetic generation, probability & graph models, Agent Based modelling, coding experience (including any coding in the open), any other data science experience you feel relevant.
+
+---
+Return to list of [all available projects](https://nhsx.github.io/nhsx-internship-projects/).

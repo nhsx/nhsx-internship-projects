@@ -34,3 +34,6 @@ A known current linear regression model predicts national respiratory deaths ove
 - (Potential if useful) EPD Prescribing Data from NHS.  Only available from 2014 - 2020. Monthly prescription data by healthcare practice (can be aggregated to region)
 
 **Desired skill set:**  Note: this project depends upon access to a specific commercial data source and has been developed in conjunction with the Nottingham University Business School.
+
+---
+Return to list of [all available projects](https://nhsx.github.io/nhsx-internship-projects/).

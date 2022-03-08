@@ -22,3 +22,6 @@ permalink: /text-description-imaging/
 **Datasets:** Suitable multi-modal healthcare datasets such as MIMIC-CXR.
 
 **Desired skill set:** When applying please highlight any experience around work with imaging or text data and specifically medical imaging data, tagging, explainability in ML, coding experience (including any coding in the open), and any other data science experience you feel relevant.
+
+---
+Return to list of [all available projects](https://nhsx.github.io/nhsx-internship-projects/).

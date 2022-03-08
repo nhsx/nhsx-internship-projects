@@ -22,4 +22,7 @@ permalink: /exploring-data-representations-gnn/
 
 **Datasets:** Open healthcare datasets with relevant structures with a view to extend to other datasets if successful.  
 
-**Desired skill set:** When applying please highlight any experience around informatics, graph structures, deep learning, coding experience (including any coding in the open), and any other data science experience you feel relevant. 
+**Desired skill set:** When applying please highlight any experience around informatics, graph structures, deep learning, coding experience (including any coding in the open), and any other data science experience you feel relevant.
+
+---
+Return to list of [all available projects](https://nhsx.github.io/nhsx-internship-projects/).

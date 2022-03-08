@@ -25,4 +25,7 @@ permalink: /text-generation-knowledge-retreival/
 
 **Datasets:** There are various open healthcare text datasets and knowledge bases which could be explored
 
-**Desired skill set:**  When applying please highlight any experience around informatics, natural language processing, language modelling, neural networks, coding experience (including any coding in the open), any other data science experience you feel relevant.  
+**Desired skill set:**  When applying please highlight any experience around informatics, natural language processing, language modelling, neural networks, coding experience (including any coding in the open), any other data science experience you feel relevant.
+
+---
+Return to list of [all available projects](https://nhsx.github.io/nhsx-internship-projects/).

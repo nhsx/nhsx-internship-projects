@@ -22,3 +22,6 @@ permalink: /nhs-semantic-search/
 **Datasets:** Publicly available data as application is to search promotional materials across the web for projects relating to healthcare innovation.
 
 **Desired skill set:** When applying please highlight any experience around work with text data and specifically medical text data, natural language processing, searching/trawling, coding experience (including any coding in the open), and any other data science experience you feel relevant. 
+
+---
+Return to list of [all available projects](https://nhsx.github.io/nhsx-internship-projects/).

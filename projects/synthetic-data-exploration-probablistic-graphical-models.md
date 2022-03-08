@@ -23,3 +23,6 @@ permalink: /synthetic-data-exploration-probablistic-graphical-models/
 **Datasets:** tbd dependent on ambition of output
 
 **Desired skill set:** When applying please highlight any experience around synthetic data generation, graph structures, bayesian networks or similar, coding experience (including any coding in the open), any other data science experience you feel relevant. 
+
+---
+Return to list of [all available projects](https://nhsx.github.io/nhsx-internship-projects/).
