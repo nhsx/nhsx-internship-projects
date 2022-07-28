@@ -10,6 +10,10 @@ Below is a list of internship projects which are continually being added to. We 
 
 ## Newly Proposed and Open Projects
 
+- [Automated Text Descriptions from Imaging - Extension (See Ongoing Projects below)]()
+![area](https://img.shields.io/badge/NLP-yellow)
+![technique](https://img.shields.io/badge/SematicExplainability-lightgrey)
+![datamodality](https://img.shields.io/badge/MultiModal-blueviolet)
 - [Causal Models to Generate Synthetic Longitudinal Data](https://nhsx.github.io/nhsx-internship-projects/synthetic-data-exploration-text/)
 ![area](https://img.shields.io/badge/Synthetic-brightgreen)
 ![technique](https://img.shields.io/badge/DAGs-lightgrey)
@@ -22,6 +26,10 @@ Below is a list of internship projects which are continually being added to. We 
 ![area](https://img.shields.io/badge/Graphs-yellowgreen)
 ![technique](https://img.shields.io/badge/GNNs-lightgrey)
 ![datamodality](https://img.shields.io/badge/MultiModal-blueviolet)
+- [Exploring large-scale language models with NHS incident data - Extension (See Ongoing Projects below)]()
+![area](https://img.shields.io/badge/NLP-yellow)
+![technique](https://img.shields.io/badge/Embeddings-lightgrey)
+![datamodality](https://img.shields.io/badge/TextData-9cf)
 - [Fairness in Healthcare Data and Models](https://nhsx.github.io/nhsx-internship-projects/HERE/)
 ![area](https://img.shields.io/badge/Explainability-orange)
 ![technique](https://img.shields.io/badge/Equity-lightgrey)
@@ -65,6 +73,10 @@ Below is a list of internship projects which are continually being added to. We 
 - [SynthVAE - Extension](https://nhsx.github.io/nhsx-internship-projects/HERE/)
 ![area](https://img.shields.io/badge/Synthetic-brightgreen)
 ![technique](https://img.shields.io/badge/VaratioanlAutoEncoder-lightgrey)
+![datamodality](https://img.shields.io/badge/TabularData-green)
+- [Transforming Healthcare Data with Graph-based Techniques Using SAIL DataBank - Extension (See Ongoing Projects below)]()
+![area](https://img.shields.io/badge/Graphs-yellowgreen)
+![technique](https://img.shields.io/badge/Hypergraphs-lightgrey)
 ![datamodality](https://img.shields.io/badge/TabularData-green)
 
 
