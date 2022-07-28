@@ -103,6 +103,7 @@ Below is a list of internship projects which are continually being added to. We 
 ## Areas of Future Interest
 *We are currently thinking of looking at projects in these topics.  Please get in touch if you have related interests*
 
+- Exploration of value data science techniques can add to healthcare when applied to large datasets
 - Field Programmable Gate Arrays (FPGAs) for Agent Based Modelling efficiency
 - Retrieval Approaches
 
