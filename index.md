@@ -72,7 +72,7 @@ Below is a list of internship projects which are continually being added to. We 
 ![datamodality](https://img.shields.io/badge/TextData-9cf)
 - [SynthVAE - Extension](https://nhsx.github.io/nhsx-internship-projects/HERE/)
 ![area](https://img.shields.io/badge/Synthetic-brightgreen)
-![technique](https://img.shields.io/badge/VaratioanlAutoEncoder-lightgrey)
+![technique](https://img.shields.io/badge/VAE-lightgrey)
 ![datamodality](https://img.shields.io/badge/TabularData-green)
 - [Transforming Healthcare Data with Graph-based Techniques Using SAIL DataBank - Extension (See Ongoing Projects below)]()
 ![area](https://img.shields.io/badge/Graphs-yellowgreen)
