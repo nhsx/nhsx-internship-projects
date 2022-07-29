@@ -1,5 +1,5 @@
 ---
-remote_theme: nhsx/nhsx-io-theme
+remote_theme: nhsx/nhs-io-theme
 title: Synthetic Data Exploration - Text
 description: NHSX PhD Internship - Synthetic Data Exploration - Text
 permalink: /synthetic-data-exploration-text/
@@ -8,7 +8,7 @@ permalink: /synthetic-data-exploration-text/
 # Synthetic Data Exploration: 
 ## Text
 
-**Keywords:** Synthetic, Natural Language Processing, Healthcare Text
+**Keywords:** NLP, SyntehticGeneration, TextData
 
 **Need:**  Text data in the NHS is vastly underused due to issues around appropriate access and the subtleties when analysing free text.  Providing generated synthetic medical text in various realistic formats would enable greater opportunity to identify potential, and develop innovation.  This project would seek to build a methodology for creating publicly available synthetically generated medical free text such as notes and patient letters for developers of healthcare software and apps.  The project would also look to consider the ability of such sources to maintain appropriate privacy (where this is a key consideration) and understand the balance this has with utility and quality of the resulting texts.   
 

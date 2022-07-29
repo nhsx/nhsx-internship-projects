@@ -1,5 +1,5 @@
 ---
-remote_theme: nhsx/nhsx-io-theme
+remote_theme: nhsx/nhs-io-theme
 title: Synthetic Data Exploration - Variational AutoEncoder for Healthcare Data
 description: NHSX PhD Internship - Synthetic Data Exploration - Variational AutoEncoder for Healthcare Data
 permalink: /synthetic-data-exploration-vae/
@@ -8,7 +8,7 @@ permalink: /synthetic-data-exploration-vae/
 # Synthetic Data Exploration: 
 ## Variational AutoEncoder for Healthcare Data
 
-**Keywords:** Synthetic, Variational AutoEncoder
+**Keywords:** Synthetic, VAE, TabularData
 
 **Need:** Creating high-fidelity realistic health data is not only complex but comes with multiple information governance considerations.  A particularly promising technique for creating realistic synthetic data is the variational autoencoder (VAE).  However, current attempts to use VAEs have struggled to put the models into practice as the confidence around appropriate usage and privacy of the ground truth data has not been sufficient.  This project would seek to use a currently developed VAE to investigate and discuss its potential when implementing for healthcare data.  
 
