@@ -1,6 +1,6 @@
 ---
 title: Project List
-description: NHSX PhD Internship
+description: NHS England PhD Internship
 permalink: /
 ---
 
