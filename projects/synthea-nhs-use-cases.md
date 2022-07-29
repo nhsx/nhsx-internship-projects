@@ -1,26 +1,26 @@
 ---
-remote_theme: nhsx/nhsx-io-theme
+remote_theme: nhsx/nhs-io-theme
 title: Adapting Synthea for NHS Use Cases
 description: NHSX PhD Internship - Adapting Synthea for NHS Use Cases
 permalink: /synthea-nhs-use-cases/
 ---
 
-# Adapting Synthea for NHS Use Cases
+# Optimisation/Learning algorithms on patient pathway
 
-**Keywords:**  Synthetic Data, Pathways
+**Keywords:**  Synthetic, QLearning, TabularData
 
-**Need:**  The development of robust pathway analysis would enable a whole host of insights into patient experience and impact of interventions across the NHS.  Synthea<sup>TM</sup> is an open-source, synthetic patient generator that models the medical history of synthetic US patients.  This tool has the potential to support the generation of realistic synthetic patient pathways in the NHS, enabling the development of pathway analysis as well as being a rich source of test data, and a place to share clinical pathways.   This project would seek to demonstrate how Synthea can be calibrated and auto-tuned to produce NHS pathways.
+**Need:**  The development of robust pathway analysis would enable a whole host of insights into patient experience and impact of interventions across the NHS.  Synthea<sup>TM</sup> is an open-source, synthetic patient generator that models the medical history of synthetic US patients.  Using the Synthea pathways as a starting point, this project would seek to demonstrate the potential for learning algorithms to be applied to a pathway to show how the impact of a pathway change could be modelled across multiple criteria.  
 
-**Current Knowledge/Examples & Possible Techniques/Approaches:**  Details of Synthea can be found on their Github and io site: [Synthea by the Standard Health Record Collaborative](https://synthetichealth.github.io/synthea/).  The MITRE team have started to address the issue of localization of Synthea for [other areas](https://github.com/synthetichealth/synthea/wiki/Other-Areas) and in particular have created a [worked example for Shropshire](https://github.com/synthetichealth/synthea-international/blob/master/example/example.md) as a demonstration of potential.
+**Current Knowledge/Examples & Possible Techniques/Approaches:**  Details of Synthea can be found on their Github and io site: [Synthea by the Standard Health Record Collaborative](https://synthetichealth.github.io/synthea/).  The MITRE team have started to address the issue of localization of Synthea for [other areas](https://github.com/synthetichealth/synthea/wiki/Other-Areas) and in particular have created a [worked example for Shropshire](https://github.com/synthetichealth/synthea-international/blob/master/example/example.md) as a demonstration of potential.  One of our previous projects investigated different learning algorithms for pathway analysis including stochastic gradient descent, reinforcement learning (q-learning), monte carlo tree search and A* search.  
 
-**Related Previous Internship Projects:**  [SynPath](https://github.com/nhsx/SynPath), [Longitudinal synthetic data generation](https://nhsx.github.io/nhsx-internship-projects/synthetic-data-exploration-longitudinal/)
+**Related Previous Internship Projects:**  [SynPath_Diabetes](https://github.com/nhsx/SynPath_Diabetes)
 
-**Enables Future Work:**  Demonstration of the suitability of Synthea in the UK would support sharing of clinical pathways and the development of pathway analysis including impact assessment of potential interventions.
+**Enables Future Work:**  Pathway analysis, use of synthea, generation of agent-based simulations with learning for healthcare 
 
 **Outcome/Learning Objectives:**
 - Assessment and alignment of Synthea to UK use
-- Auto-Tuning Algorithm
-- Use of Synthea pathways in pathway impact analysis 
+- Demonstration of the opportunity for learning algorithms to optimise pathways and calculate the impact of policy changes on pathways.
+- (Extension) Auto-Tuning Algorithm
 
 **Datasets:** n/a
 

@@ -1,11 +1,11 @@
 ---
 remote_theme: nhsx/nhs-io-theme
-title: Building an NHS Agent Based Model in HASH
-description: NHSX PhD Internship - Building an NHS Agent Based Model in HASH
-permalink: /agent-based-model-hash-ai/
+title: Causal Models to Generate Longitudinal Data
+description: NHSX PhD Internship - Causal Models to Generate Longitudinal Data
+permalink: /causal-models-synthetic-longitudinal/
 ---
 
-# Building an NHS Agent Based Model in HASH
+# Causal Models to Generate Longitudinal Data
 
 **Keywords:**  Simulaiton, ABM, TabularData
 

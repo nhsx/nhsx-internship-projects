@@ -1,5 +1,5 @@
 ---
-remote_theme: nhsx/nhsx-io-theme
+remote_theme: nhsx/nhs-io-theme
 title: Exploring large-scale language models with NHS incident data
 description: NHSX PhD Internship - Incident Language Model
 permalink: /incident-language-model/
@@ -7,7 +7,7 @@ permalink: /incident-language-model/
 
 # Exploring large-scale language models with NHS incident data
 
-**Keywords:** Natural Language Processing, Healthcare Text Dataset, Embeddings, Clustering, Neural Networks
+**Keywords:** NLP, Embeddings, TextData
 
 **Need:** NHS England and NHS Improvement collect a national repository of incident reporting data for England and Wales.  These data are used to detect emerging patient safety incidents and drive learning that improves patient safety.  Although there are some categorical data fields, the real 'signals' in these data are within free-text field.  Clinically experienced teams review the most serious events, and emerging themes, but the scale of the dataset means that only a few percent can receive a full review.  Natural Language Processing (NLP) techniques have the potential to unlock learning from data that do not receive a full clinical review.  The dataset is currently being used for topic modelling and other analyses, but a large scale language model is not yet in use.  The creation of an appropriate language model will allow the use of clustering and other methods to identify novel targets for clinical review.  This project would seek to build the first stages of a language model by constructing different representations of text to find preferred models.
 

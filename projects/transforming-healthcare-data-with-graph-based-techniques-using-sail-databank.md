@@ -1,5 +1,5 @@
 ---
-remote_theme: nhsx/nhsx-io-theme
+remote_theme: nhsx/nhs-io-theme
 title: Transforming Healthcare Data with Graph-based Techniques Using SAIL DataBank
 description: NHSX PhD Internship - Transforming Healthcare Data with Graph-based Techniques Using SAIL DataBank
 permalink: /transforming-healthcare-data-graph-based-sail/
@@ -7,7 +7,7 @@ permalink: /transforming-healthcare-data-graph-based-sail/
 
 # Transforming Healthcare Data with Graph-based Techniques Using SAIL DataBank
 
-**Keywords:** Graph Structures, Data Representation, Hypergraphs
+**Keywords:** Graphs, Hypergraphs, TabularData
 
 **Need:** The collections of linked health datasets into a single research environment creates a number of large opportunities for insight and analysis.  Whilst anonymised extracts from these environments have great value, there is an even larger opportunity to develop methods of deploying modelling to the data remotely.  [The SAIL Databank - The Secure Anonymised Information Linkage Databank](https://saildatabank.com/) provides anonymised person-based data for research powered by the Secure e-Research Platform.  
 

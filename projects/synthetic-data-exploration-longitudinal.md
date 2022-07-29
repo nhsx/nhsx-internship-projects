@@ -1,5 +1,5 @@
 ---
-remote_theme: nhsx/nhsx-io-theme
+remote_theme: nhsx/nhs-io-theme
 title: Synthetic Data Exploration - Longitudinal
 description: NHSX PhD Internship - Synthetic Data Exploration - Longitudinal
 permalink: /synthetic-data-exploration-longitudinal/
@@ -8,7 +8,7 @@ permalink: /synthetic-data-exploration-longitudinal/
 # Synthetic Data Exploration: 
 ## Longitudinal
 
-**Keywords:** Synthetic, Patient Pathways
+**Keywords:** Synthetic, Simulation, TabularData
 
 **Need:** The ability to analyse and build tools to support patient pathways is low, often due to data access.  Creating synthetic patient pathways would be one way to resolve the access issue, at least for use where the fidelity of the data can be low.  The field of synthetic longitudinal data is complicated due to the time element making identifiability much higher than simple transactional data, as well as requiring the models to deal with a higher order of freedom.  This project would seek to investigate the generation of synthetic patient pathways or other longitudinal data using agent based simulations or alternative methods. 
 

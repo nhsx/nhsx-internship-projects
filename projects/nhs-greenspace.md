@@ -1,5 +1,5 @@
 ---
-remote_theme: nhsx/nhsx-io-theme
+remote_theme: nhsx/nhs-io-theme
 title: NHS GreenSpace
 description: NHSX PhD Internship - NHS GreenSpace
 permalink: /nhs-greenspace/
@@ -7,7 +7,7 @@ permalink: /nhs-greenspace/
 
 # NHS GreenSpace
 
-**Keywords:** Images, Computer Vision, Image Recognition, Semantic Segmentation
+**Keywords:** ImageSegmentation, Images
 
 **Need:** Understanding the carbon footprint of the NHS includes, amongst other things, knowing the land usage of NHS sites and any opportunity for carbon offset through increasing green space.  This project seeks to demonstrate that using satellite images we can identify green space on NHS premises versus other terrain types.  
 
