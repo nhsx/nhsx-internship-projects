@@ -19,8 +19,8 @@ This project looks to explore recent approaches in guiding text generation, such
 Utilising and building on recent work in the area of generating synthetic medical text e.g.
 - [[2205.14217] Diffusion-LM Improves Controllable Text Generation](https://arxiv.org/abs/2205.14217)
 - [[1912.02164] Plug and Play Language Models: A Simple Approach to Controlled Text Generation](https://arxiv.org/abs/1912.02164)
-- [Controllable Neural Text Generation | Lil'Log](https://lilianweng.github.io/posts/2021-01-02-controllable-text-generation/)
-- [Generation and evaluation of artificial mental health records for Natural Language Processing | npj Digital Medicine](https://www.nature.com/articles/s41746-020-0267-x)
+- [Controllable Neural Text Generation - Lil'Log](https://lilianweng.github.io/posts/2021-01-02-controllable-text-generation/)
+- [Generation and evaluation of artificial mental health records for Natural Language Processing - npj Digital Medicine](https://www.nature.com/articles/s41746-020-0267-x)
 - [Exploring Transformer Text Generation for Medical Dataset Augmentation](https://www.aclweb.org/anthology/2020.lrec-1.578.pdf)
 
 **Related Previous Internship Projects:** <https://nhsx.github.io/nhsx-internship-projects/incident-language-model/>
