@@ -1,5 +1,5 @@
 # nhsx-internship-projects
-A single repository containing the current NHSX Internship Projects
+A single repository containing the current NHS England Internship Projects
 
 Individual project descriptions can be found in the `projects` folder
 
