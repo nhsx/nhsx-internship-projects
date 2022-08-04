@@ -37,7 +37,7 @@ Below is a list of internship projects which are continually being updated and a
 ![datamodality](https://img.shields.io/badge/TabularData-green) &nbsp; [Optimisation and Learning Algorithms on Patient Pathways](https://nhsx.github.io/nhsx-internship-projects/synthea-learning/)
 - ![area](https://img.shields.io/badge/PETs-red)
 ![technique](https://img.shields.io/badge/HomomorphicEncryption-lightgrey)
-![datamodality](https://img.shields.io/badge/TabularData-green) &nbsp; [PETs in Healthcare](https://nhsx.github.io/nhsx-internship-projects/pets-in-healthcare/)
+![datamodality](https://img.shields.io/badge/TabularData-green) &nbsp; [Applied Privacy Enhancing Technologies in Healthcare](https://nhsx.github.io/nhsx-internship-projects/pets-in-healthcare/)
 - ![area](https://img.shields.io/badge/NLP-yellow)
 ![technique](https://img.shields.io/badge/STM-lightgrey)
 ![datamodality](https://img.shields.io/badge/TextData-9cf) &nbsp; [Structural Topic Models and Sentiment Model Robustness - Next Steps](https://nhsx.github.io/nhsx-internship-projects/stm-sentiment-robustness/)
