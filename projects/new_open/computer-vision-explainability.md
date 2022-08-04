@@ -1,5 +1,5 @@
 ---
-remote_theme: nhsx/nhs-io-theme
+remote_theme: nhsx/nhsx-io-theme
 title: AI Safety in Healthcare - Computer Vision Explainability
 description: NHS England PhD Internship - AI Safety in Healthcare - Computer Vision Explainability
 permalink: /computer-vision-explainability/

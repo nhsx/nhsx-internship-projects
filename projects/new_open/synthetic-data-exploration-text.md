@@ -1,5 +1,5 @@
 ---
-remote_theme: nhsx/nhs-io-theme
+remote_theme: nhsx/nhsx-io-theme
 title: Synthetic Text Generation in Healthcare
 description: NHS England PhD Internship - Synthetic Text Generation in Healthcare
 permalink: /synthetic-data-exploration-text/

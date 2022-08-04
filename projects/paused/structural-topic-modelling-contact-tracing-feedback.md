@@ -1,5 +1,5 @@
 ---
-remote_theme: nhsx/nhs-io-theme
+remote_theme: nhsx/nhsx-io-theme
 title: Structural Topic Modelling on Contact Tracing Feedback Data
 description: NHS England PhD Internship - Structural Topic Modelling on Contact Tracing Feedback Data
 permalink: /structural-topic-modelling-contact-tracing-feedback/

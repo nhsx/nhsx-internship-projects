@@ -1,5 +1,5 @@
 ---
-remote_theme: nhsx/nhs-io-theme
+remote_theme: nhsx/nhsx-io-theme
 title: Explaining facial skin disease classification using LIME
 description: NHS England PhD Internship - Explaining facial skin disease classification using LIME
 permalink: /explaining-classification-using-lime/

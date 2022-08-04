@@ -1,5 +1,5 @@
 ---
-remote_theme: nhsx/nhs-io-theme
+remote_theme: nhsx/nhsx-io-theme
 title: Optimisation and Learning Algorithms on Patient Pathways
 description: NHS England PhD Internship - Optimisation and Learning Algorithms on Patient Pathways
 permalink: /synthea-learning/

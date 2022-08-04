@@ -1,5 +1,5 @@
 ---
-remote_theme: nhsx/nhs-io-theme
+remote_theme: nhsx/nhsx-io-theme
 title: Structural Topic Models and Sentiment Model Robustness - Next Steps
 description: NHS England PhD Internship - Structural Topic Models and Sentiment Model Robustness - Next Steps
 permalink: /stm-sentiment-robustness/

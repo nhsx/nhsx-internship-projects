@@ -1,5 +1,5 @@
 ---
-remote_theme: nhsx/nhs-io-theme
+remote_theme: nhsx/nhsx-io-theme
 title: Understanding Privacy Leakage when using Large-scale Language Model in Healthcare
 description: NHS England PhD Internship - Understanding Privacy Leakage when using Large-scale Language Model in Healthcare
 permalink: /language-model-privacy-leakage/

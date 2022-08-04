@@ -1,4 +1,4 @@
 domain: nhsx.github.io
 url: https://nhsx.github.io
 baseurl: /nhsx-internship-projects/ 
-remote_theme: nhsx/nhs-io-theme
+remote_theme: nhsx/nhsx-io-theme

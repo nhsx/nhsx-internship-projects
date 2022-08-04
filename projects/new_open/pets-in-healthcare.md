@@ -1,5 +1,5 @@
 ---
-remote_theme: nhsx/nhs-io-theme
+remote_theme: nhsx/nhsx-io-theme
 title: Applied privacy enhancing technologies in healthcare
 description: NHS England PhD Internship - Applied privacy enhancing technologies in healthcare
 permalink: /pets-in-healthcare/

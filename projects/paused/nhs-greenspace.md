@@ -1,5 +1,5 @@
 ---
-remote_theme: nhsx/nhs-io-theme
+remote_theme: nhsx/nhsx-io-theme
 title: NHS GreenSpace
 description: NHS England PhD Internship - NHS GreenSpace
 permalink: /nhs-greenspace/

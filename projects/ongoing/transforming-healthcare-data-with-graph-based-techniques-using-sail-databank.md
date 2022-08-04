@@ -1,5 +1,5 @@
 ---
-remote_theme: nhsx/nhs-io-theme
+remote_theme: nhsx/nhsx-io-theme
 title: Transforming Healthcare Data with Graph-based Techniques Using SAIL DataBank
 description: NHS England PhD Internship - Transforming Healthcare Data with Graph-based Techniques Using SAIL DataBank
 permalink: /transforming-healthcare-data-graph-based-sail/

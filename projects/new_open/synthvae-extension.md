@@ -1,5 +1,5 @@
 ---
-remote_theme: nhsx/nhs-io-theme
+remote_theme: nhsx/nhsx-io-theme
 title:  SynthVAE - Next Steps
 description: NHS England PhD Internship -  SynthVAE - Next Steps
 permalink: /synthvae-extension/
