@@ -1,13 +1,13 @@
 ---
-remote_theme: nhsx/nhsx-io-theme
+remote_theme: nhsx/nhs-io-theme
 title: Augmenting Text Generation in Healthcare with Knowledge Retrieval Approaches
-description: NHSX PhD Internship - Augmenting Text Generation in Healthcare with Knowledge Retrieval Approaches
+description: NHS England PhD Internship - Augmenting Text Generation in Healthcare with Knowledge Retrieval Approaches
 permalink: /text-generation-knowledge-retreival/
 ---
 
 # Augmenting Text Generation in Healthcare with Knowledge Retrieval Approaches
 
-**Keywords:**  Natural Language Processing, Knowledge Retrieval, Generative Language Models
+**Keywords:**  NLP, GenerativeLanguage, TextData
 
 **Need:**  The ability to use the creativity of modern large-scale language models when working with and generating text, balanced with a need to supply curated information for robustness, is very important in solutions in healthcare settings. This project looks to explore recent approaches mixing factual knowledge input sources and generative language models (c.f. [RAG](https://ai.facebook.com/blog/retrieval-augmented-generation-streamlining-the-creation-of-intelligent-natural-language-processing-models)) - frameworks looking at the Question/Answer space exist - are there other areas of text generation this could be extended to?  How could different more structured forms of information be integrated such as ontologies?
 

@@ -1,13 +1,13 @@
 ---
-remote_theme: nhsx/nhsx-io-theme
+remote_theme: nhsx/nhs-io-theme
 title: Structural Topic Modelling on Contact Tracing Feedback Data
-description: NHSX PhD Internship - Structural Topic Modelling on Contact Tracing Feedback Data
+description: NHS England PhD Internship - Structural Topic Modelling on Contact Tracing Feedback Data
 permalink: /structural-topic-modelling-contact-tracing-feedback/
 ---
 
 # Structural Topic Modelling on Contact Tracing Feedback Data
 
-**Keywords:**  machine learning, user experience, topic modelling
+**Keywords:**  NLP, STM, TextData
 
 **Need:**  The government's approach to the pandemic relies on a test, trace and isolate strategy, mainly implemented via the digital Contact Tracing and Advice Service (CTAS). Feedback on user experience is central to the successful development of public-facing services. The aim of this project is to evaluate the use of machine learning techniques as tools to understand the issues with the service as expressed in the free-text responses of the users, in order to rapidly generate actionable recommendations that can be used to increase user satisfaction of the CTAS.
 

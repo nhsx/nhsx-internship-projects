@@ -1,13 +1,13 @@
 ---
-remote_theme: nhsx/nhsx-io-theme
+remote_theme: nhsx/nhs-io-theme
 title: Predicting the Impact of Health Inequalities
-description: NHSX PhD Internship - Predicting the Impact of Health Inequalities
+description: NHS England PhD Internship - Predicting the Impact of Health Inequalities
 permalink: /population-health-and-inequalities/
 ---
 
 # Predicting the Impact of Health Inequalities
 
-**Keywords:**  Impactability, Unsupervised Learning, Deprivation
+**Keywords:**  MachineLearning, UnsupervisedClassification, TabularData
 
 **Need:**  The pandemic has shone a brighter light on health inequalities. The NHS needs to take steps to develop population health management approaches that address inequalities in access, experience and outcomes. Addressing health inequalities is at the core of recovery plans, with a particular focus on deprivation and ethnicity. This project, hosted by the East Suffolk and North Essex Foundation Trust, seeks to deliver insights on where inequalities exist across the local health economy so that these may be addressed. 
 

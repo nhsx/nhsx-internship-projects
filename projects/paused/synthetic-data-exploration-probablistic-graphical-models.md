@@ -1,14 +1,14 @@
 ---
-remote_theme: nhsx/nhsx-io-theme
+remote_theme: nhsx/nhs-io-theme
 title: Synthetic Data Exploration - Probablistic Graphical Models
-description: NHSX PhD Internship - Synthetic Data Exploration - Probablistic Graphical Models
+description: NHS England PhD Internship - Synthetic Data Exploration - Probablistic Graphical Models
 permalink: /synthetic-data-exploration-probablistic-graphical-models/
 ---
 
 # Synthetic Data Exploration: 
 ## Probabilistic Graphical Models
 
-**Keywords:** Synthetic, Bayesian Networks, Graph
+**Keywords:** Synthetic, BayesianNetworks, TabularData
 
 **Need:**  The field of synthetic data includes a wide range of applications and techniques.   Our focus is on creating tools and data which can be widely used and shared.  One direction for this work is to focus on probabilistic graph models such as Bayesian Networks.   This project would seek to demonstrate the strengths and weaknesses of probabilistic models for synthetic data and for which use cases they are appropriate.  One area we are keen to investigate is a methodology of querying the model to understand appropriateness of using the model for synthetic generation.
 

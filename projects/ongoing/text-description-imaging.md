@@ -1,13 +1,13 @@
 ---
-remote_theme: nhsx/nhsx-io-theme
+remote_theme: nhsx/nhs-io-theme
 title: Automated Text Descriptions from Imaging
-description: NHSX PhD Internship - Automated Text Descriptions from Imaging
+description: NHS England PhD Internship - Automated Text Descriptions from Imaging
 permalink: /text-description-imaging/
 ---
 
 # Automated Text Descriptions from Imaging
 
-**Keywords:** Synthetic, Imaging, Semantic Explainability
+**Keywords:** NLP, SemanticExplainability, MultiModalData
 
 **Need:**  Medical imaging is still only reaching a low amount of its potential opportunity.  Image collections have large amounts of variation in both the images themselves (e.g. different machines having different angles and contrasts) and the associated reports (for the most part captured in free text).  This project would aim to explore advances in machine learning and explainability to take advantage of the relationship between these two data modalities - utilising techniques to look at automating text descriptions from images.
 

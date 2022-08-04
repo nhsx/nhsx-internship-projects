@@ -1,13 +1,13 @@
 ---
-remote_theme: nhsx/nhsx-io-theme
+remote_theme: nhsx/nhs-io-theme
 title: NHS Semantic Search
-description: NHSX PhD Internship - NHS Semantic Search
+description: NHS England PhD Internship - NHS Semantic Search
 permalink: /nhs-semantic-search/
 ---
 
 # NHS Semantic Search
 
-**Keywords:**  Natural Language Processing, Modern Search Techniques
+**Keywords:**  NLP, SemanticSearch, MultiModalData
 
 **Need:**  Often in healthcare data and information, due to disparate coding practices, multiple data collection systems, and the complexity of accurately coding healthcare, it can be difficult to be sure that all relevant records have been returned for a specific query.   Recently, semantic search techniques have been used to greatly enhance query broad ranging data sources.  Semantic search extends a basic search to consider intent and contextual meaning of the user.  This project would seek to apply a specific application relating to technology innovation in healthcare to create a clear, timely and complete picture of innovation whilst demonstrating the technique.
 

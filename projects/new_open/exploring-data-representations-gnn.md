@@ -1,14 +1,14 @@
 ---
-remote_theme: nhsx/nhsx-io-theme
+remote_theme: nhsx/nhs-io-theme
 title: Exploring Data Representations - Graph Neural Networks
-description: NHSX PhD Internship - Exploring Data Representations - Graph Neural Networks
+description: NHS England PhD Internship - Exploring Data Representations - Graph Neural Networks
 permalink: /exploring-data-representations-gnn/
 ---
 
 # Exploring Data Representations:
 ## Graph Neural Networks		
 
-**Keywords:** Graphs, Data Formats, Structured data, Graph Neural Networks
+**Keywords:** Graphs, GNNs, MultiModalData
 
 **Need:**  The complexity and depth of information captured in Electronic Health Records (EHR) requires a variety of methods to analyse.  This project would look to explore graph representations as such a method to gain insight from EHR and other healthcare data sources, using graph databases and neural network approaches to better explore the data, and the interactions with standards such as [Fast Healthcare Interoperability Resources (FHIR)](https://digital.nhs.uk/services/fhir-apis).  Other modern approaches for encoding sequential information would be good to benchmark against e.g. entity embeddings, etc.
 

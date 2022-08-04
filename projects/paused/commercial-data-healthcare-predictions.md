@@ -1,13 +1,13 @@
 ---
-remote_theme: nhsx/nhsx-io-theme
+remote_theme: nhsx/nhs-io-theme
 title: Value of Commercial Product Sales Data in Healthcare Prediction
-description: NHSX PhD Internship - Value of Commercial Product Sales Data in Healthcare Prediction
+description: NHS England PhD Internship - Value of Commercial Product Sales Data in Healthcare Prediction
 permalink: /commercial-data-healthcare-predictions/
 ---
 
 # Value of Commercial Product Sales Data in Healthcare Prediction
 
-**Keywords:**  Machine Learning, Explainability
+**Keywords:**  MachineLearning, ModelClassReliance, TabularData
 
 **Need:**  There is a large amount of data regarding healthcare activity recorded in sales data at commercial pharmacies: does this data have value when predicting healthcare outcomes?  The project will explore creating algorithms to explain the feature importance of healthcare product sales in machine learning models.
 

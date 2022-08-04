@@ -1,13 +1,13 @@
 ---
-remote_theme: nhsx/nhsx-io-theme
+remote_theme: nhsx/nhs-io-theme
 title: Explaining facial skin disease classification using LIME
-description: NHSX PhD Internship - Explaining facial skin disease classification using LIME
+description: NHS England PhD Internship - Explaining facial skin disease classification using LIME
 permalink: /explaining-classification-using-lime/
 ---
 
 # Explaining facial skin disease classification using LIME
 
-**Keywords:**  Machine Learning, Explainability, Classification, Image Recognition
+**Keywords:**  Explainability, LIME, Images
 
 **Need:**  Skin diseases are currently ranked as the fourth leading cause of non-fatal diseases worldwide with a significant treatment burden.  Skin disease classification has been previously suggested as a comparable screening mechanism for skin cancers to current manual practice.  Deep learning algorithms often appear as black-box and lack the explainability required to use them in a clinical setting.  This project would seek to investigate applying a classification algorithm to skin-disease images and then demonstrating the use of LIME as an explainability tool. 
 

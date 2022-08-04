@@ -1,15 +1,13 @@
 ---
-remote_theme: nhsx/nhsx-io-theme
+remote_theme: nhsx/nhs-io-theme
 title: NHS Language Corpus
-description: NHSX PhD Internship - NHS Language Corpus
+description: NHS England PhD Internship - NHS Language Corpus
 permalink: /nhs-language-corpus/
 ---
 
-*Output update coming in early 2022* 
-
 # NHS Language Corpus
 
-**Keywords:** Natural Language Processing, Healthcare Text, Dataset, Corpus
+**Keywords:** NLP, Curation, TextData
 
 **Need:** Currently there is no large, open, representative UK based medical text database available.  When training NLP models on available datasets (e.g. MedMentions, MIMIC III or IV) issues can include: not picking up domain specific terms (e.g. drug names), get sentiment wrong, fail to understand UK specific abbreviations, or struggle with context due to regional differences.  These issues may not be obvious from surface testing.  This project would seek to build the first steps towards having a data set of United Kingdom focussed medical text sources for the purposes of training NLP models for the NHS.
 

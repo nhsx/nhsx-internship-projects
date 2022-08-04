@@ -1,13 +1,13 @@
 ---
-remote_theme: nhsx/nhsx-io-theme
+remote_theme: nhsx/nhs-io-theme
 title: Building an NHS Agent Based Model in HASH
-description: NHSX PhD Internship - Building an NHS Agent Based Model in HASH
+description: NHS England PhD Internship - Building an NHS Agent Based Model in HASH
 permalink: /agent-based-model-hash-ai/
 ---
 
 # Building an NHS Agent Based Model in HASH
 
-**Keywords:**  Agent Based Modelling
+**Keywords:**  Simulaiton, ABM, TabularData
 
 **Need:**  Agent based modelling is a powerful tool for simulating complex problems such as the spread of epidemics, consumer behaviour or congestion.  However, there are not many successful examples of applied agent based simulation in the NHS, partly due to finding an appropriate use-case and partly due to the level of complication in the model development.  HASH have created an online intuitive tool which allows for this technique to be demonstrated in a transparent manner.  Using HASH or a similar tool, this project would seek to investigate the power of agent based simulations and their appropriate application for managing health services.
 
