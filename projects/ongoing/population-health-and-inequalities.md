@@ -1,7 +1,7 @@
 ---
 remote_theme: nhsx/nhs-io-theme
 title: Predicting the Impact of Health Inequalities
-description: NHSX PhD Internship - Predicting the Impact of Health Inequalities
+description: NHS England PhD Internship - Predicting the Impact of Health Inequalities
 permalink: /population-health-and-inequalities/
 ---
 

@@ -1,7 +1,7 @@
 ---
 remote_theme: nhsx/nhs-io-theme
 title: Granular Mapping
-description: NHSX PhD Internship - Granular Mapping
+description: NHS England PhD Internship - Granular Mapping
 permalink: /granular-mapping/
 ---
 

@@ -1,7 +1,7 @@
 ---
 remote_theme: nhsx/nhs-io-theme
 title: NHS Semantic Search
-description: NHSX PhD Internship - NHS Semantic Search
+description: NHS England PhD Internship - NHS Semantic Search
 permalink: /nhs-semantic-search/
 ---
 

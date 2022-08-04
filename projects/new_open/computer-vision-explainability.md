@@ -1,13 +1,13 @@
 ---
 remote_theme: nhsx/nhs-io-theme
-title: STM & Vectorized Sentiment Analysis - Extension
-description: NHSX PhD Internship - STM & Vectorized Sentiment Analysis - Extension
-permalink: /vectorised-sentiment-analysis/
+title: AI Safety in Healthcare - Computer Vision Explainability
+description: NHS England PhD Internship - AI Safety in Healthcare - Computer Vision Explainability
+permalink: /computer-vision-explainability/
 ---
 
-# STM & Vectorized Sentiment Analysis - Extension
+# AI Safety in Healthcare - Computer Vision Explainability
 
-**Keywords:**  NLP, STM, TextData 
+**Keywords:**  Explainability, XAI, Images
 
 **Need:**  PLACEHOLDER
 

@@ -1,7 +1,7 @@
 ---
 remote_theme: nhsx/nhs-io-theme
 title: Towards a Documentation Standard and Metadata API for Agent Based Models in Healthcare
-description: NHSX PhD Internship - Towards a Documentation Standard and Metadata API for Agent Based Models in Healthcare
+description: NHS England PhD Internship - Towards a Documentation Standard and Metadata API for Agent Based Models in Healthcare
 permalink: /metadata-api-abm/
 ---
 

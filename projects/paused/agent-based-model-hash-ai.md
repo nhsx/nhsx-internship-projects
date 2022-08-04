@@ -1,7 +1,7 @@
 ---
 remote_theme: nhsx/nhs-io-theme
 title: Building an NHS Agent Based Model in HASH
-description: NHSX PhD Internship - Building an NHS Agent Based Model in HASH
+description: NHS England PhD Internship - Building an NHS Agent Based Model in HASH
 permalink: /agent-based-model-hash-ai/
 ---
 

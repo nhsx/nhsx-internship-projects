@@ -1,7 +1,7 @@
 ---
 remote_theme: nhsx/nhs-io-theme
 title: Medical Visual Question Answering Approaches and Datasets
-description: NHSX PhD Internship - Medical Visual Question Answering Approaches and Datasets
+description: NHS England PhD Internship - Medical Visual Question Answering Approaches and Datasets
 permalink: /visual-question-answer/
 ---
 

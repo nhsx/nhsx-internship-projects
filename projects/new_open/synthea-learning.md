@@ -1,11 +1,11 @@
 ---
 remote_theme: nhsx/nhs-io-theme
-title: Adapting Synthea for NHS Use Cases
-description: NHSX PhD Internship - Adapting Synthea for NHS Use Cases
-permalink: /synthea-nhs-use-cases/
+title: Optimisation and Learning Algorithms on Patient Pathways
+description: NHS England PhD Internship - Optimisation and Learning Algorithms on Patient Pathways
+permalink: /synthea-learning/
 ---
 
-# Optimisation/Learning algorithms on patient pathway
+# Optimisation and Learning algorithms on patient pathways
 
 **Keywords:**  Synthetic, QLearning, TabularData
 

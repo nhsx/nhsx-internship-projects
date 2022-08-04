@@ -1,11 +1,11 @@
 ---
 remote_theme: nhsx/nhs-io-theme
 title: Synthetic Data Exploration - Longitudinal
-description: NHSX PhD Internship - Synthetic Data Exploration - Longitudinal
+description: NHS England PhD Internship - Synthetic Data Exploration - Longitudinal
 permalink: /synthetic-data-exploration-longitudinal/
 ---
 
-# Synthetic Data Exploration: 
+# Synthetic Data Exploration 
 ## Longitudinal
 
 **Keywords:** Synthetic, Simulation, TabularData

@@ -1,7 +1,7 @@
 ---
 remote_theme: nhsx/nhs-io-theme
 title: Process Mining to Generate Healthcare Pathways
-description: NHSX PhD Internship - Process Mining to Generate Healthcare Pathways
+description: NHS England PhD Internship - Process Mining to Generate Healthcare Pathways
 permalink: /process-mining/
 ---
 

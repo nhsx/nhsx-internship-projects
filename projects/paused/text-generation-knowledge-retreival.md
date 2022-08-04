@@ -1,7 +1,7 @@
 ---
 remote_theme: nhsx/nhs-io-theme
 title: Augmenting Text Generation in Healthcare with Knowledge Retrieval Approaches
-description: NHSX PhD Internship - Augmenting Text Generation in Healthcare with Knowledge Retrieval Approaches
+description: NHS England PhD Internship - Augmenting Text Generation in Healthcare with Knowledge Retrieval Approaches
 permalink: /text-generation-knowledge-retreival/
 ---
 

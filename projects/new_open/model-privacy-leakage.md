@@ -1,8 +1,8 @@
 ---
 remote_theme: nhsx/nhs-io-theme
-title: Large-scale Language Model Privacy Leakage in Healthcare
-description: NHSX PhD Internship - Large-scale Language Model Privacy Leakage in Healthcare
-permalink: /model-privacy-leakage/
+title: Understanding Privacy Leakage when using Large-scale Language Model in Healthcare
+description: NHS England PhD Internship - Understanding Privacy Leakage when using Large-scale Language Model in Healthcare
+permalink: /language-model-privacy-leakage/
 ---
 
 # Large-scale Language Model Privacy Leakage in Healthcare

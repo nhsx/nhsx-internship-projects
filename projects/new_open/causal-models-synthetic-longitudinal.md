@@ -1,7 +1,7 @@
 ---
 remote_theme: nhsx/nhs-io-theme
 title: Causal Models to Generate Longitudinal Data
-description: NHSX PhD Internship - Causal Models to Generate Longitudinal Data
+description: NHS England PhD Internship - Causal Models to Generate Longitudinal Data
 permalink: /causal-models-synthetic-longitudinal/
 ---
 
