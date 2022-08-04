@@ -5,7 +5,7 @@ description: NHS England PhD Internship - Understanding Privacy Leakage when usi
 permalink: /language-model-privacy-leakage/
 ---
 
-# Large-scale Language Model Privacy Leakage in Healthcare
+# Understanding Privacy Leakage when using Large-scale Language Model in Healthcare
 
 **Keywords:**  NLP, Memorisation, MultiModalData
 
