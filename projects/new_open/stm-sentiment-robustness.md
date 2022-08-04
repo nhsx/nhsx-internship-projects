@@ -18,9 +18,9 @@ Alongside this, an exploration around combining outputs of sentiment analysis mo
 **Current Knowledge/Examples & Possible Techniques/Approaches:**
 - [Structural Topic Models for Open-Ended Survey Responses](https://doi.org/10.1111/ajps.12103)
 - [Accelerating Mixed Methods Research With Natural Language Processing of Big Text Data - Tammy Chang, Melissa DeJonckheere, VG Vinod Vydiswaran, Jiazhao Li, Lorraine R. Buis, Timothy C. Guetterman, 2021](https://journals.sagepub.com/doi/abs/10.1177/15586898211021196)
-- [Public Opinion about the UK Government during COVID-19 and Implications for Public Health: A Topic Modelling Analysis of Open-Ended Survey Response Data | medRxiv](https://www.medrxiv.org/content/10.1101/2021.03.24.21254094v1)
+- [Public Opinion about the UK Government during COVID-19 and Implications for Public Health: A Topic Modelling Analysis of Open-Ended Survey Response Data - medRxiv](https://www.medrxiv.org/content/10.1101/2021.03.24.21254094v1)
 - [World Well-Being Project - Publications](http://www.wwbp.org/publications.html)
-- [Training, evaluating, and interpreting topic models | Julia Silge](https://juliasilge.com/blog/evaluating-stm/)
+- [Training, evaluating, and interpreting topic models - Julia Silge](https://juliasilge.com/blog/evaluating-stm/)
 
 **Related Previous Internship Projects:** [GitHub - nhsx/stm-survey-text](https://github.com/nhsx/stm-survey-text)
 
