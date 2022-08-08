@@ -16,12 +16,12 @@ Further, when considering Medical VQA we have to be aware that images and their 
 The project would look to understand the current state of Medical VQA, the available datasets and challenges, and the ability of current approaches to this task.  The interpretability and explainability of technical approaches would be of interest to consider.
 
 **Current Knowledge/Examples & Possible Techniques/Approaches:**  
-[Medical Visual Question Answering: A Survey](https://arxiv.org/abs/2111.10056)
-[BPI-MVQA: a bi-branch model for medical visual question answering](https://bmcmedimaging.biomedcentral.com/articles/10.1186/s12880-022-00800-x)
-[Overview of the VQA-Med Task at ImageCLEF 2020: Visual Question Answering and Generation in the Medical Domain](http://ceur-ws.org/Vol-2696/paper_106.pdf)
-[MMBERT: Multimodal BERT Pretraining for Improved Medical VQA](https://arxiv.org/abs/2104.01394)
-[Learning to Ask Like a Physician](https://arxiv.org/abs/2206.02696)
-[https://visualqa.org/](https://visualqa.org/)
+- [Medical Visual Question Answering: A Survey](https://arxiv.org/abs/2111.10056)
+- [BPI-MVQA: a bi-branch model for medical visual question answering](https://bmcmedimaging.biomedcentral.com/articles/10.1186/s12880-022-00800-x)
+- [Overview of the VQA-Med Task at ImageCLEF 2020: Visual Question Answering and Generation in the Medical Domain](http://ceur-ws.org/Vol-2696/paper_106.pdf)
+- [MMBERT: Multimodal BERT Pretraining for Improved Medical VQA](https://arxiv.org/abs/2104.01394)
+- [Learning to Ask Like a Physician](https://arxiv.org/abs/2206.02696)
+- [https://visualqa.org/](https://visualqa.org/)
 
 
 **Related Previous Internship Projects:** [TxtRayAlign](https://nhsx.github.io/nhsx-internship-projects/text-description-imaging/)
@@ -30,9 +30,10 @@ The project would look to understand the current state of Medical VQA, the avail
 
 **Outcome/Learning Objectives:**   Alongside a working example of a VQA model on a medical dataset, the project would hope to build an understanding of the state of the field of VQA and the challenges specific to the healthcare domain.
 
-**Datasets:** [Visual Question Answering in the Medical Domain VQA-Med 2019](https://github.com/abachaa/VQA-Med-2019)
-[Visual Question Answering in the Medical Domain | ImageCLEF / LifeCLEF - Multimedia Retrieval in CLEF](https://www.imageclef.org/2020/medical/vqa)
-[ImageCLEF-VQAMed | ImageCLEF / LifeCLEF - Multimedia Retrieval in CLEF](https://www.imageclef.org/2021/medical/vqa)
+**Datasets:** 
+- [Visual Question Answering in the Medical Domain VQA-Med 2019](https://github.com/abachaa/VQA-Med-2019)
+- [Visual Question Answering in the Medical Domain | ImageCLEF / LifeCLEF - Multimedia Retrieval in CLEF](https://www.imageclef.org/2020/medical/vqa)
+- [ImageCLEF-VQAMed | ImageCLEF / LifeCLEF - Multimedia Retrieval in CLEF](https://www.imageclef.org/2021/medical/vqa)
 
 
 **Desired skill set:**  When applying please highlight any experience around computer vision, natural language processing, deep learning, coding experience (including any coding in the open), and any other data science experience you feel relevant.
