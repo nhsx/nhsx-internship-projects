@@ -15,12 +15,12 @@ With the introduction of larger language models, which have undergone a rapid in
 
 This project looks to understand the current thinking on quantifying issues such as memorisation within modern language models, and exploring the various mitigation strategies emerging in the literature.  It also hopes to understand how other privacy preserving techniques can be used to complement and enhance these more direct approaches.
 
-**Current Knowledge/Examples & Possible Techniques/Approaches:**  
-[Google AI Blog: Privacy Considerations in Large Language Models](https://ai.googleblog.com/2020/12/privacy-considerations-in-large.html)
-[Training Data Leakage Analysis in Language Models](https://arxiv.org/abs/2101.05405)
-[Extracting Training Data from Large Language Models](https://arxiv.org/abs/2012.07805)
-[Large Language Models Can Be Strong Differentially Private Learners](https://arxiv.org/abs/2110.05679)
-[KART: Parameterization of Privacy Leakage Scenarios from Pre-trained Language Models](https://arxiv.org/abs/2101.00036)
+**Current Knowledge/Examples & Possible Techniques/Approaches:**
+- [Google AI Blog: Privacy Considerations in Large Language Models](https://ai.googleblog.com/2020/12/privacy-considerations-in-large.html)
+- [Training Data Leakage Analysis in Language Models](https://arxiv.org/abs/2101.05405)
+- [Extracting Training Data from Large Language Models](https://arxiv.org/abs/2012.07805)
+- [Large Language Models Can Be Strong Differentially Private Learners](https://arxiv.org/abs/2110.05679)
+- [KART: Parameterization of Privacy Leakage Scenarios from Pre-trained Language Models](https://arxiv.org/abs/2101.00036)
 
 
 **Related Previous Internship Projects:** Exploring Large-scale Language Models with NHS Incident Data
