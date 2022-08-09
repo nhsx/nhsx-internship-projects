@@ -1,5 +1,5 @@
 ---
-remote_theme: nhsx/nhsx-io-theme
+remote_theme: nhsx/nhs-io-theme
 title: Exploring large-scale language models with NHS incident data
 description: NHS England PhD Internship - Incident Language Model
 permalink: /incident-language-model/

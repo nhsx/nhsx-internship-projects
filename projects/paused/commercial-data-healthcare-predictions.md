@@ -1,5 +1,5 @@
 ---
-remote_theme: nhsx/nhsx-io-theme
+remote_theme: nhsx/nhs-io-theme
 title: Value of Commercial Product Sales Data in Healthcare Prediction
 description: NHS England PhD Internship - Value of Commercial Product Sales Data in Healthcare Prediction
 permalink: /commercial-data-healthcare-predictions/

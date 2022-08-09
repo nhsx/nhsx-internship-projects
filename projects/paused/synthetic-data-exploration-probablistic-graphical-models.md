@@ -1,5 +1,5 @@
 ---
-remote_theme: nhsx/nhsx-io-theme
+remote_theme: nhsx/nhs-io-theme
 title: Synthetic Data Exploration - Probablistic Graphical Models
 description: NHS England PhD Internship - Synthetic Data Exploration - Probablistic Graphical Models
 permalink: /synthetic-data-exploration-probablistic-graphical-models/

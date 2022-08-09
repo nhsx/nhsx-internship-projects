@@ -1,5 +1,5 @@
 ---
-remote_theme: nhsx/nhsx-io-theme
+remote_theme: nhsx/nhs-io-theme
 title: NHS Language Corpus
 description: NHS England PhD Internship - NHS Language Corpus
 permalink: /nhs-language-corpus/

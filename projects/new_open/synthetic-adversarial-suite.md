@@ -1,5 +1,5 @@
 ---
-remote_theme: nhsx/nhsx-io-theme
+remote_theme: nhsx/nhs-io-theme
 title: Synthetic Adversarial Suite - Next Steps
 description: NHS England PhD Internship - Synthetic Adversarial Suite - Next Steps
 permalink: /synthetic-adversarial-suite/

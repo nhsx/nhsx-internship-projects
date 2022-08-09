@@ -1,5 +1,5 @@
 ---
-remote_theme: nhsx/nhsx-io-theme
+remote_theme: nhsx/nhs-io-theme
 title: Exploring Data Representations - Graph Neural Networks
 description: NHS England PhD Internship - Exploring Data Representations - Graph Neural Networks
 permalink: /exploring-data-representations-gnn/

@@ -1,5 +1,5 @@
 ---
-remote_theme: nhsx/nhsx-io-theme
+remote_theme: nhsx/nhs-io-theme
 title: Synthetic Data Exploration - Longitudinal
 description: NHS England PhD Internship - Synthetic Data Exploration - Longitudinal
 permalink: /synthetic-data-exploration-longitudinal/

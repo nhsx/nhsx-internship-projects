@@ -1,5 +1,5 @@
 ---
-remote_theme: nhsx/nhsx-io-theme
+remote_theme: nhsx/nhs-io-theme
 title: Automated Text Descriptions from Imaging
 description: NHS England PhD Internship - Automated Text Descriptions from Imaging
 permalink: /text-description-imaging/

@@ -1,5 +1,5 @@
 ---
-remote_theme: nhsx/nhsx-io-theme
+remote_theme: nhsx/nhs-io-theme
 title: AI Safety in Healthcare - Fairness Measures
 description: NHS England PhD Internship - AI Safety in Healthcare - Fairness Measures
 permalink: /fairness-measures/
