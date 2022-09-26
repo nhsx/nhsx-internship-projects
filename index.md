@@ -89,7 +89,7 @@ To be published in August:
 
 - Exploration of the value Data Science techniques can add to healthcare when applied to large datasets
 - Field Programmable Gate Arrays (FPGAs) for Agent Based Modelling efficiency
-- Integrating Retrieval Approaches for increasing robustness Natural Language Processing systems
+- Integrating Retrieval Approaches for increasing robustness in Natural Language Processing systems
 
 ---
 ## Closed Projects
