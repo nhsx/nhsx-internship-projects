@@ -123,11 +123,11 @@ Below is a list of internship projects which are continually being updated and a
 ![technique](https://img.shields.io/badge/Curation-lightgrey)
 ![datamodality](https://img.shields.io/badge/TextData-9cf) &nbsp; [NHS Language Corpus](https://nhsx.github.io/nhsx-internship-projects/nhs-language-corpus/)
 - ![area](https://img.shields.io/badge/Synthetic-brightgreen)
-![technique](https://img.shields.io/badge/BayesianNetworks-lightgrey)
-![datamodality](https://img.shields.io/badge/TabularData-green) &nbsp; [Synthetic Data Exploration - Probablistic Graphical Models](https://nhsx.github.io/nhsx-internship-projects/synthetic-data-exploration-probablistic-graphical-models/)
-- ![area](https://img.shields.io/badge/Synthetic-brightgreen)
 ![technique](https://img.shields.io/badge/Simulation-lightgrey)
 ![datamodality](https://img.shields.io/badge/TabularData-green) &nbsp; [Synthetic Data Exploration - Longitudinal](https://nhsx.github.io/nhsx-internship-projects/synthetic-data-exploration-longitudinal/)
+- ![area](https://img.shields.io/badge/Synthetic-brightgreen)
+![technique](https://img.shields.io/badge/BayesianNetworks-lightgrey)
+![datamodality](https://img.shields.io/badge/TabularData-green) &nbsp; [Synthetic Data Exploration - Probablistic Graphical Models](https://nhsx.github.io/nhsx-internship-projects/synthetic-data-exploration-probablistic-graphical-models/)
 
 #### Archived Projects
 
