@@ -23,7 +23,7 @@ Utilising and building on recent work in the area of generating synthetic medica
 - [Generation and evaluation of artificial mental health records for Natural Language Processing - npj Digital Medicine](https://www.nature.com/articles/s41746-020-0267-x)
 - [Exploring Transformer Text Generation for Medical Dataset Augmentation](https://www.aclweb.org/anthology/2020.lrec-1.578.pdf)
 
-**Related Previous Internship Projects:** <https://nhsx.github.io/nhsx-internship-projects/incident-language-model/>
+**Related Previous Internship Projects:** [Exploring large-scale language models with NHS incident data - Next Steps](https://nhsx.github.io/nhsx-internship-projects/incident-language-model/)
 
 **Enables Future Work:** Envisaged that as synthetic text generation has a range of possible approaches and nuances that this project will lead into a series of projects that build off one another.  Additionally, the work will support the “NHS Language Corpus” and projects seeking to make useful NHS data available for public usage.
 

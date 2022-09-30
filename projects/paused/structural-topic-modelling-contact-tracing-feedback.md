@@ -11,6 +11,8 @@ permalink: /structural-topic-modelling-contact-tracing-feedback/
 
 **Need:**  The government's approach to the pandemic relies on a test, trace and isolate strategy, mainly implemented via the digital Contact Tracing and Advice Service (CTAS). Feedback on user experience is central to the successful development of public-facing services. The aim of this project is to evaluate the use of machine learning techniques as tools to understand the issues with the service as expressed in the free-text responses of the users, in order to rapidly generate actionable recommendations that can be used to increase user satisfaction of the CTAS.
 
+See outputs from project - [Structural Topic Modelling for NHS survey data](https://github.com/nhsx/stm-survey-text)
+
 **Current Knowledge/Examples & Possible Techniques/Approaches:**  The CTAS team have explored the free-text data and have conducted some preliminary analysis using Structural Topic Modelling (STM). Based on this work, the team generated insights around the most prominent issues with the service and want to continue to develop the approach further.
 
 Based on this preliminary work, the team hope to extend the capabilities of the system by:

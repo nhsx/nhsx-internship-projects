@@ -23,7 +23,7 @@ This project looks to understand the current thinking on quantifying issues such
 - [KART: Parameterization of Privacy Leakage Scenarios from Pre-trained Language Models](https://arxiv.org/abs/2101.00036)
 
 
-**Related Previous Internship Projects:** Exploring Large-scale Language Models with NHS Incident Data
+**Related Previous Internship Projects:** [Exploring Large-scale Language Models with NHS Incident Data](https://nhsx.github.io/nhsx-internship-projects/incident-language-model/)
 
 **Enables Future Work:**  Work looking to utilise modern language modelling techniques which then hope to share models with a strong understanding of possible leakage, and further will feed into the development of an assessment framework or tooling for a given use case.
 
