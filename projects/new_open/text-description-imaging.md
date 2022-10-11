@@ -13,7 +13,7 @@ permalink: /text-description-imaging/
 
 This project would aim to explore advances in machine learning and explainability to take advantage of the relationship between these different data modalities - utilising techniques to look at automating text descriptions from images.   
 
-Building on the work undertaken as part of the on-going [TxtRayAlign](https://github.com/nhsx/txt-ray-align) project, which looks to use contrastive training techniques to embed images and text data in a shared space, this project could focus on a munber of areas including: seeking to investigate other modalities of imaging (such as CT or MRI), integrate further sources of information like demographic or test results to enhance alignment, or the addition of segmentation approaches to further target the association with the text reports. 
+Building on the work undertaken as part of the on-going [TxtRayAlign](https://github.com/nhsx/txt-ray-align) project, which looks to use contrastive training techniques to embed images and text data in a shared space, this project could focus on a number of areas including: seeking to investigate other modalities of imaging (such as CT or MRI), integrate further sources of information like demographic or test results to enhance alignment, or the addition of segmentation approaches to further target the association with the text reports. 
 
 **Current Knowledge/Examples & Possible Techniques/Approaches:** 
 - CheXzero is a recent project of interest in this area - [Repo](https://github.com/rajpurkarlab/CheXzero) / [Paper](https://www.nature.com/articles/s41551-022-00936-9)
