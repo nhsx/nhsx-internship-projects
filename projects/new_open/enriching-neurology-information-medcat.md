@@ -29,7 +29,7 @@ Further the project would give a chance to look at different workflows for evalu
 **Outcome/Learning Objectives:**  
 - Blueprint specification for condition-specific insight extraction from clinical letters
 - Refine and further develop an existing cloud-native, fault-tolerant, auto-scaling, general medical text analysis pipeline within LANDER 
-- A successful candidate will be embedded within the data science team at Lancaster Teaching Hospital (LTH) and will be supervised by a member of the NHS England Transformation Directorate 
+- A successful candidate will be embedded within the data science team at Lancashire Teaching Hospital (LTH) and will be supervised by a member of the NHS England Transformation Directorate 
 - The parts of the solution that are not specific to LTH will be published as open code and report published to feed back into the community 
 - A successful candidate will be peered with a neurology junior doctor with a good understanding of python programming and neurology domain knowledge 
 
