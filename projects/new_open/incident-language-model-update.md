@@ -17,7 +17,7 @@ This extension would seek to build on the first stages of the project which expl
 
 **Current Knowledge/Examples & Possible Techniques/Approaches:** Text extraction, processing, vector representations and weighting methods.  Use of modern open source NLP tools and exposure to neural network frameworks such as TensorFlow or Pytorch.
 
-**Related Previous Internship Projects:** Outputs from the first stage of this project will be available in late 2022, which focuses on exploring various language modelling architectures which are optimised to produce useful embeddings for different structures, and suitable approaches for testing these models
+**Related Previous Internship Projects:** Outputs from the first stage of this project is available as [ELM4PSIR](https://github.com/nhsx/ELM4PSIR), which focuses on exploring various language modelling architectures which are optimised to produce useful embeddings for different structures, and suitable approaches for testing these models
 
 **Enables Future Work:** This may lead to ongoing projects based on this foundation e.g. fine-tuning the selected language model, training on more data, comparing against a simpler benchmark models, development of production models, examining clustering or anomaly detection algorithms.
 
