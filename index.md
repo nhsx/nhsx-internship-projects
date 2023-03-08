@@ -6,11 +6,11 @@ permalink: /
 
 # Internship Projects
 
-Below is a list of internship projects which are continually being updated and added to. We also welcome project proposals from both prospective students and interested organisations.  Please contact [analytics-unit@nhsx.nhs.uk](analytics-unit@nhsx.nhs.uk) with any queries.
+Below is a list of internship projects which are continually being updated and added to. We also welcome project proposals from both prospective students and interested organisations.  Please contact us at the [DART mailbox](analytics-unit@nhsx.nhs.uk) with any queries.
 
 ---
-## Ongoing Projects
-*Interns actively working on these or will be later this year - many are still open to further development*
+## Active Projects
+*Interns actively working on these or will be later this year - many are still open to further development beyond this*
 
 ### January 2023
 
