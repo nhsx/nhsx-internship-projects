@@ -4,11 +4,42 @@ description: NHS England PhD Internship
 permalink: /
 ---
 
-# Current Projects Available as Internships
+# Internship Projects
 
 Below is a list of internship projects which are continually being updated and added to. We also welcome project proposals from both prospective students and interested organisations.  Please contact [analytics-unit@nhsx.nhs.uk](analytics-unit@nhsx.nhs.uk) with any queries.
 
 ---
+## Ongoing Projects
+*Interns actively working on these or will be later this year - many are still open to further development*
+
+### January 2023
+
+- ![area](https://img.shields.io/badge/NLP-yellow)
+![technique](https://img.shields.io/badge/CogStack-lightgrey)
+![datamodality](https://img.shields.io/badge/TextData-9cf) &nbsp; [Enriching Neurology Patient Information using MedCAT](https://nhsx.github.io/nhsx-internship-projects/enriching-neurology-information-medcat/)
+- ![area](https://img.shields.io/badge/Synthetic-brightgreen)
+![technique](https://img.shields.io/badge/VAE-lightgrey)
+![datamodality](https://img.shields.io/badge/TabularData-green) &nbsp; [SynthVAE - Next Steps](https://nhsx.github.io/nhsx-internship-projects/synthvae-extension/)
+- ![area](https://img.shields.io/badge/Graphs-yellowgreen)
+![technique](https://img.shields.io/badge/Hypergraphs-lightgrey)
+![datamodality](https://img.shields.io/badge/TabularData-green) &nbsp; 
+[Transforming Healthcare Data with Graph-based Techniques Using SAIL DataBank - Next Steps](https://nhsx.github.io/nhsx-internship-projects/transforming-healthcare-data-graph-based-sail-update/)
+
+### June 2023
+
+- ![area](https://img.shields.io/badge/Graphs-yellowgreen)
+![technique](https://img.shields.io/badge/GNNs-lightgrey)
+![datamodality](https://img.shields.io/badge/MultiModalData-blueviolet) &nbsp; [Exploring Data Representations - Graph Neural Networks](https://nhsx.github.io/nhsx-internship-projects/exploring-data-representations-gnn/)
+- ![area](https://img.shields.io/badge/Simulation-darkblue)
+![technique](https://img.shields.io/badge/ProcessMining-lightgrey)
+![datamodality](https://img.shields.io/badge/TabularData-green)  &nbsp; [Process Mining to Generate Healthcare Pathways](https://nhsx.github.io/nhsx-internship-projects/process-mining-generate-pathways/)
+- ![area](https://img.shields.io/badge/NLP-yellow)
+![technique](https://img.shields.io/badge/Memorisation-lightgrey)
+![datamodality](https://img.shields.io/badge/MultiModalData-blueviolet)  &nbsp; [Understanding Privacy Leakage when using Large-scale Language Model in Healthcare](https://nhsx.github.io/nhsx-internship-projects/language-model-privacy-leakage/)
+
+
+---
+
 ## Newly Proposed and Open Projects
 
 - ![area](https://img.shields.io/badge/Explainability-orange)
@@ -23,12 +54,6 @@ Below is a list of internship projects which are continually being updated and a
 - ![area](https://img.shields.io/badge/Synthetic-brightgreen)
 ![technique](https://img.shields.io/badge/DAGs-lightgrey)
 ![datamodality](https://img.shields.io/badge/TabularData-green) &nbsp; [Causal Models to Generate Synthetic Longitudinal Data](https://nhsx.github.io/nhsx-internship-projects/causal-models-synthetic-longitudinal/)
-- ![area](https://img.shields.io/badge/NLP-yellow)
-![technique](https://img.shields.io/badge/CogStack-lightgrey)
-![datamodality](https://img.shields.io/badge/TextData-9cf) &nbsp; [Enriching Neurology Patient Information using MedCAT](https://nhsx.github.io/nhsx-internship-projects/enriching-neurology-information-medcat/)
-- ![area](https://img.shields.io/badge/Graphs-yellowgreen)
-![technique](https://img.shields.io/badge/GNNs-lightgrey)
-![datamodality](https://img.shields.io/badge/MultiModalData-blueviolet) &nbsp; [Exploring Data Representations - Graph Neural Networks](https://nhsx.github.io/nhsx-internship-projects/exploring-data-representations-gnn/)
 - ![area](https://img.shields.io/badge/NLP-yellow)
 ![technique](https://img.shields.io/badge/Embeddings-lightgrey)
 ![datamodality](https://img.shields.io/badge/TextData-9cf) &nbsp; [Exploring Large-scale Language Models with NHS Incident Data - Next Steps](https://nhsx.github.io/nhsx-internship-projects/incident-language-model-update/)
@@ -47,9 +72,6 @@ Below is a list of internship projects which are continually being updated and a
 - ![area](https://img.shields.io/badge/Synthetic-brightgreen)
 ![technique](https://img.shields.io/badge/QLearning-lightgrey)
 ![datamodality](https://img.shields.io/badge/TabularData-green) &nbsp; [Optimisation and Learning Algorithms on Patient Pathways](https://nhsx.github.io/nhsx-internship-projects/synthea-learning/)
-- ![area](https://img.shields.io/badge/Simulation-darkblue)
-![technique](https://img.shields.io/badge/ProcessMining-lightgrey)
-![datamodality](https://img.shields.io/badge/TabularData-green)  &nbsp; [Process Mining to Generate Healthcare Pathways](https://nhsx.github.io/nhsx-internship-projects/process-mining-generate-pathways/)
 - ![area](https://img.shields.io/badge/NLP-yellow)
 ![technique](https://img.shields.io/badge/STM-lightgrey)
 ![datamodality](https://img.shields.io/badge/TextData-9cf) &nbsp; [Structural Topic Models and Sentiment Model Robustness - Next Steps](https://nhsx.github.io/nhsx-internship-projects/stm-sentiment-robustness/)
@@ -59,32 +81,9 @@ Below is a list of internship projects which are continually being updated and a
 - ![area](https://img.shields.io/badge/NLP-yellow)
 ![technique](https://img.shields.io/badge/SyntheticGeneration-lightgrey)
 ![datamodality](https://img.shields.io/badge/TextData-9cf) &nbsp; [Synthetic Text Generation in Healthcare](https://nhsx.github.io/nhsx-internship-projects/synthetic-data-exploration-text/)
-- ![area](https://img.shields.io/badge/Synthetic-brightgreen)
-![technique](https://img.shields.io/badge/VAE-lightgrey)
-![datamodality](https://img.shields.io/badge/TabularData-green) &nbsp; [SynthVAE - Next Steps](https://nhsx.github.io/nhsx-internship-projects/synthvae-extension/)
-- ![area](https://img.shields.io/badge/Graphs-yellowgreen)
-![technique](https://img.shields.io/badge/Hypergraphs-lightgrey)
-![datamodality](https://img.shields.io/badge/TabularData-green) &nbsp; 
-[Transforming Healthcare Data with Graph-based Techniques Using SAIL DataBank - Next Steps](https://nhsx.github.io/nhsx-internship-projects/transforming-healthcare-data-graph-based-sail-update/)
-- ![area](https://img.shields.io/badge/NLP-yellow)
-![technique](https://img.shields.io/badge/Memorisation-lightgrey)
-![datamodality](https://img.shields.io/badge/MultiModalData-blueviolet)  &nbsp; [Understanding Privacy Leakage when using Large-scale Language Model in Healthcare](https://nhsx.github.io/nhsx-internship-projects/language-model-privacy-leakage/)
 
 ---
-## Ongoing Projects
-*Interns actively working on these - many are still open to further development*
 
-- ![area](https://img.shields.io/badge/NLP-yellow)
-![technique](https://img.shields.io/badge/Embeddings-lightgrey)
-![datamodality](https://img.shields.io/badge/TextData-9cf) &nbsp; [Exploring Large-scale Language Models with NHS Incident Data](https://nhsx.github.io/nhsx-internship-projects/incident-language-model/)
-- ![area](https://img.shields.io/badge/MachineLearning-blue)
-![technique](https://img.shields.io/badge/UnspervisedClassification-lightgrey)
-![datamodality](https://img.shields.io/badge/TabularData-green) &nbsp; [Predicting the Impact of Health Inequalities - Diabetes](https://nhsx.github.io/nhsx-internship-projects/population-health-and-inequalities/)
-- ![area](https://img.shields.io/badge/Graphs-yellowgreen)
-![technique](https://img.shields.io/badge/Hypergraphs-lightgrey)
-![datamodality](https://img.shields.io/badge/TabularData-green) &nbsp; [Transforming Healthcare Data with Graph-based Techniques Using SAIL DataBank](https://nhsx.github.io/nhsx-internship-projects/transforming-healthcare-data-graph-based-sail/)
-
----
 ## Other Areas of Interest
 *We are currently thinking of looking at projects on these topics.  Please get in touch if you have related interests:*
 
@@ -101,6 +100,9 @@ Below is a list of internship projects which are continually being updated and a
 - ![area](https://img.shields.io/badge/Explainability-orange)
 ![techniques](https://img.shields.io/badge/LIME-lightgrey)
 ![datamodality](https://img.shields.io/badge/Images-ff69b4) &nbsp; [Explaining facial skin disease classification using LIME](https://nhsx.github.io/nhsx-internship-projects/explaining-classification-using-lime/)
+- ![area](https://img.shields.io/badge/MachineLearning-blue)
+![technique](https://img.shields.io/badge/UnspervisedClassification-lightgrey)
+![datamodality](https://img.shields.io/badge/TabularData-green) &nbsp; [Predicting the Impact of Health Inequalities - Diabetes](https://nhsx.github.io/nhsx-internship-projects/population-health-and-inequalities/)
 - ![area](https://img.shields.io/badge/NLP-yellow)
 ![technique](https://img.shields.io/badge/STM-lightgrey)
 ![datamodality](https://img.shields.io/badge/TextData-9cf) &nbsp; [Structural Topic Modelling on Contact Tracing Feedback Data](https://nhsx.github.io/nhsx-internship-projects/structural-topic-modelling-contact-tracing-feedback)
