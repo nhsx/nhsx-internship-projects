@@ -37,10 +37,10 @@ Below is a list of internship projects which are continually being updated and a
 ![technique](https://img.shields.io/badge/Memorisation-lightgrey)
 ![datamodality](https://img.shields.io/badge/MultiModalData-blueviolet)  &nbsp; [Understanding Privacy Leakage when using Large-scale Language Model in Healthcare](https://nhsx.github.io/nhsx-internship-projects/language-model-privacy-leakage/)
 
-
 ---
 
 ## Newly Proposed and Open Projects
+*Further projects which are open to applications for future internship cycles.*
 
 - ![area](https://img.shields.io/badge/Explainability-orange)
 ![technique](https://img.shields.io/badge/XAI-lightgrey)
@@ -141,4 +141,4 @@ Below is a list of internship projects which are continually being updated and a
 ![datamodality](https://img.shields.io/badge/MultiModalData-blueviolet) &nbsp; [NHS Semantic Search](https://nhsx.github.io/nhsx-internship-projects/nhs-semantic-search/)
 
 ---
-More information on the internship scheme can be found on the [NHSX internship scheme for innovation and analytics in health](https://www.nhsx.nhs.uk/key-tools-and-info/nhsx-analytics-unit/nhsx-internship-scheme-innovation-and-analytics-health/) website.
+More information on the internship scheme can be found on the [NHS England internship scheme for innovation and analytics in health](https://www.nhsx.nhs.uk/key-tools-and-info/nhsx-analytics-unit/nhsx-internship-scheme-innovation-and-analytics-health/) website.
