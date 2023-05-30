@@ -6,7 +6,7 @@ permalink: /
 
 # Internship Projects
 
-Below is a list of internship projects which are continually being updated and added to. We also welcome project proposals from both prospective students and interested organisations.  Please contact us at the [DART mailbox](analytics-unit@nhsx.nhs.uk) with any queries.
+Below is a list of internship projects which are continually being updated and added to. We also welcome project proposals from both prospective students and interested organisations.  Please contact us at the [DART mailbox](england.tdau@nhs.net) with any queries.
 
 ---
 ## Active Projects
