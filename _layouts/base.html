@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+
+{% include header.html %}
+
+<body>
+  {% include navbar.html %}
+
+  <script>
+    document.body.className = document.body.className
+      ? document.body.className + " js-enabled"
+      : "js-enabled";
+  </script>
+
+  <div class="nhsuk-width-container">
+    <main class="nhsuk-main-wrapper" id="maincontent" role="main">
+      <div class="nhsuk-grid-row">
+        <div class="nhsuk-grid-column">
+        
+
+          {{ content }}
+        </div>
+      </div>
+    </main>
+  </div>
+
+  {% include footer.html %}
+</body>
+
+<script src="https://cdn.jsdelivr.net/gh/MarketingPipeline/Markdown-Tag/markdown-tag-GitHub.js"></script>
+
+</html>

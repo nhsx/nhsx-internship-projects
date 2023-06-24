@@ -1,4 +1,11 @@
 domain: nhsx.github.io
 url: https://nhsx.github.io
-baseurl: /nhsx-internship-projects/ 
-remote_theme: nhsx/nhs-io-theme
+baseurl: /nhsx-internship-projects/
+repository: nhsx/nhsx-internship-projects
+title: NHS England Data Science PhD Internships
+description: Public facing materials for our work
+email: datascience@nhs.net
+github_username: nhsengland
+plugins:
+  - jemoji
+
