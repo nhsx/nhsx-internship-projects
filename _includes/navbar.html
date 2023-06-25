@@ -7,8 +7,13 @@
     /* Modify brand and text color */
      
     .navbar-custom .navbar-brand,
-    .navbar-custom .navbar-text {
+    .navbar-custom .navbar-text,
+    .navbar-custom .navbar-a,
+    .navbar-custom .navbar-a:visited {
         color: rgb(255, 255, 255);
+    }
+    .navbar-custom .navbar-a:hover {
+        color: #f6f6f66b;
     }
 </style>
 
@@ -21,25 +26,22 @@
         <div class="collapse navbar-collapse" id="navbarScroll">
             <ul class="navbar-nav me-auto my-2 my-lg-0 navbar-nav-scroll" style="--bs-scroll-height: 100px;" color="white"">
                 <li class="nav-item">
-                    <a class="nav-link{% if page.url == '/DataScience/nhse-internship-projects/' %} active{% endif %}" aria-current="page" href="/DataScience/nhse-internship-projects/">Home</a>
+                    <a class="nav-link{% if page.url == '/nhsx-internship-projects/' %} active{% endif %}" aria-current="page" href="/nhsx-internship-projects/">Home</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link{% if page.url == '/DataScience/nhse-internship-projects/overview.html' %} active{% endif %}" href="/DataScience/nhse-internship-projects/overview.html">Overview</a>
+                    <a class="nav-link{% if page.url == '/nhsx-internship-projects/overview.html' %} active{% endif %}" href="/nhsx-internship-projects/overview.html">Overview</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link{% if page.url == '/DataScience/nhse-internship-projects/projects.html' %} active{% endif %}" href="/DataScience/nhse-internship-projects/projects.html">Projects</a>
+                    <a class="nav-link{% if page.url == '/nhsx-internship-projects/active.html' %} active{% endif %}" href="/nhsx-internship-projects/active.html">Projects</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link{% if page.url == '/DataScience/nhse-internship-projects/waysofworking.html' %} active{% endif %}" href="/DataScience/nhse-internship-projects/waysofworking.html">Ways of Working</a>
+                    <a class="nav-link{% if page.url == '/nhsx-internship-projects/waysofworking.html' %} active{% endif %}" href="/nhsx-internship-projects/waysofworking.html">Ways of Working</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link{% if page.url == '/DataScience/nhse-internship-projects/feedback.html' %} active{% endif %}" href="/DataScience/nhse-internship-projects/feedback.html">Feedback</a>
+                    <a class="nav-link{% if page.url == '/nhsx-internship-projects/feedback.html' %} active{% endif %}" href="/nhsx-internship-projects/feedback.html">Feedback</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link{% if page.url == '/DataScience/nhse-internship-projects/completeed.html' %} active{% endif %}" href="/DataScience/nhse-internship-projects/completed.html">Previous Projects</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">{{ site.description | default: site.github.project_tagline }}</a>
+                    <a class="nav-link{% if page.url == '/nhsx-internship-projects/completeed.html' %} active{% endif %}" href="/nhsx-internship-projects/completed.html">Previous Projects</a>
                 </li>
             </ul>
         </div>
