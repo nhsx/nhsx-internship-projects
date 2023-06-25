@@ -17,7 +17,7 @@ For details around **how to apply** see the Scheme Overview page.
         <img class="nhsuk-card__img" src="assets/img/graph.jpg" alt="teaser" />
         <div class="nhsuk-card__content">
             <h2 class="nhsuk-card__heading nhsuk-heading-m">
-            <a class="nhsuk-card__link" href="projects.html">Current and Available Projects</a>
+            <a class="nhsuk-card__link" href="active.html">Current and Available Projects</a>
             </h2>
             <p class="nhsuk-card__description">List of active and open projects to either get involved with or apply to in our next round</p>
         </div>
