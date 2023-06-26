@@ -1,5 +1,5 @@
 ---
-layout: projects
+layout: projects_old
 title: Projects - Completed or Paused
 description: list of projects
 permalink: archive.html
@@ -33,6 +33,9 @@ These projects have either been completed, have been puased whilst other project
 
 #### Paused Projects
 
+- ![area](https://img.shields.io/badge/Explainability-orange)
+![technique](https://img.shields.io/badge/XAI-lightgrey)
+![datamodality](https://img.shields.io/badge/MultiModalData-blueviolet) &nbsp; [AI Safety in Healthcare - Advances in Explainability Across Modalities](https://nhsx.github.io/nhsx-internship-projects/advances-modalities-explainability/)
 - ![area](https://img.shields.io/badge/NLP-yellow)
 ![technique](https://img.shields.io/badge/GenerativeLanguage-lightgrey)
 ![datamodality](https://img.shields.io/badge/TextData-9cf) &nbsp; [Augmenting Text Generation in Healthcare with Knowledge Retrieval Approaches](https://nhsx.github.io/nhsx-internship-projects/text-generation-knowledge-retreival/)
@@ -40,14 +43,26 @@ These projects have either been completed, have been puased whilst other project
 ![technique](https://img.shields.io/badge/ABM-lightgrey)
 ![datamodality](https://img.shields.io/badge/TabularData-green) &nbsp; [Building an NHS Agent Based Model in HashAi](https://nhsx.github.io/nhsx-internship-projects/agent-based-model-hash-ai/)
 - ![area](https://img.shields.io/badge/NLP-yellow)
+![technique](https://img.shields.io/badge/Embeddings-lightgrey)
+![datamodality](https://img.shields.io/badge/TextData-9cf) &nbsp; [Exploring Large-scale Language Models with NHS Incident Data - Next Steps](https://nhsx.github.io/nhsx-internship-projects/incident-language-model-update/)
+- ![area](https://img.shields.io/badge/Simulation-darkblue)
+![technique](https://img.shields.io/badge/ABM-lightgrey)
+![datamodality](https://img.shields.io/badge/MultiModalData-blueviolet) &nbsp;  [Metadata API for ABMs](https://nhsx.github.io/nhsx-internship-projects/metadata-api-abm/)
+- ![area](https://img.shields.io/badge/NLP-yellow)
 ![technique](https://img.shields.io/badge/Curation-lightgrey)
 ![datamodality](https://img.shields.io/badge/TextData-9cf) &nbsp; [NHS Language Corpus](https://nhsx.github.io/nhsx-internship-projects/nhs-language-corpus/)
+- ![area](https://img.shields.io/badge/Synthetic-brightgreen)
+![technique](https://img.shields.io/badge/QLearning-lightgrey)
+![datamodality](https://img.shields.io/badge/TabularData-green) &nbsp; [Optimisation and Learning Algorithms on Patient Pathways](https://nhsx.github.io/nhsx-internship-projects/synthea-learning/)
 - ![area](https://img.shields.io/badge/Synthetic-brightgreen)
 ![technique](https://img.shields.io/badge/Simulation-lightgrey)
 ![datamodality](https://img.shields.io/badge/TabularData-green) &nbsp; [Synthetic Data Exploration - Longitudinal](https://nhsx.github.io/nhsx-internship-projects/synthetic-data-exploration-longitudinal/)
 - ![area](https://img.shields.io/badge/Synthetic-brightgreen)
 ![technique](https://img.shields.io/badge/BayesianNetworks-lightgrey)
 ![datamodality](https://img.shields.io/badge/TabularData-green) &nbsp; [Synthetic Data Exploration - Probablistic Graphical Models](https://nhsx.github.io/nhsx-internship-projects/synthetic-data-exploration-probablistic-graphical-models/)
+- ![area](https://img.shields.io/badge/NLP-yellow)
+![technique](https://img.shields.io/badge/SyntheticGeneration-lightgrey)
+![datamodality](https://img.shields.io/badge/TextData-9cf) &nbsp; [Synthetic Text Generation in Healthcare](https://nhsx.github.io/nhsx-internship-projects/synthetic-data-exploration-text/)
 
 #### Archived Projects
 
