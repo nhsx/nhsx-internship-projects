@@ -12,7 +12,7 @@ Below is a list of internship projects which are continually being updated and a
 ---
 
 ## Newly Proposed and Open Projects
-*Further projects which are open to applications for future internship cycles.*
+*These projects are currently open for applications in the Autumn.  Happy to discuss the briefs and listen to suggestions to fine tune them*
 
 |:---:|---|
 |![area](https://img.shields.io/badge/PETs-red) &nbsp; ![technique](https://img.shields.io/badge/HomomorphicEncryption-lightgrey) &nbsp; ![datamodality](https://img.shields.io/badge/TabularData-green) &emsp; &emsp; &emsp; &emsp; &emsp; |[Applied Privacy Enhancing Technologies in Healthcare](https://nhsx.github.io/nhsx-internship-projects/pets-in-healthcare/)|
@@ -27,7 +27,7 @@ Below is a list of internship projects which are continually being updated and a
 
 ---
 ## Closed Projects
-*Completed Projects, currently paused projects that need further research, and ideas we’ve decided not to take forwards and archived*
+*Completed Projects are ones which our previous interns have finished and reported on.  There may still be many areas or investigation possible with these and so happy to talk about redeveloping these.
 
 #### Completed Projects
 
@@ -39,6 +39,7 @@ Below is a list of internship projects which are continually being updated and a
 |![area](https://img.shields.io/badge/MachineLearning-blue) &nbsp; ![techniques](https://img.shields.io/badge/ModelClassReliance-lightgrey) &nbsp; ![datamodality](https://img.shields.io/badge/TabularData-green)|[Value of Commercial Product Sales Data in Healthcare Prediction](https://nhsx.github.io/nhsx-internship-projects/commercial-data-healthcare-predictions/)|
 
 #### Paused Projects
+*Paused projects are ones which we have advertised in the past and still interested in but either have be de-prioritised, need further research or there is an issue with data access delaying the work.  Happy to discuss these briefs if you see opportunity*
 
 |:---:|---|
 |![area](https://img.shields.io/badge/Explainability-orange) &nbsp; ![technique](https://img.shields.io/badge/XAI-lightgrey) &nbsp; ![datamodality](https://img.shields.io/badge/MultiModalData-blueviolet) &emsp; &emsp; &emsp; &emsp; &emsp; |[AI Safety in Healthcare - Advances in Explainability Across Modalities](https://nhsx.github.io/nhsx-internship-projects/advances-modalities-explainability/)|
@@ -53,6 +54,7 @@ Below is a list of internship projects which are continually being updated and a
 |![area](https://img.shields.io/badge/NLP-yellow) &nbsp; ![technique](https://img.shields.io/badge/SyntheticGeneration-lightgrey) &nbsp; ![datamodality](https://img.shields.io/badge/TextData-9cf)|[Synthetic Text Generation in Healthcare](https://nhsx.github.io/nhsx-internship-projects/synthetic-data-exploration-text/)|
 
 #### Archived Projects
+*Projects which we have decided not to go ahead with either due to lack or interest, data or deprioritised work.*
 
 |:---:|---|
 |![area](https://img.shields.io/badge/Geospatial-blue) &emsp; &emsp; &emsp; &emsp; &emsp; |[Granular Mapping](https://nhsx.github.io/nhsx-internship-projects/granular-mapping/)|

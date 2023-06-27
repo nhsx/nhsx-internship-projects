@@ -1,6 +1,6 @@
 - title: P34 - Using Hypergraphs to Investigate the Impact of Comorbidities  
-  code link: github.com/nhsx/hypergraph-testing
-  report link: Coming Autumn 2023
+  codelink: "https://github.com/nhsx/hypergraph-testing"
+  reportlink: ComingAutumn2023
   case study link: tbu
   stage: Wave 3 - June to December 2022
   badge1: Representations of Complex Data
@@ -11,8 +11,8 @@
   supervisor: Dan Schofield & Kevin Fasusi
 
 - title: P33 - Exploring Large-scale Language Models with NHS Incident Data
-  code link: https://github.com/nhsx/ELM4PSIR
-  report link: https://github.com/nhsx/ELM4PSIR/blob/main/reports/ELM4PSIR_NT_v1.1.pdf
+  codelink: "https://github.com/nhsx/ELM4PSIR"
+  reportlink: "https://github.com/nhsx/ELM4PSIR/blob/main/reports/ELM4PSIR_NT_v1.1.pdf"
   case study link: tbu
   stage: Wave 3 - June to December 2022
   badge1: NLP
@@ -23,8 +23,8 @@
   supervisor: Dan Schofield
 
 - title: P32 - Predicting the Impact of Health Inequalities - Diabetes
-  code link: https://github.com/nhsx/ESNEFT_diabetes_StephenRicher
-  report link: https://github.com/nhsx/ESNEFT_diabetes_StephenRicher/blob/main/stephen-richer-report.pdf
+  codelink: https://github.com/nhsx/ESNEFT_diabetes_StephenRicher"
+  reportlink: https://github.com/nhsx/ESNEFT_diabetes_StephenRicher/blob/main/stephen-richer-report.pdf"
   case study link: tbu
   stage: Wave 3 - June to December 2022
   badge1: RAP Code
@@ -35,8 +35,8 @@
   supervisor: Paul Carroll
 
 - title: P31 - Txt-Ray Align Continued
-  code link: github.com/nhsx/txt-ray-align
-  report link: github.com/nhsx/txt-ray-align/blob/main/report/TxtRayAlign_Report2_SH.pdf
+  codelink: "https://github.com/nhsx/txt-ray-align"
+  reportlink: "https://github.com/nhsx/txt-ray-align/blob/main/report/TxtRayAlign_Report2_SH.pdf"
   case study link: tbu
   stage: Wave 3 - June to December 2022
   badge1: NLP
@@ -50,8 +50,8 @@
 
 
 - title: P24 - Using LIME to explain facial disease classification
-  code link: github.com/nhsx/LIME-XAI-Facial-Disease-Classification
-  report link: github.com/nhsx/LIME-XAI-Facial-Disease-Classification/blob/main/reports/report_AM.pdf
+  codelink: "https://github.com/nhsx/LIME-XAI-Facial-Disease-Classification"
+  reportlink: "https://github.com/nhsx/LIME-XAI-Facial-Disease-Classification/blob/main/reports/report_AM.pdf"
   case study link: tbu
   stage: Wave 2 - January to May 2022
   badge1: Model Explainability
@@ -62,8 +62,8 @@
   supervisor: Jonny Pearson
 
 - title: P23 - STM for survey data
-  code link: github.com/nhsx/stm-survey-text
-  report link: github.com/nhsx/stm-survey-text/blob/main/reports/report_stm.pdf
+  codelink: "https://github.com/nhsx/stm-survey-text"
+  reportlink: "https://github.com/nhsx/stm-survey-text/blob/main/reports/report_stm.pdf"
   case study link: tbu
   stage: Wave 2 - January to May 2022
   badge1: RAP code
@@ -74,8 +74,8 @@
   supervisor: Paul Carroll
 
 - title: P22 - Txt-Ray Align
-  code link: github.com/nhsx/txt-ray-align
-  report link: github.com/nhsx/txt-ray-align/blob/main/report/TxtRayAlign_Report_DZ.pdf
+  codelink: "https://github.com/nhsx/txt-ray-align"
+  reportlink: "https://github.com/nhsx/txt-ray-align/blob/main/report/TxtRayAlign_Report_DZ.pdf"
   case study link: tbu
   stage: Wave 2 - January to May 2022
   badge1: NLP
@@ -86,8 +86,8 @@
   Supervisor: Dan Schofield
 
 - title: P21 - SynthVAE Continued
-  code link: github.com/nhsx/SynthVAE
-  report link: github.com/nhsx/SynthVAE/blob/main/reports/NHSXSynthVAE%20(2).pdf
+  codelink: "https://github.com/nhsx/SynthVAE"
+  reportlink: "https://github.com/nhsx/SynthVAE/blob/main/reports/NHSXSynthVAE%20(2).pdf"
   case study link: tbu
   stage: Wave 2 - January to May 2022
   badge1: Synthetic Data
@@ -102,8 +102,8 @@
 
 
 - title: P14 - Model Class Reliance
-  code link: https://github.com/nhsx/commercial-data-healthcare-predictions
-  report link: https://github.com/nhsx/commercial-data-healthcare-predictions/blob/main/report/NHSX%20Report_ValueofCommercialProductSalesDatainHealthcarePrediction_V2.pdf
+  codelink: https://github.com/nhsx/commercial-data-healthcare-predictions"
+  reportlink: https://github.com/nhsx/commercial-data-healthcare-predictions/blob/main/report/NHSX%20Report_ValueofCommercialProductSalesDatainHealthcarePrediction_V2.pdf"
   case study link: tbu
   stage: Wave 1 - April to September 2021
   badge1: Model Explainability
@@ -114,8 +114,8 @@
   Supervisor: Jonny Pearson
 
 - title: P13 - NHS Text Data Exploration
-  code link: Available on Request
-  report link: Available on Request
+  codelink: AvailableOnRequest
+  reportlink: AvailableOnRequest
   case study link: tbu
   stage: Wave 1 - April to September 2021
   badge1: Synthetic Data
@@ -126,8 +126,8 @@
   Supervisor: Dan Schofield
 
 - title: P12 - SynthVAE
-  code link: github.com/nhsx/SynthVAE
-  report link: github.com/nhsx/SynthVAE/blob/main/reports/report.pdf
+  codelink: "https://github.com/nhsx/SynthVAE"
+  reportlink: "https://github.com/nhsx/SynthVAE/blob/main/reports/report.pdf"
   case study link: tbu
   stage: Wave 1 - April to September 2021
   badge1: Synthetic Data
@@ -139,8 +139,8 @@
   
 
 - title: P11 - SynPathDiabetes
-  code link: github.com/nhsx/SynPath_Diabetes
-  report link: github.com/nhsx/.../Technical%20Report%20(SynPath%20Diabetes)%20v1.pdf
+  codelink: "https://github.com/nhsx/SynPath_Diabetes"
+  reportlink: "https://github.com/nhsx/.../Technical%20Report%20(SynPath%20Diabetes)%20v1.pdf"
   case study link: tbu
   stage: Wave 1 - April to September 2021
   badge1: Simulation
