@@ -5,7 +5,7 @@ repository: nhsx/nhsx-internship-projects
 title: NHS England Data Science PhD Internships
 description: Public facing materials for our work
 email: datascience@nhs.net
-github_username: nhsengland
+github_username: nhsx
 plugins:
   - jemoji
 
