@@ -1,0 +1,45 @@
+---
+layout: base
+description: 
+---
+
+<div class="page-title">
+  <h1>Completed Intern Projects</h1>
+</div>
+
+{% for stage in site.data.kanban %}
+
+<br />
+<div class="notice-success">
+  <h2 style="color: rgb(0, 0, 0)">{{stage.name}}</h2>
+</div>
+
+<ul class="nhsuk-grid-row nhsuk-card-group">
+  {% for proj in site.data.completed %}{% if stage.name == proj.stage %}
+
+  <li class="nhsuk-grid-column-one-third nhsuk-card-group__item">
+    <div class="nhsuk-card nhsuk-card--clickable">
+      <div class="nhsuk-card__content">
+        <h2 class="nhsuk-card__heading nhsuk-heading-m">
+          <a class="nhsuk-card__link" href="{{proj.codelink}}">{{proj.title}}</a>
+        </h2>
+        <h6 class="post-author" itemprop="author">{{proj.author}}</h6>
+        <p class="nhsuk-card__description"> {{proj.description}} </p>
+        <p> <a href={{proj.reportlink}}>Published Report</a>  </p>
+        <td class="nhsuk-table__cell">
+          <strong class="nhsuk-tag"> {{proj.badge1}} </strong>
+        </td>
+        <td class="nhsuk-table__cell">
+          <strong class="nhsuk-tag"> {{proj.badge2}} </strong>
+        </td>
+        <td class="nhsuk-table__cell">
+          <strong class="nhsuk-tag"> {{proj.badge3}} </strong>
+        </td>
+      </div>
+    </div>
+  </li>
+  {% endif %} {% endfor %}
+</ul>
+{% endfor %}
+
+
