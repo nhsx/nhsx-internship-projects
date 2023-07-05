@@ -114,8 +114,8 @@
   Supervisor: Jonny Pearson
 
 - title: P13 - NHS Text Data Exploration
-  codelink: AvailableOnRequest
-  reportlink: AvailableOnRequest
+  codelink: "holding.html"
+  reportlink: "holding.html"
   case study link: tbu
   stage: Wave 1 - April to September 2021
   badge1: Synthetic Data
