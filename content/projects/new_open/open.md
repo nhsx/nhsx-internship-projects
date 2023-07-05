@@ -7,7 +7,7 @@ permalink: open.html
 
 # {{page.title}}
 
-Below is a list of internship projects which are continually being updated and added to. We also welcome project proposals from both prospective students and interested organisations.  Please contact us at our [mailbox](england.tdau@nhs.net) if you would have queries or would like to discus a proposal.
+Below is a list of internship projects which are continually being updated and added to. We also welcome project proposals from both prospective students and interested organisations.  Please contact us at <a href="mailto:datascience@nhs.net">our mailbox</a> if you would have queries or would like to discus a proposal.
 
 ---
 

@@ -7,7 +7,7 @@ permalink: projects.html
 
 # {{page.title}}
 
-Below is a list of internship projects which are continually being updated and added to. We also welcome project proposals from both prospective students and interested organisations.  Please contact us at our [mailbox](england.tdau@nhs.net) if you would have queries or would like to discus a proposal.
+Below is a list of internship projects which are continually being updated and added to. We also welcome project proposals from both prospective students and interested organisations.  Please contact us at <a href="mailto:datascience@nhs.net">our mailbox</a> if you would have queries or would like to discus a proposal.
 
 ---
 
@@ -27,9 +27,9 @@ Below is a list of internship projects which are continually being updated and a
 
 ---
 ## Closed Projects
-*Completed Projects are ones which our previous interns have finished and reported on.  There may still be many areas or investigation possible with these and so happy to talk about redeveloping these.
 
 #### Completed Projects
+*Completed Projects are ones which our previous interns have finished and reported on.  There may still be many areas or investigation possible with these and so happy to talk about redeveloping these.*
 
 |:---:|---|
 |![area](https://img.shields.io/badge/Explainability-orange)  &nbsp; ![techniques](https://img.shields.io/badge/LIME-lightgrey)  &nbsp; ![datamodality](https://img.shields.io/badge/Images-ff69b4) &emsp; &emsp; &emsp; &emsp; &emsp; |[Explaining facial skin disease classification using LIME](https://nhsx.github.io/nhsx-internship-projects/explaining-classification-using-lime/)|

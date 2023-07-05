@@ -11,7 +11,7 @@ permalink: feedback.html
   <details class="nhsuk-details nhsuk-expander">
     <summary class="nhsuk-details__summary">
       <span class="nhsuk-details__summary-text">
-        David Brind - June 2022
+        David Brind - June 2022 Wave 2
       </span>
     </summary>
     <div class="nhsuk-details__text">
@@ -27,7 +27,7 @@ permalink: feedback.html
   <details class="nhsuk-details nhsuk-expander">
     <summary class="nhsuk-details__summary">
       <span class="nhsuk-details__summary-text">
-        Anna Linton - April 2022
+        Anna Linton - April 2022 Wave 2
       </span>
     </summary>
     <div class="nhsuk-details__text">
@@ -44,7 +44,7 @@ permalink: feedback.html
   <details class="nhsuk-details nhsuk-expander">
     <summary class="nhsuk-details__summary">
       <span class="nhsuk-details__summary-text">
-        Tiyi Morris - Sep 2021
+        Tiyi Morris - Sep 2021 Wave 1
       </span>
     </summary>
     <div class="nhsuk-details__text">
@@ -61,7 +61,7 @@ permalink: feedback.html
   <details class="nhsuk-details nhsuk-expander">
     <summary class="nhsuk-details__summary">
       <span class="nhsuk-details__summary-text">
-        Dom Danks - Oct 2021
+        Dom Danks - Oct 2021 Wave 1
       </span>
     </summary>
     <div class="nhsuk-details__text">

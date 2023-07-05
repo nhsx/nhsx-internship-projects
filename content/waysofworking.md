@@ -15,7 +15,7 @@ More formal milestone meetings are also requested in order to run the project pa
 It is expected at the beginning of the project that these milestones will be agreed between candidate and supervisor, and put in place to support monitoring of the project timelines, but should reflect releases of product / stages of the project where possible. 
  
 <p align="center"> 
-  <img src="assets/img/milestoneTimeline.png" alt="Rough project structure with monthly milestones and linear sprints" width="800"/>
+  <img src="assets/img/milestoneTimeline.png" alt="Rough project structure with monthly milestones and linear sprints" width="600"/>
 </p>
 
 Apart from this we can be very flexible to accommodate the working style of the intern.  Some projects have worked well with set work packages that are progressed in parallel.  Other projects have preferred a more fluid approach with a minimum aim and then open avenues to explore as understanding increases.  The main point is to ensure the intern is supported to deliver in a way suited to them whilst maintaining pace and an eye on the final deliverable. 

@@ -1,6 +1,6 @@
 - title: P34 - Using Hypergraphs to Investigate the Impact of Comorbidities  
-  codelink: "https://github.com/nhsx/hypergraph-testing"
-  reportlink: ComingAutumn2023
+  codelink: "holding.html"
+  reportlink: "holding.html"
   case study link: tbu
   stage: Wave 3 - June to December 2022
   badge1: Representations of Complex Data
@@ -23,8 +23,8 @@
   supervisor: Dan Schofield
 
 - title: P32 - Predicting the Impact of Health Inequalities - Diabetes
-  codelink: https://github.com/nhsx/ESNEFT_diabetes_StephenRicher"
-  reportlink: https://github.com/nhsx/ESNEFT_diabetes_StephenRicher/blob/main/stephen-richer-report.pdf"
+  codelink: "https://github.com/nhsx/ESNEFT_diabetes_StephenRicher"
+  reportlink: "https://github.com/nhsx/ESNEFT_diabetes_StephenRicher/blob/main/stephen-richer-report.pdf"
   case study link: tbu
   stage: Wave 3 - June to December 2022
   badge1: RAP Code
