@@ -15,14 +15,14 @@ For details on **how to apply** see the <a href="/nhsx-internship-projects/overv
 
 For details on **open projects** see the <a href="/nhsx-internship-projects/projects.html">Projects</a> page
 ### Current Projects 
-Currently our interns are working on the following six projects in two waves.  These are the original briefs they applied to and their work and outputs will be available on our organisation github.
+Currently our interns are working on the following six projects in two waves.  These are the original briefs they applied to and their work and outputs will be available on our organisation GitHub.
 
 |:---:|--|
-|**January 2023 - Wave 4**|
+|**Wave 4 (January - June 2023)**|
 |![area](https://img.shields.io/badge/NLP-yellow) &nbsp; ![technique](https://img.shields.io/badge/CogStack-lightgrey) &nbsp; ![datamodality](https://img.shields.io/badge/TextData-9cf) &emsp; &emsp; &emsp; &emsp; &emsp; |[Enriching Neurology Patient Information using MedCAT](https://nhsx.github.io/nhsx-internship-projects/enriching-neurology-information-medcat/)|
 |![area](https://img.shields.io/badge/Synthetic-brightgreen) &nbsp; ![technique](https://img.shields.io/badge/VAE-lightgrey) &nbsp; ![datamodality](https://img.shields.io/badge/TabularData-green)|[SynthVAE - Next Steps](https://nhsx.github.io/nhsx-internship-projects/synthvae-extension/)|
 |![area](https://img.shields.io/badge/Graphs-yellowgreen) &nbsp; ![technique](https://img.shields.io/badge/Hypergraphs-lightgrey) &nbsp; ![datamodality](https://img.shields.io/badge/TabularData-green)|[Transforming Healthcare Data with Graph-based Techniques - Next Steps](https://nhsx.github.io/nhsx-internship-projects/transforming-healthcare-data-graph-based-sail-update/)|
-|**June 2023 - Wave 5**|
+|**Wave 5 (June - November 2023)**|
 |![area](https://img.shields.io/badge/Graphs-yellowgreen) &nbsp; ![technique](https://img.shields.io/badge/GNNs-lightgrey) &nbsp; ![datamodality](https://img.shields.io/badge/MultiModalData-blueviolet)|[Exploring Data Representations - Graph Neural Networks](https://nhsx.github.io/nhsx-internship-projects/exploring-data-representations-gnn/)|
 |![area](https://img.shields.io/badge/Simulation-darkblue) &nbsp; ![technique](https://img.shields.io/badge/ProcessMining-lightgrey) &nbsp; ![datamodality](https://img.shields.io/badge/TabularData-green)|[Process Mining to Generate Healthcare Pathways](https://nhsx.github.io/nhsx-internship-projects/process-mining-generate-pathways/)|
 |![area](https://img.shields.io/badge/NLP-yellow) &nbsp; ![technique](https://img.shields.io/badge/Memorisation-lightgrey) &nbsp; ![datamodality](https://img.shields.io/badge/MultiModalData-blueviolet)|[Understanding Privacy Leakage when using Language Models in Healthcare](https://nhsx.github.io/nhsx-internship-projects/language-model-privacy-leakage/)|
