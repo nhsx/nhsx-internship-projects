@@ -7,7 +7,7 @@ permalink: /nhs-synth-extended/
 
 # Extending NHSSynth into Multi-table, Multi-modal, and Longitudinal Data
 
-**Keywords:** Synthetic Data, VAE, Tabular 
+**Keywords:** Synthetic, VAE, Tabular 
 
 **Need:**  Over the course of three internship projects, we have developed [NHSSynth](https://github.com/nhsx/NHSSynth), a Variational AutoEncoder (VAE) with differential privacy built into a modular pipeline.  It allows tabular, single table, synthetic data to be generated alongside an evaluation metric suite, a fairness toolset, and an adversarial attack suite. 
 

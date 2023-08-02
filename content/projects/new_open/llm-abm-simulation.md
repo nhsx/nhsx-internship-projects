@@ -7,7 +7,7 @@ permalink: /llm-abm-simulation/
 
 # Simulating Healthcare Scenarios with LLMs as Agents
 
-**Keywords:** ABMs, LLMs, Text 
+**Keywords:** Simulation, ABM, Text 
 
 **Need:**  The use of Large Language Models (LLMs) as Autonomous Agents is a nascent field but has already generated a large amount of interest for a variety of use-cases, new packages and corresponding workstreams.  Within this framework, the language model is prompted to take on various roles, is allowed to interact with its environment, make use of a memory store, and even access tools to improve its ability at specific tasks. 
 

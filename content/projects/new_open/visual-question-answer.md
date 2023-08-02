@@ -7,7 +7,7 @@ permalink: /visual-question-answer/
 
 # Exploring Medical Visual Question Answering Approaches and Advancements
 
-**Keywords:**  VQA, Imaging, Multi-modal
+**Keywords:**  NLP, VQA, Multi-modal
 
 **Need:**  Visual Question Answering (VQA) is an interesting challenge combining different disciplines, including computer vision, natural language understanding, and deep learning techniques. VQA in the medical domain incorporates areas such as diagnosis, helping patients understand their medical conditions, and answering the corresponding questions accurately in unlabelled datasets. 
 

@@ -7,7 +7,7 @@ permalink: /eval-ner-histopathology-goshdrive/
 
 # Evaluating NER-focussed models and LLMs for identifying key entities in histopathology reports – working with GOSH DRIVE
 
-**Keywords:** LLMs, Named Entity Recognition, Text
+**Keywords:** NLP, NER, Text
 
 **Need:**  Information retrieval and knowledge extraction from corpora of domain-specific documents is a challenging task. Recently Large Language Models (LLMs) have become popular for their ability to demonstrate state-of-the-art performance and in-context learning.  However, despite their success, recent work has shown that performance of LLMs on Named Entity Recognition (NER) tasks is often below supervised baselines (see for instance [Wang et al, 2023](https://arxiv.org/abs/2304.10428)). 
 
