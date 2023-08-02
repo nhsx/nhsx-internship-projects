@@ -31,14 +31,13 @@ Within the topic area of the chosen project, there will be some freedom to direc
 
 As the candidate will be a NHS England employee during the internship period, standard employment checks and some mandatory training are required.
 
-Key aims for the intern will be:
-- Progress the research project ensuring learning/outcomes are shareable with NHS England and where appropriate made suitable for publication. 
+A key aim for the intern will be to progress the research project ensuring learning/outcomes are shareable with NHS England and where appropriate made suitable for publication. 
 
 ### Projects
 
 A list of currently available projects can be found on the DART site with links to project specific details on github.  These projects are continually being added to and we welcome project proposals from both prospective students and interested organisations.  
 
-During the Project Period, the Student will be allocated an NHS England supervisor and in some instances a project specific mentor.   It is also required that an academic supervisor from the hosting university is identified before the student can accept the internship place.  
+During the Project Period, the student will be allocated an NHS England supervisor and in some instances a project specific mentor.   It is also required that an academic supervisor from the hosting university is identified before the student can accept the internship place.  
 
 ### Funding
 For the entirety of the internship, the applicant would be paid as a NHS band 6 (spine point 1) post according to NHS Terms and Conditions (AfC) pay scales - Annual

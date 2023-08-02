@@ -7,12 +7,12 @@ permalink: projects.html
 
 # {{page.title}}
 
-Below is a list of internship projects which are continually being updated and added to. We also welcome project proposals from both prospective students and interested organisations.  Please contact us at <a href="mailto:datascience@nhs.net">our mailbox</a> if you would have queries or would like to discus a proposal.
+Below is a list of internship projects which are continually being updated and added to. We also welcome project proposals from both prospective students and interested organisations.  Please contact us at <a href="mailto:datascience@nhs.net">our mailbox</a> if you would have queries or would like to discuss a proposal.
 
 ---
 
-## Newly Proposed and Open Projects
-*These projects are currently open for applications in the Autumn.  Happy to discuss the briefs and listen to suggestions to fine tune them*
+## Open Projects Accepting Applications
+*These projects are currently open for applications in the Autumn.  We are happy to discuss the briefs and hear suggestions to fine tune them*
 
 |:---:|---|
 |![area](https://img.shields.io/badge/PETs-red) &nbsp; ![technique](https://img.shields.io/badge/HomomorphicEncryption-lightgrey) &nbsp; ![datamodality](https://img.shields.io/badge/TabularData-green) &emsp; &emsp; &emsp; &emsp; &emsp; |[Applied Privacy Enhancing Technologies in Healthcare](https://nhsx.github.io/nhsx-internship-projects/pets-in-healthcare/)|

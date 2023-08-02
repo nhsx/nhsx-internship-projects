@@ -30,7 +30,7 @@ At the end of the project, we would look to have the following outputs alongside
 
 - **Project Code** - The key output of the project is the code.   We ask that where possible this code is made open through github.  This github repo [template](https://github.com/nhsx/analyticsunit-template) is encouraged for interns to use. We will also ask all our interns to be aware of and follow our coding in the open guidance and checklists to ensure that the code released is appropriate.
 - **Technical Report** - To enable a future user to understand the code and learning.  Expect the reader to have some basic knowledge of the area and to have access to the repo with the final code in.  Reference placeholders in the code and include code/project story to help reader understand the "why have they used this approach" as well as the what.  Suggest around 2-pages per month but depends on project need.
-- **Project Overview Slides** - 5 - 20 slides with a focus on describing the project aims and achievements
+- **Project Overview Slides** - around 10-20 slides with a focus on describing the project aims and achievements
 
 ### Optional
 - **Experience Blog** - Half page description of internship experience with learning/feedback.  Optional to do this as a blog but we will need to capture some feedback please.

@@ -7,11 +7,15 @@ permalink: /
 
 # {{page.title}}
 
-These internships are aimed at current PhD students looking for an industrial placement of around 5-months with the right to work in the UK.  The projects are focussed on innovation, in particular around getting the most value out of NHS data..  They often have a focus on emerging data science techniques and so we advertise mainly to data science programmes however previous interns have come from other disciplines such as clinical, mathematics, computer science and bioinformatics which have added huge value through the range of approaches and knowledge.
+Our internships are aimed at current PhD students looking for an industrial placement of around five months with the right to work in the UK.  The projects are focussed on innovation, in particular around getting the most value out of NHS data.
 
-For details around **how to apply** see the <a href="/nhsx-internship-projects/overview.html">Scheme Overview</a> page.  For details around **open projects** see the <a href="/nhsx-internship-projects/projects.html">Projects</a> page.
+The projects often have a focus on emerging data science techniques and so we advertise mainly to data science programmes, however previous interns have come from other disciplines such as clinical, mathematics, computer science and bioinformatics, which have added huge value through the range of approaches and knowledge.
+
+For details on **how to apply** see the <a href="/nhsx-internship-projects/overview.html">Scheme Overview</a> page 
+
+For details on **open projects** see the <a href="/nhsx-internship-projects/projects.html">Projects</a> page
 ### Current Projects 
-Currently our interns are working on the following six projects in two waves.  These are the original briefs they applied to.  Their work and outputs will be available on our organisation github.
+Currently our interns are working on the following six projects in two waves.  These are the original briefs they applied to and their work and outputs will be available on our organisation github.
 
 |:---:|--|
 |**January 2023 - Wave 4**|
@@ -48,4 +52,4 @@ Currently our interns are working on the following six projects in two waves.  T
   </li>
 </ul>
 
-Please get in contact by emailing <a href="mailto:datascience@nhs.net">our mailbox</a> with further questions around the internship.  
+Please get in contact by emailing <a href="mailto:datascience@nhs.net">our mailbox</a> with any further questions around the internship.  
