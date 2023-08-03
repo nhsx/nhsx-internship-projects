@@ -3,10 +3,10 @@
   reportlink: "holding.html"
   case study link: tbu
   stage: Wave 3 - June to December 2022
-  badge1: Representations of Complex Data
-  badge2: HyperGraphs
+  badge1: Representations of Data
+  badge2: Hypergraphs
   badge3: Python - Numba
-  description: In collaboration with Swansea University and the SAIL databank, this work focused on the generation of hypergraphs for investigating the individual and joint impact of comorbidities on a patient pathway.
+  description: In collaboration with Swansea University and the SAIL Databank, this work focused on the generation of hypergraphs for investigating the individual and joint impact of comorbidities on a patient pathway.
   author: Jamie Burke
   supervisor: Dan Schofield & Kevin Fasusi
 
@@ -17,7 +17,7 @@
   stage: Wave 3 - June to December 2022
   badge1: NLP
   badge2: DeCLUTR
-  badge3: Python - Pytorch, checklist
+  badge3: Python - Transformers
   description: In collaboration with the NHS England patient safety data team, an investigation into how to produce a useful and valid representation space when training a language model for a healthcare task.
   author: Niall Taylor
   supervisor: Dan Schofield
@@ -30,7 +30,7 @@
   badge1: RAP Code
   badge2: PHM Data
   badge3: Python - OSNnx
-  description: A collaboration with East Suffolk and North Essex foundation trust to apply a suite of data science techniques to a large population health data including both primary and secondary care data.
+  description: In collaboration with East Suffolk and North Essex foundation trust to apply a suite of data science techniques to a large population health data including both primary and secondary care data.
   author: Stephen Richer
   supervisor: Paul Carroll
 
@@ -39,7 +39,7 @@
   reportlink: "https://github.com/nhsx/txt-ray-align/blob/main/report/TxtRayAlign_Report2_SH.pdf"
   case study link: tbu
   stage: Wave 3 - June to December 2022
-  badge1: NLP
+  badge1: Multi-modal
   badge2: Validation in Healthcare
   badge3: Python
   description: This project sought to identify the clinical application, pipeline and validation metrics for this work.
@@ -57,7 +57,7 @@
   badge1: Model Explainability
   badge2: LIME
   badge3: Python
-  description: Application of Local Interoperable Model-agnostic Explanations to an InceptionV3 Classifyier looking at a Rosacea
+  description: Application of Local Interoperable Model-agnostic Explanations to an InceptionV3 classifier looking at a Rosacea
   author: Anwesha Mohanty
   supervisor: Jonny Pearson
 
@@ -78,10 +78,10 @@
   reportlink: "https://github.com/nhsx/txt-ray-align/blob/main/report/TxtRayAlign_Report_DZ.pdf"
   case study link: tbu
   stage: Wave 2 - January to May 2022
-  badge1: NLP
-  badge2: Contrastive Learning - Image & Text
+  badge1: Multi-modal
+  badge2: Contrastive Learning
   badge3: Python
-  description: An investigation of extracting insight from multi-modal data using contrastive learning.  
+  description: An investigation of extracting insight from multi-modal text and imaging data using contrastive learning.  
   author: Dekai Zhang
   Supervisor: Dan Schofield
 
@@ -93,7 +93,7 @@
   badge1: Synthetic Data
   badge2: VAE
   badge3: Python - PyTorch, Opacus
-  description: This project focused on non-Gaussian input data, hyper tuning the code and starting to consider how fairness in the created data can be assessed and implemented.
+  description: Building on SynthVAE - focused on non-Gaussian input data, hyperparameter tuning, improving the codebase and starting to consider how fairness in the created data can be assessed and implemented.
   author: David Brind
   Supervisor: Jonny Pearson
 
@@ -108,8 +108,8 @@
   stage: Wave 1 - April to September 2021
   badge1: Model Explainability
   badge2: Commercial Data
-  badge3: Python - mcrforest, Shap
-  description: Internship project investigating the use of MCR to identify the value of including commercial sales data in respiratory predictions
+  badge3: Python - mcrforest, SHAP
+  description: Investigating the use of MCR to identify the value of including commercial sales data in respiratory predictions
   author: Elizabeth Dolan
   Supervisor: Jonny Pearson
 
@@ -118,10 +118,10 @@
   reportlink: "holding.html"
   case study link: tbu
   stage: Wave 1 - April to September 2021
-  badge1: Synthetic Data
-  badge2: VAE
-  badge3: Python - PyTorch, Opacus
-  description: Using a pre-defined toolset this project looked to understand how to ingest NHS.UK textdata into a curated form. 
+  badge1: NLP
+  badge2: Weak Supervison
+  badge3: Python - scispaCy
+  description: Using a pre-defined toolset this project looked to understand how to ingest NHS.UK text data into a curated form. 
   author: Beth Rushton-Woods
   Supervisor: Dan Schofield
 
@@ -133,7 +133,7 @@
   badge1: Synthetic Data
   badge2: VAE
   badge3: Python - PyTorch, Opacus
-  description: The initial creation of a variational autoencoder with differential privacy for generating single table tabular gaussian data.
+  description: Initial creation of a variational autoencoder with differential privacy for generating single table tabular gaussian data.
   author: Dom  Danks
   Supervisor: Jonny Pearson
   

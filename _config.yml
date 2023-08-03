@@ -3,7 +3,7 @@ url: https://nhsx.github.io
 baseurl: /nhsx-internship-projects/
 repository: nhsx/nhsx-internship-projects
 title: NHS England Data Science PhD Internships
-description: Public facing materials for our work
+description: NHS England PhD Internship
 email: datascience@nhs.net
 github_username: nhsx
 plugins:

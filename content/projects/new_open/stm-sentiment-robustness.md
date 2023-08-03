@@ -7,7 +7,7 @@ permalink: /stm-sentiment-robustness/
 
 # Structural Topic Models and Sentiment Model Robustness - Next Steps
 
-**Keywords:**  NLP, STM, TextData 
+**Keywords:**  NLP, STM, Text
 
 **Need:**  Topic modelling is a particularly useful approach when trying to explore documents and provide unique insights.  Structured Topic Models extend classical topic modelling approaches to include other metadata with the goal of improving the output topics, and this has proven useful in a variety of different domains.  
 

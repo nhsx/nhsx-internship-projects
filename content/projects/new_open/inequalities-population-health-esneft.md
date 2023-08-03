@@ -7,7 +7,7 @@ permalink: /inequalities-population-health-esneft/
 
 # Inequalities in Population Health Data – Cardiovascular Disease or Cancer Datasets – Working with ESNEFT
 
-**Keywords:**  MachineLearning, UnsupervisedClassification, TabularData
+**Keywords:**  MachineLearning, UnsupervisedClassification, Tabular
 
 **Need:**  The pandemic has shone a brighter light on health inequalities. The NHS needs to take steps to develop population health management approaches that address inequalities in access, experience, and outcomes.
 
