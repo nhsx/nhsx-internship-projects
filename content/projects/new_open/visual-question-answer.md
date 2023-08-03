@@ -31,8 +31,8 @@ The project would look to understand the current state of Medical VQA, the avail
 **Outcome/Learning Objectives:**  The project would look to build an understanding of the state of the field of VQA and the challenges specific to the healthcare domain.
 
 **Datasets:** 
-- [Visual Question Answering in the Medical Domain | ImageCLEF / LifeCLEF - Multimedia Retrieval in CLEF](https://www.imageclef.org/2020/medical/vqa)
-- [ImageCLEF-VQAMed | ImageCLEF / LifeCLEF - Multimedia Retrieval in CLEF](https://www.imageclef.org/2021/medical/vqa)
+- [Visual Question Answering in the Medical Domain, ImageCLEF / LifeCLEF - Multimedia Retrieval in CLEF](https://www.imageclef.org/2020/medical/vqa)
+- [ImageCLEF-VQAMed, ImageCLEF / LifeCLEF - Multimedia Retrieval in CLEF](https://www.imageclef.org/2021/medical/vqa)
 - [RadQA: A Question Answering Dataset to Improve Comprehension of Radiology Reports](https://physionet.org/content/radqa/1.0.0/)
 
 **Desired skill set:**  When applying please highlight any experience around computer vision, natural language processing, multi-modal data, coding experience (including any coding in the open), and any other data science experience you feel relevant.
