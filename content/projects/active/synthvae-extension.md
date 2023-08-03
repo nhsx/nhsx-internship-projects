@@ -7,7 +7,7 @@ permalink: /synthvae-extension/
 
 #  SynthVAE Next Steps
 
-**Keywords:**  Synthetic, VAE, TabularData
+**Keywords:**  Synthetic, VAE, Tabular
 
 **Need:**  Creating high-fidelity realistic health data is not only complex but comes with multiple information governance considerations.  A particularly promising technique for creating realistic synthetic data is the variational autoencoder (VAE).  Previous intern projects have created a VAE with differential privacy built in that can generate non-gaussian numeric and categorical datasets.   They also started to investigate the need for methods to address fairness in the data.  This project would continue the development of this model to increase privacy, explainability or fairness. 
 

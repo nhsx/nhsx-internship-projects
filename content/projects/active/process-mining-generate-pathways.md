@@ -7,7 +7,7 @@ permalink: /process-mining-generate-pathways/
 
 # Process Mining to Generate Healthcare Pathways
 
-**Keywords:**  Simulation, ProcessMining, TabularData
+**Keywords:**  Simulation, ProcessMining, Tabular
 
 **Need:**  Process mining techniques have the potential to unlock significant insights in healthcare event driven data.   A recent publication of research challenges in this area can be found in [Enhancing the usability and understandability of process mining in healthcare](https://eprints.qut.edu.au/206429/1/72583680.pdf).  
 

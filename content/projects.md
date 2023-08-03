@@ -58,7 +58,7 @@ Below is a list of internship projects which are continually being updated and a
 #### Archived Projects
 *Projects which we have decided not to go ahead with either due to lack or interest, data or deprioritised work.*
 
-|:-:|:--|
+|:---:|---|
 |![area](https://img.shields.io/badge/Geospatial-blue) &nbsp; ![technique](https://img.shields.io/badge/Curation-lightgrey)  &nbsp; ![datamodality](https://img.shields.io/badge/Tabular-green) | [Granular Mapping](https://nhsx.github.io/nhsx-internship-projects/granular-mapping/) &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; |
 |![area](https://img.shields.io/badge/Sustainability-red) &nbsp; ![technique](https://img.shields.io/badge/ImageSegmentation-lightgrey)  &nbsp; ![datamodality](https://img.shields.io/badge/Images-ff69b4)|[NHS GreenSpace](https://nhsx.github.io/nhsx-internship-projects/nhs-greenspace/)|
 |![area](https://img.shields.io/badge/NLP-yellow) &nbsp; ![technique](https://img.shields.io/badge/SematicSearch-lightgrey) &nbsp; ![datamodality](https://img.shields.io/badge/MultiModal-blueviolet)|[NHS Semantic Search](https://nhsx.github.io/nhsx-internship-projects/nhs-semantic-search/)|

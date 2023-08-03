@@ -7,7 +7,7 @@ permalink: /enriching-neurology-information-medcat/
 
 # Enriching Neurology Patient Information using MedCAT
 
-**Keywords:**  NLP, CogStack, TextData
+**Keywords:**  NLP, CogStack, Text
 
 **Need:**  Clinical Letters contain a wealth of information that may not be available elsewhere within structured data fields, but are challenging to systematically extract information and structure from, to enable tasks such as filtering and linkage to reference data, especially at scale.
 

@@ -7,7 +7,7 @@ permalink: /language-model-privacy-leakage/
 
 # Understanding Privacy Leakage when using Large-scale Language Model in Healthcare
 
-**Keywords:**  NLP, Memorisation, MultiModalData
+**Keywords:**  NLP, Memorisation, Multi-modal
 
 **Need:**  Historically, work around NLP modelling techniques have also built an understanding of the amount of information that a model encodes within its parameters during training, and whether it can be extracted again at inference time, using a variety of techniques.  
 

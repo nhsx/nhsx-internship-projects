@@ -7,7 +7,7 @@ permalink: /transforming-healthcare-data-graph-based-sail-update/
 
 # Transforming Healthcare Data with Graph-based Techniques Using SAIL DataBank  - Next Steps
 
-**Keywords:** Graphs, Hypergraphs, TabularData
+**Keywords:** Graphs, Hypergraphs, Tabular
 
 **Need:** The collections of linked health datasets into a single research environment creates a number of large opportunities for insight and analysis.  Whilst anonymised extracts from these environments have great value, there is an even larger opportunity to develop methods of deploying modelling to the data remotely.  [The SAIL Databank - The Secure Anonymised Information Linkage Databank](https://saildatabank.com/) provides anonymised person-based data for research powered by the Secure e-Research Platform.  
 
