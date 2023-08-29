@@ -21,7 +21,7 @@ Finally, it will also explore how these different methods may be combined to cre
 - GPT-NER: Named Entity Recognition via Large Language Models. Wang et al, 2023. [arXiv:2304.10428](https://arxiv.org/abs/2304.10428)
 - [MedCAT](https://github.com/CogStack/MedCAT) is a tool to extract information from Electronic Health Records (EHRs) and link it to biomedical ontologies like SNOMED-CT and UMLS (see [arXiv:2010.01165](https://arxiv.org/abs/2010.01165)) - it is part of the CogStack framework 
 - PromptNER: Prompting for Named Entity Recognition. Ashok and Lipton, 2023. [arxiv:2305.15444](https://arxiv.org/abs/2305.15444v2) 
-- GitHub: [THU-KEG/EvaluationPapers4ChatGPT](https://github.com/THU-KEG/EvaluationPapers4ChatGPT) 
+- [Universal NER - A case study on targeted distillation from LLMs](https://universal-ner.github.io/) 
 
 **Related Previous Internship Projects:**
 [Enriching Neurology Patient Information using MedCAT](https://nhsx.github.io/nhsx-internship-projects/enriching-neurology-information-medcat/)

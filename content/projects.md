@@ -12,25 +12,29 @@ Below is a list of internship projects which are continually being updated and a
 ---
 
 ## Open Projects Accepting Applications
-*These projects are currently open for applications in the Autumn.  We are happy to discuss the briefs and hear suggestions to fine tune them*
+*These projects are currently open for applications in the Autumn.  We are happy to discuss the briefs and hear suggestions to fine tune them.*
 
 |:---:|---|
+|![area](https://img.shields.io/badge/Synthetic-brightgreen) &nbsp; ![technique](https://img.shields.io/badge/Privacy-lightgrey) &nbsp; ![datamodality](https://img.shields.io/badge/Text-9cf) |[Advancing Privacy Fingerprint (PrivFp) using modern generative methods – working with KCL and the CogStack Group](https://nhsx.github.io/nhsx-internship-projects/advancing-privfp-foresight/)|
 |![area](https://img.shields.io/badge/Synthetic-brightgreen) &nbsp; ![technique](https://img.shields.io/badge/Adversarial-lightgrey) &nbsp; ![datamodality](https://img.shields.io/badge/Tabular-green) |[Adversarial Attacks to Quantify Privacy of Synthetic Data](https://nhsx.github.io/nhsx-internship-projects/synthetic-adversarial-suite/)|
 |![area](https://img.shields.io/badge/PETs-red) &nbsp; ![technique](https://img.shields.io/badge/Encryption-lightgrey) &nbsp; ![datamodality](https://img.shields.io/badge/Tabular-green) |[Applied Privacy Enhancing Technologies in Healthcare](https://nhsx.github.io/nhsx-internship-projects/pets-in-healthcare/)|
 |![area](https://img.shields.io/badge/NLP-yellow) &nbsp; ![technique](https://img.shields.io/badge/NER-lightgrey) &nbsp; ![datamodality](https://img.shields.io/badge/Text-9cf) |[Evaluating NER-focussed models and LLMs for identifying key entities in histopathology reports – working with GOSH DRIVE](https://nhsx.github.io/nhsx-internship-projects/eval-ner-histopathology-goshdrive/)|
 |![area](https://img.shields.io/badge/NLP-yellow) &nbsp; ![technique](https://img.shields.io/badge/VQA-lightgrey) &nbsp; ![datamodality](https://img.shields.io/badge/MultiModal-blueviolet)|[Exploring Medical Visual Question Answering Approaches and Advancements](https://nhsx.github.io/nhsx-internship-projects/visual-question-answer/)|
 |![area](https://img.shields.io/badge/Synthetic-brightgreen) &nbsp; ![technique](https://img.shields.io/badge/VAE-lightgrey) &nbsp; ![datamodality](https://img.shields.io/badge/Tabular-green)|[Extending NHSSynth into Multi-table, Multi-modal, and Longitudinal Data](https://nhsx.github.io/nhsx-internship-projects/nhs-synth-extended/)|
-|![area](https://img.shields.io/badge/MachineLearning-blue) &nbsp; ![technique](https://img.shields.io/badge/Classification-lightgrey) &nbsp; ![datamodality](https://img.shields.io/badge/Tabular-green)|[Inequalities in Population Health Data - Cardiovascular Disease or Cancer Datasets – working with ESNEFT](https://nhsx.github.io/nhsx-internship-projects/inequalities-population-health-esneft/)|
+|![area](https://img.shields.io/badge/Graphs-yellowgreen) &nbsp; ![technique](https://img.shields.io/badge/Longitudinal-lightgrey) &nbsp; ![datamodality](https://img.shields.io/badge/Tabular-green)|[Graph-based representations and techniques for Healthcare Data](https://nhsx.github.io/nhsx-internship-projects/graph-rep-tech/)|
+|![area](https://img.shields.io/badge/MachineLearning-blue) &nbsp; ![technique](https://img.shields.io/badge/Classification-lightgrey) &nbsp; ![datamodality](https://img.shields.io/badge/Tabular-green)|[Inequalities in Population Health Data - Cardiovascular and Heart Disease – working with ESNEFT](https://nhsx.github.io/nhsx-internship-projects/inequalities-population-health-esneft-extend/)|
+|![area](https://img.shields.io/badge/NLP-yellow) &nbsp; ![technique](https://img.shields.io/badge/Foundation-lightgrey) &nbsp; ![datamodality](https://img.shields.io/badge/MultiModal-blueviolet) |[Investigating Privacy Concerns and Mitigations for Healthcare Language and Foundation Models](https://nhsx.github.io/nhsx-internship-projects/language-foundation-privacy-concern-mitigation/)|
 |![area](https://img.shields.io/badge/MachineLearning-blue) &nbsp; ![technique](https://img.shields.io/badge/Classification-lightgrey) &nbsp; ![datamodality](https://img.shields.io/badge/Tabular-green) |[Predicting Demand to Support Health Inequalities – working with the Leeds Data Model](https://nhsx.github.io/nhsx-internship-projects/predict-demand-leeds-data-model/)|
+|![area](https://img.shields.io/badge/MachineLearning-blue) &nbsp; ![technique](https://img.shields.io/badge/Prediction-lightgrey) &nbsp; ![datamodality](https://img.shields.io/badge/Tabular-green) |[Prediction of winter respiratory admissions – working with SNEE ICS](https://nhsx.github.io/nhsx-internship-projects/winter-respiratory-admission-prediction/)|
 |![area](https://img.shields.io/badge/Simulation-darkblue) &nbsp; ![technique](https://img.shields.io/badge/ABM-lightgrey) &nbsp; ![datamodality](https://img.shields.io/badge/Text-9cf) |[Simulating Healthcare Scenarios with LLMs as Agents](https://nhsx.github.io/nhsx-internship-projects/llm-abm-simulation/)|
-|![area](https://img.shields.io/badge/NLP-yellow) &nbsp; ![technique](https://img.shields.io/badge/STM-lightgrey) &nbsp; ![datamodality](https://img.shields.io/badge/Text-9cf)|[Structural Topic Models and Sentiment Model Robustness - Next Steps](https://nhsx.github.io/nhsx-internship-projects/stm-sentiment-robustness/)| 
+|![area](https://img.shields.io/badge/NLP-yellow) &nbsp; ![technique](https://img.shields.io/badge/STM-lightgrey) &nbsp; ![datamodality](https://img.shields.io/badge/Text-9cf)|[Structural Topic Models and Sentiment Model Robustness - Extension](https://nhsx.github.io/nhsx-internship-projects/stm-sentiment-robustness/)| 
 |![area](https://img.shields.io/badge/Explainability-orange) &nbsp; ![technique](https://img.shields.io/badge/Fairness-lightgrey) &nbsp; ![datamodality](https://img.shields.io/badge/MultiModal-blueviolet) | [Understanding Fairness and Explainability in Multi-modal Approaches within Healthcare](https://nhsx.github.io/nhsx-internship-projects/advances-modalities-explainability/)|
 
 ---
 ## Closed Projects
 
 #### Paused Projects
-*Paused projects are ones which we have advertised in the past and still interested in but either have be de-prioritised, need further research or there is an issue with data access delaying the work.  Happy to discuss these briefs if you see opportunity*
+*Paused projects are ones which we have advertised in the past and still interested in but either have been de-prioritised, need further research or there is an issue with data access delaying the work.  Happy to discuss these briefs if you see opportunity.*
 
 |:---:|---|
 |![area](https://img.shields.io/badge/NLP-yellow) &nbsp; ![technique](https://img.shields.io/badge/GenerativeLanguage-lightgrey) &nbsp; ![datamodality](https://img.shields.io/badge/Text-9cf)  | [Augmenting Text Generation in Healthcare with Knowledge Retrieval Approaches](https://nhsx.github.io/nhsx-internship-projects/text-generation-knowledge-retreival/)|
@@ -46,7 +50,7 @@ Below is a list of internship projects which are continually being updated and a
 |![area](https://img.shields.io/badge/NLP-yellow) &nbsp; ![technique](https://img.shields.io/badge/SyntheticGeneration-lightgrey) &nbsp; ![datamodality](https://img.shields.io/badge/Text-9cf)|[Synthetic Text Generation in Healthcare](https://nhsx.github.io/nhsx-internship-projects/synthetic-data-exploration-text/)|
 
 #### Completed Projects
-*Completed Projects are ones which our previous interns have finished and reported on.  There may still be many areas or investigation possible with these and so happy to talk about redeveloping these.*
+*Completed Projects are ones which our previous interns have finished and reported on.  There may still be many areas or investigation possible with these and so happy to talk about redeveloping or continuing.*
 
 |:---:|---|
 |![area](https://img.shields.io/badge/Explainability-orange)  &nbsp; ![techniques](https://img.shields.io/badge/LIME-lightgrey)  &nbsp; ![datamodality](https://img.shields.io/badge/Images-ff69b4) |[Explaining facial skin disease classification using LIME](https://nhsx.github.io/nhsx-internship-projects/explaining-classification-using-lime/)|
@@ -56,7 +60,7 @@ Below is a list of internship projects which are continually being updated and a
 |![area](https://img.shields.io/badge/MachineLearning-blue) &nbsp; ![techniques](https://img.shields.io/badge/ModelClassReliance-lightgrey) &nbsp; ![datamodality](https://img.shields.io/badge/Tabular-green)|[Value of Commercial Product Sales Data in Healthcare Prediction](https://nhsx.github.io/nhsx-internship-projects/commercial-data-healthcare-predictions/)|
 
 #### Archived Projects
-*Projects which we have decided not to go ahead with either due to lack or interest, data or deprioritised work.*
+*Projects which we have decided not to go ahead with either due to lack of data or deprioritised work.*
 
 |:---:|---|
 |![area](https://img.shields.io/badge/Geospatial-blue) &nbsp; ![technique](https://img.shields.io/badge/Curation-lightgrey)  &nbsp; ![datamodality](https://img.shields.io/badge/Tabular-green) | [Granular Mapping](https://nhsx.github.io/nhsx-internship-projects/granular-mapping/) &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; |
