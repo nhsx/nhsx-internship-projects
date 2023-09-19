@@ -33,4 +33,4 @@ The Leeds Data Model (LDM) contains pseudonymised population health data linking
 When applying please highlight any experience around informatics, statistical analysis, deep learning, coding experience, or any other data science experience you feel relevant. 
 
 ---
-Return to list of [all available projects](https://nhsx.github.io/nhsx-internship-projects/).
+Return to list of [all available projects](https://nhsx.github.io/nhsx-internship-projects/projects.html).

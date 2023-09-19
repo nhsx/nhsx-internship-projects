@@ -43,4 +43,4 @@ Building out approaches suitable in scenario generation to support the PrivFp pr
 **Desired skill set:** When applying please highlight any experience around work with natural language processing, large language models, privacy, python coding experience and software development (including any coding in the open), and any other data science experience you feel relevant.
 
 ---
-Return to list of [all available projects](https://nhsx.github.io/nhsx-internship-projects/).
+Return to list of [all available projects](https://nhsx.github.io/nhsx-internship-projects/projects.html).

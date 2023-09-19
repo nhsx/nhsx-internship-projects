@@ -43,4 +43,4 @@ Understanding whether these existing tools can detect information that are “en
 When applying please highlight any experience around work with natural language processing, large language models, evaluation frameworks, python coding experience and software development (including any coding in the open), and any other data science experience you feel relevant.
 
 ---
-Return to list of [all available projects](https://nhsx.github.io/nhsx-internship-projects/).
+Return to list of [all available projects](https://nhsx.github.io/nhsx-internship-projects/projects.html).

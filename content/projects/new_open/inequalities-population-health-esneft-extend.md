@@ -35,4 +35,4 @@ Eventually, it is envisaged that the work will be used to: 
 **Desired skill set:** When applying please highlight any experience around work with building applications, big data analysis, probability & graph models, coding experience (including any coding in the open), any other data science experience you feel relevant.  
 
 ---
-Return to list of [all available projects](https://nhsx.github.io/nhsx-internship-projects/).
+Return to list of [all available projects](https://nhsx.github.io/nhsx-internship-projects/projects.html).

@@ -51,4 +51,4 @@ This work fits within a longer-term research collaboration between SAIL and NHS 
 **Desired skill set:** When applying please highlight any experience around graph representations, hypergraphs, graph machine learning or neural networks, coding experience (including any coding in the open), and any other data science experience you feel relevant.
 
 ---
-Return to list of [all available projects](https://nhsx.github.io/nhsx-internship-projects/).
+Return to list of [all available projects](https://nhsx.github.io/nhsx-internship-projects/projects.html).

@@ -28,4 +28,4 @@ The open library [PySyft](https://github.com/OpenMined/PySyft) decouples private
 **Desired skill set:** When applying please highlight any experience around privacy enhancing technologies, encryption, privacy accountants, cyber security, coding experience (including any coding in the open), any other data science experience you feel relevant.
 
 ---
-Return to list of [all available projects](https://nhsx.github.io/nhsx-internship-projects/).
+Return to list of [all available projects](https://nhsx.github.io/nhsx-internship-projects/projects.html).

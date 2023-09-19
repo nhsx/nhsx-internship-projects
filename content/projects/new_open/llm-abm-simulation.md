@@ -41,4 +41,4 @@ Much of the work will focus on setting up appropriate scenarios and generating o
 When applying please highlight any experience around work with agent-based modelling, natural language processing, large language models, python coding experience and software development (including any coding in the open), and any other data science experience you feel relevant. 
 
 ---
-Return to list of [all available projects](https://nhsx.github.io/nhsx-internship-projects/).
+Return to list of [all available projects](https://nhsx.github.io/nhsx-internship-projects/projects.html).

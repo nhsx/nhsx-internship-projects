@@ -31,4 +31,4 @@ Not a previous intern project but the Synthetic Adversarial Suite was commission
 **Desired skill set:**  When applying please highlight any experience around privacy techniques and adversarial machine learning (incl. membership inference, and model inversion), code development, python coding experience (including any coding in the open), any other data science experience you feel relevant. 
 
 ---
-Return to list of [all available projects](https://nhsx.github.io/nhsx-internship-projects/).
+Return to list of [all available projects](https://nhsx.github.io/nhsx-internship-projects/projects.html).
