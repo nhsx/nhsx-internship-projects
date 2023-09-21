@@ -9,11 +9,11 @@ permalink: /system-testing/
 
 **Keywords:**  Explainability, AI Safety, Multimodal 
 
-**Need:**  Artificial intelligence (AI) systems hold great promise for transforming healthcare by improving diagnosis, treatment, and patient outcomes. To ensure the safe and effective implementation of mature and approved AI systems being used by clinicians in clinical pathways for direct care, rigorous system testing and evaluation are essential in the local technical environment. A review of testing methodologies and considerations is underway.  
+**Need:**  Artificial intelligence (AI) systems hold great promise for transforming healthcare by improving diagnosis, treatment, and patient outcomes. To ensure the safe and effective implementation of mature and approved AI systems being used by clinicians in clinical pathways for direct care, rigorous system testing and evaluation are essential in the local technical environment.  Understanding these methods and what measures of success is acceptable is key for AI tools to be  deploymed alongside clinical workflows and achieve their potential.  A review of testing methodologies and considerations is underway.  
 
 This work would seek to compliment this review by investigating different testing techniques such as shadow mode, research vs pre-deployment development, system validation test suites, and A/B (canary) testing in different scenarios to highlight the considerations that these approaches need to address such as non-deterministic behaviour, unseen data, bias, and monitoring over time.  
 
-The project will also place these techniques in the wider context of MLOps (Machine Learning Operations), as well as many other important and essential practices it is built on, including the established best practices from other software and technology disciplines to ensure the safe deployment, and monitoring of mature AI systems. 
+The project will also place these techniques in the wider context of MLOps (Machine Learning Operations), as well as many other important and essential practices it is built on, including the established best practices from other software and technology disciplines to ensure the safe deployment, and monitoring of mature AI systems.  
 
 **Current Knowledge/Examples & Possible Techniques/Approaches:**  
 Current guidance:  
