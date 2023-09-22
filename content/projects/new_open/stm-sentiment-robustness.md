@@ -33,4 +33,4 @@ Alongside this, an exploration around combining outputs of sentiment analysis mo
 **Desired skill set:** When applying please highlight any experience around working with healthcare texts, natural language processing (specifically topic modelling), knowledge graphs, coding experience (including any coding in the open), and any other data science experience you feel relevant.
 
 ---
-Return to list of [all available projects](https://nhsx.github.io/nhsx-internship-projects/).
+Return to list of [all available projects](https://nhsx.github.io/nhsx-internship-projects/projects.html).

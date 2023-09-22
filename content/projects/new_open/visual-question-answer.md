@@ -38,4 +38,4 @@ The project would look to understand the current state of Medical VQA, the avail
 **Desired skill set:**  When applying please highlight any experience around computer vision, natural language processing, multi-modal data, coding experience (including any coding in the open), and any other data science experience you feel relevant.
 
 ---
-Return to list of [all available projects](https://nhsx.github.io/nhsx-internship-projects/).
+Return to list of [all available projects](https://nhsx.github.io/nhsx-internship-projects/projects.html).
