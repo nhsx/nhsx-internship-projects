@@ -1,11 +1,11 @@
 ---
 remote_theme: nhsx/nhs-io-theme
 title: Evaluating the Implementation of Automated Clinical Coding on Neurology Clinic Letters
-description: NHS England PhD Internship - Evaluating the Implementation of Automated Clinical Coding on Neurology Clinic Letters
+description: NHS England PhD Internship - Evaluating the Implementation of Automated Clinical Coding on Neurology Clinic Letters - working with LTH
 permalink: /evaluating-acc-neurology/
 ---
 
-# Evaluating the Implementation of Automated Clinical Coding on Neurology Clinic Letters
+# Evaluating the Implementation of Automated Clinical Coding on Neurology Clinic Letters - working with LTH
 
 **Keywords:**  NLP, MedCat, Text 
 
@@ -20,7 +20,7 @@ This project would aim to continue this investigation by exploring an implementa
 - [MedCAT](https://github.com/CogStack/MedCAT) is a tool to extract information from Electronic Health Records (EHRs) and link it to biomedical ontologies like SNOMED-CT and UMLS (see the associated [paper](https://arxiv.org/abs/2010.01165)) - it is part of the CogStack framework  
 - [AI-based ICD coding and classification approaches using discharge summaries: A systematic literature review](https://www.sciencedirect.com/science/article/abs/pii/S0957417422020152?via%3Dihub) 
 
-**Related Previous Internship Projects:** [Enriching Neurology Information Using MedCat](https://nhsx.github.io/nhsx-internship-projects/enriching-neurology-information-medcat/)  
+**Related Previous Internship Projects:** [Enriching Neurology Information Using MedCat](https://nhsx.github.io/nhsx-internship-projects/enriching-neurology-information-medcat/) working with Lanchashire Teaching Hopsital (LTH)
 
 **Enables Future Work:** Both the learning from applying MedCAT to clinical letters for neurology and the implementation within the LANDER environment feeds future projects. 
 
