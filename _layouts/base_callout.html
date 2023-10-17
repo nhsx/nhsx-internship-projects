@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+
+{% include header.html %}
+
+<body>
+  {% include navbar.html %}
+
+  <script>
+    document.body.className = document.body.className
+      ? document.body.className + " js-enabled"
+      : "js-enabled";
+  </script>
+
+  <div class="nhsuk-width-container">
+    <main class="nhsuk-main-wrapper" id="maincontent" role="main">
+      <div class="nhsuk-grid-row">
+        <div class="nhsuk-grid-column">
+          <div class="nhsuk-warning-callout">
+            <h3 class="nhsuk-warning-callout__label">
+              <span role="text">
+                <span class="nhsuk-u-visually-hidden">Update: </span>
+                2023 Applications for NHS England PhD Data Science Internships
+              </span>
+            </h3>
+            <p>Unfortunately, the opening of the internships has been delayed in 2023. However, the scheme is still set to run one or two waves in 2024 and applications will be opening shortly.  Please keep an eye open here as an update will be communicated through this site and the CDT networks as soon as a date is confirmed for the applications to open.</p>
+          </div>
+        
+
+          {{ content }}
+        </div>
+      </div>
+    </main>
+  </div>
+
+  {% include footer.html %}
+</body>
+
+<script src="https://cdn.jsdelivr.net/gh/MarketingPipeline/Markdown-Tag/markdown-tag-GitHub.js"></script>
+
+</html>
