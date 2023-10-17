@@ -1,5 +1,5 @@
 ---
-layout: base 
+layout: base_callout 
 title: NHS England Data Science PhD Internship
 description: NHS England PhD Internship
 permalink: /

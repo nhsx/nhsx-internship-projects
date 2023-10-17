@@ -1,5 +1,5 @@
 ---
-layout: base
+layout: base_callout
 title: Data Science Internships Overview
 description: Connecting NHS and Academia
 permalink: overview.html

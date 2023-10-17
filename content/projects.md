@@ -1,5 +1,5 @@
 ---
-layout: base
+layout: base_callout
 title: Project Proposals
 description: list of projects
 permalink: projects.html
