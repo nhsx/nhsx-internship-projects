@@ -52,6 +52,7 @@ Applicants will need:
 - to provide a statement of current PhD supervisor support stating that the student is able to conduct this work alongside their study or that the student will take a break from their current funding whilst conducting this work
 
 ### Timelines 
+Please note all timelines for 2024 have been pushed back by up to 2 months. 
 
 **Applications Open** - Early October
 
