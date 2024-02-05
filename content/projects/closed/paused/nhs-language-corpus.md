@@ -19,7 +19,7 @@ permalink: /nhs-language-corpus/
 
 **Outcome/Learning Objectives:** Curated public facing dataset with relevant text and clinical tagging.  First step is to demonstrate how a small amount of easily accessed data can be extracted and processed.
 
-**Datasets:** No specific dataset but project requires a variety of open health text data to be sourced e.g. NHS.net, clinical articles, data dictionary and metadata descriptions
+**Datasets:** No specific dataset but project requires a variety of open health text data to be sourced e.g. NHS.UK, clinical articles, data dictionary and metadata descriptions
 
 **Desired skill set:** When applying please highlight any experience around work with text data and specifically medical text data, natural language processing, tagging of text, coding experience (including any coding in the open), and any other data science experience you feel relevant.
 
