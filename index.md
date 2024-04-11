@@ -1,5 +1,5 @@
 ---
-layout: base_callout 
+layout: base
 title: NHS England Data Science PhD Internship
 description: NHS England PhD Internship
 permalink: /
@@ -15,17 +15,17 @@ For details on **how to apply** see the <a href="/nhsx-internship-projects/overv
 
 For details on **open projects** see the <a href="/nhsx-internship-projects/projects.html">Projects</a> page
 ### Current Projects 
-Currently our interns are working on the following six projects in two waves.  These are the original briefs they applied to and their work and outputs will be available on our organisation GitHub.
+Currently our interns are working on the following projects in two waves.  These are the original briefs they applied to and their work and outputs will be available on our organisation GitHub.
 
 |:---:|--|
-|**Wave 4 (January - June 2023)**|
-|![area](https://img.shields.io/badge/NLP-yellow) &nbsp; ![technique](https://img.shields.io/badge/CogStack-lightgrey) &nbsp; ![datamodality](https://img.shields.io/badge/Text-9cf) &emsp; &emsp; &emsp; &emsp; &emsp; |[Enriching Neurology Patient Information using MedCAT](https://nhsx.github.io/nhsx-internship-projects/enriching-neurology-information-medcat/)|
-|![area](https://img.shields.io/badge/Synthetic-brightgreen) &nbsp; ![technique](https://img.shields.io/badge/VAE-lightgrey) &nbsp; ![datamodality](https://img.shields.io/badge/Tabular-green)|[SynthVAE - Next Steps](https://nhsx.github.io/nhsx-internship-projects/synthvae-extension/)|
-|![area](https://img.shields.io/badge/Graphs-yellowgreen) &nbsp; ![technique](https://img.shields.io/badge/Hypergraphs-lightgrey) &nbsp; ![datamodality](https://img.shields.io/badge/Tabular-green)|[Transforming Healthcare Data with Graph-based Techniques - Next Steps](https://nhsx.github.io/nhsx-internship-projects/transforming-healthcare-data-graph-based-sail-update/)|
-|**Wave 5 (June - November 2023)**|
-|![area](https://img.shields.io/badge/Graphs-yellowgreen) &nbsp; ![technique](https://img.shields.io/badge/GNNs-lightgrey) &nbsp; ![datamodality](https://img.shields.io/badge/MultiModal-blueviolet)|[Exploring Data Representations - Graph Neural Networks](https://nhsx.github.io/nhsx-internship-projects/exploring-data-representations-gnn/)|
-|![area](https://img.shields.io/badge/Simulation-darkblue) &nbsp; ![technique](https://img.shields.io/badge/ProcessMining-lightgrey) &nbsp; ![datamodality](https://img.shields.io/badge/Tabular-green)|[Process Mining to Generate Healthcare Pathways](https://nhsx.github.io/nhsx-internship-projects/process-mining-generate-pathways/)|
-|![area](https://img.shields.io/badge/NLP-yellow) &nbsp; ![technique](https://img.shields.io/badge/Memorisation-lightgrey) &nbsp; ![datamodality](https://img.shields.io/badge/MultiModal-blueviolet)|[Understanding Privacy Leakage when using Language Models in Healthcare](https://nhsx.github.io/nhsx-internship-projects/language-model-privacy-leakage/)|
+|**Wave 6** | February - July 2024 |
+|![area](https://img.shields.io/badge/NLP-yellow) &nbsp; ![technique](https://img.shields.io/badge/Curation-lightgrey) &nbsp; ![datamodality](https://img.shields.io/badge/MultiModal-blueviolet)|[NHS Language Corpus Extension](https://nhsx.github.io/nhsx-internship-projects/nhs-language-corpus/)|
+|![area](https://img.shields.io/badge/Explainability-orange) &nbsp; ![technique](https://img.shields.io/badge/Fairness-lightgrey) &nbsp; ![datamodality](https://img.shields.io/badge/MultiModal-blueviolet) | [Understanding Fairness and Explainability in Multi-modal Approaches within Healthcare](https://nhsx.github.io/nhsx-internship-projects/advances-modalities-explainability/)|
+
+|**Wave 7**|  July - December 2024 |
+|![area](https://img.shields.io/badge/NLP-yellow) &nbsp; ![technique](https://img.shields.io/badge/NER-lightgrey) &nbsp; ![datamodality](https://img.shields.io/badge/Text-9cf) |[Evaluating NER-focussed models and LLMs for identifying key entities in histopathology reports – working with GOSH DRIVE](https://nhsx.github.io/nhsx-internship-projects/eval-ner-histopathology-goshdrive/)|
+|![area](https://img.shields.io/badge/NLP-yellow) &nbsp; ![technique](https://img.shields.io/badge/Foundation-lightgrey) &nbsp; ![datamodality](https://img.shields.io/badge/MultiModal-blueviolet) | [Investigating Privacy Concerns and Mitigations for Healthcare Language and Foundation Models](https://nhsx.github.io/nhsx-internship-projects/language-foundation-privacy-concern-mitigation/)|
+
 
 <ul class="nhsuk-grid-row nhsuk-card-group">
   <li class="nhsuk-grid-column-one-half nhsuk-card-group__item">

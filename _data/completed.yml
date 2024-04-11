@@ -1,3 +1,80 @@
+- title: P53 - Transforming Healthcare Data with Graph-based Techniques using SAIL DataBank
+  codelink: "holding.html"
+  reportlink: "holding.html"
+  case study link: tbu
+  stage: Wave 5 - June to November 2023
+  badge1: Representations of data
+  badge2: Embeddings
+  badge3: Python
+  description: This project explored topological and semantic graph embeddings of relevant healthcare ontologies to enhance performance on downstream tasks.
+  author: Chris Tomlinson
+  supervisor: Dan Schofield
+
+- title: P52 - Exploring Process Mining with East Midlands Ambulance Service
+  codelink: "https://github.com/nhsengland/ProcessMining"
+  reportlink: "https://github.com/nhsengland/ProcessMining/blob/main/Process_Mining_to_Generate_Healthcare_Pathways.pdf"
+  case study link: tbu
+  stage: Wave 5 - June to November 2023
+  badge1: Process Mining
+  badge2: Ambulances
+  badge3: Python - PM4Py
+  description: In collaboration with East Midlands Ambulance Service, this work explored using Process Mining techniques to better understand the processes within the service.
+  author: Alex Coles
+  supervisor: Paul Carroll and Martina Fonseca
+
+- title: P51 - Investigating Privacy Concerns and Mitigations for Language Models in Healthcare
+  codelink: "holding.html"
+  reportlink: "holding.html"
+  case study link: tbu
+  stage: Wave 5 - June to November 2023
+  badge1: NLP
+  badge2: Foundation Models
+  badge3: Python
+  description: An initial exploration of privacy risks in healthcare language models, including privacy-preserving techniques applied before or after model training, and evaluating their effectiveness with privacy attacks.
+  author: Vicky Smith
+  supervisor: Dan Schofield
+
+# ----
+# ----
+
+- title: P43 - Enriching Neurology Patient Information using MedCAT
+  codelink: "holding.html"
+  reportlink: "holding.html"
+  case study link: tbu
+  stage: Wave 4 - January to May 2023
+  badge1: NLP
+  badge2: Neurology
+  badge3: Python - MedCAT
+  description: In collaboration with Lancaster Teaching Hospitals NHS Foundation Trust and Lancaster University, this work explored how to evaluate the embedding space generated for automated clinical coding tasks in Neurology.
+  author: Aizaan Anwar
+  supervisor: Paul Carroll and Jonny Pearson
+
+- title: P42 - Including Mortality in Hypergraphs for Multi-morbidity
+  codelink: "holding.html"
+  reportlink: "holding.html"
+  case study link: tbu
+  stage: Wave 4 - January to May 2023
+  badge1: Representations of Data
+  badge2: Hypergraphs
+  badge3: Python - Numba
+  description: Building on previous hypergraphs work (P34) that can extract the impact of predecessor and successor diseases on disease progression pathways, this work looked to include an implicit relationship to demographics and consider the impact of mortality. 
+  author: Zoe Hancox
+  supervisor: Dan Schofield
+
+- title: P41 - NHS Synth
+  codelink: "https://github.com/nhsengland/NHSSynth"
+  reportlink: "https://nhsengland.github.io/NHSSynth/"
+  case study link: tbu
+  stage: Wave 4 - January to May 2023
+  badge1: Synthetic Data
+  badge2: VAE
+  badge3: Python
+  description: This project focused on building a package for generating useful synthetic data, audited and assessed along the dimensions of utility, privacy and fairness. It gives the ability to experiment with different model architectures to find which are the most promising for real-world usage.
+  author: Harrison Wilde
+  supervisor: Jonny Pearson
+# ----
+# ----
+
 - title: P34 - Using Hypergraphs to Investigate the Impact of Comorbidities  
   codelink: "holding.html"
   reportlink: "holding.html"
@@ -46,8 +123,8 @@
   author: Sarah Hickman
   Supervisor: Dan Schofield
 
-
-
+# ----
+# ----
 
 - title: P24 - Using LIME to explain facial disease classification
   codelink: "https://github.com/nhsx/LIME-XAI-Facial-Disease-Classification"
@@ -97,9 +174,8 @@
   author: David Brind
   Supervisor: Jonny Pearson
 
-
-
-
+# ----
+# ----
 
 - title: P14 - Model Class Reliance
   codelink: https://github.com/nhsx/commercial-data-healthcare-predictions"
