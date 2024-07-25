@@ -25,6 +25,7 @@ Currently our interns are working on the following projects in two waves.  These
 |**Wave 7**|  July - December 2024 |
 |![area](https://img.shields.io/badge/NLP-yellow) &nbsp; ![technique](https://img.shields.io/badge/NER-lightgrey) &nbsp; ![datamodality](https://img.shields.io/badge/Text-9cf) |[Evaluating NER-focussed models and LLMs for identifying key entities in histopathology reports – working with GOSH DRIVE](https://nhsx.github.io/nhsx-internship-projects/eval-ner-histopathology-goshdrive/)|
 |![area](https://img.shields.io/badge/NLP-yellow) &nbsp; ![technique](https://img.shields.io/badge/Foundation-lightgrey) &nbsp; ![datamodality](https://img.shields.io/badge/MultiModal-blueviolet) | [Investigating Privacy Concerns and Mitigations for Healthcare Language and Foundation Models](https://nhsx.github.io/nhsx-internship-projects/language-foundation-privacy-concern-mitigation/)|
+|![area](https://img.shields.io/badge/NLP-yellow) &nbsp; ![technique](https://img.shields.io/badge/VQA-lightgrey) &nbsp; ![datamodality](https://img.shields.io/badge/MultiModal-blueviolet)|[Exploring Medical Visual Question Answering Approaches and Advancements](https://nhsx.github.io/nhsx-internship-projects/visual-question-answer/)|
 
 
 <ul class="nhsuk-grid-row nhsuk-card-group">

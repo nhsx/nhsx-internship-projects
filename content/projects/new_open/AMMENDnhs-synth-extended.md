@@ -9,9 +9,9 @@ permalink: /nhs-synth-extended/
 
 **Keywords:** Synthetic, VAE, Tabular 
 
-**Need:**  Over the course of three internship projects, we have developed [NHSSynth](https://github.com/nhsx/NHSSynth), a Variational AutoEncoder (VAE) with differential privacy built into a modular pipeline.  It allows tabular, single table, synthetic data to be generated alongside an evaluation metric suite, a fairness toolset, and an adversarial attack suite. 
+**Need:**  Over the course of three internship projects, we have developed [NHSSynth](https://github.com/nhsx/NHSSynth), a modular pipeline that allows different syntehtic generation models (e.g. our a Variational AutoEncoder (VAE) with differential privacy) to run compartive experiements for the gereenation of medium-high fidelity, high privacy healthcare data.  It allows tabular, single table, synthetic data to be generated alongside an evaluation metric suite, a fairness toolset, and an adversarial attack suite. 
 
-This project would investigate expanding this tool to be able to generate multi-table, longitudinal, or multi-modal data using recent advances in the field.
+This project would investigate expanding this tool to be able to generate multi-table, longitudinal, or multi-modal data using recent advances in the field.  Alternatively, the project could look at a series of new generation methods and use the pipeline to benchmark these for different data formats and levels of quality. 
 
 **Current Knowledge/Examples & Possible Techniques/Approaches:** 
 
@@ -30,7 +30,7 @@ Allows NHS England to be generating a wider range of synthetic data for internal
 Extension of the toolset into a new functional area.  
 
 **Datasets:**  
-MIMIC III is our standard for this work 
+MIMIC III is our standard for this work but we could move to MIMIC IV or alternative open dataset.   Open data used to make the work transparent and keep the development in the open.
 
 **Desired skill set:** 
 When applying please highlight any experience around work with synthetic data, variational autoencoders, other generative techniques, python coding experience and software development (including any coding in the open), and any other data science experience you feel relevant.
