@@ -5,9 +5,9 @@ description: NHS England PhD Internship - Generative AI Evaluation
 permalink: /genai-eval/
 ---
 
-# New Topic Template
+# Generative AI Evaluation
 
-**Keywords:** LLM, Validation, Text 
+**Keywords:** NLP, Validation, Text 
 
 **Need:**  Generative AI is a broad area covering many modalities (text, images, audio, etc…), which is easy to engage with, and yet hard to do “well”. Effective measures of quality are needed to help us choose the right techniques, complexity etc. Though classic Data Science and Analytical approaches to measuring quality can still be useful, new thinking is also needed.  This is not a straightforward as how “good” is defined varies greatly based on the problem, the modality, the budget, etc. Additionally, existing common sense and best practice can be misleading as good performance on a simpler problem or benchmark may not be indicative of future performance on a more complex business task. 
 
