@@ -9,7 +9,7 @@ permalink: /inequalities-population-health-esneft-extend/
 
 **Keywords:**  MachineLearning, Classification, Tabular
 
-**Need:**  The pandemic has shone a brighter light on health inequalities. The NHS needs to take steps to develop population health management approaches that address inequalities in access, experience, and outcomes.  
+**Need:**  The NHS needs to take steps to develop population health management approaches that address inequalities in access, experience, and outcomes.  
 
 This project, hosted by the East Suffolk and North Essex Foundation Trust (ESNEFT), seeks to deliver insights on where inequalities exist across the local health economy so that these may be addressed.  The focus of this project is to demonstrate how a range of data science approaches can build a narrative of exploration around the question of health inequalities in cardiovascular and heart disease from the data available. The scope can either be limited to the specific question or interest, or ideally a more generic reusable approach to applying a range of exploratory data science tools to population health data.  
 
@@ -30,7 +30,7 @@ Eventually, it is envisaged that the work will be used to: 
 
 **Outcome/Learning Objectives:**  Open code and report demonstrating potential and evaluation of these techniques.
 
-**Datasets:** Datasets provided by ESNEFT trust
+**Datasets:** Datasets provided by ESNEFT
 
 **Desired skill set:** When applying please highlight any experience around work with building applications, big data analysis, probability & graph models, coding experience (including any coding in the open), any other data science experience you feel relevant.  
 

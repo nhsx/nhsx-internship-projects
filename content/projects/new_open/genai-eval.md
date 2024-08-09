@@ -15,6 +15,8 @@ Traditional measures of quality from NLP can be used, such as [BLEU](https://acl
 
 Models are often compared in terms of how well they perform on benchmarks (such as [SQuAD](https://rowanzellers.com/hellaswag/), [Hellaswag](https://rowanzellers.com/hellaswag/), etc., see aggregator sites/tools such as [Open LLM Leaderboard](https://huggingface.co/open-llm-leaderboard) and [AgentBench](https://llmbench.ai/agent) for comparisons), however for many users of LLMs it’s not clearer what these benchmarks are, what they test for, and to what extent we can use their results to infer performance on business tasks. There also exist tools that allow you to run models against these benchmarks (such as [promptbench](https://github.com/microsoft/promptbench)).
 
+This project would seek to review available tooling and best practice in order to create a healthcare specific evalaution suite and to identify the best current benchmarks for healthcare with clarity around their coverage and limitations.   
+
 **Current Knowledge/Examples & Possible Techniques/Approaches:**
 There are many existing tools, methods, and benchmarks (e.g. [Langchain](https://www.langchain.com/evaluation)/[Langsmith](https://www.langchain.com/evaluation), [RAGAS](https://docs.ragas.io/en/stable/), [LlamaIndex](https://www.llamaindex.ai/), [LLM-as-a-Judge](https://arxiv.org/html/2306.05685v4/#S1), benchmarks like [SQuAD](https://rowanzellers.com/hellaswag/)).  
 
@@ -22,7 +24,7 @@ See also this online [guide](https://www.confident-ai.com/blog/llm-evaluation-me
 
 **Related Previous Internship Projects:** P51 - Investigating Privacy Concerns and Mitigations for Language Models in Healthcare; P33 - Exploring Large-scale Language Models with NHS Incident Data; P31 - Txt-Ray Align Continued
 
-**Enables Future Work:** Support safe and appropriate usage of LLMs in all our projects as well as directly supporting our assurance, benchmarking and validation research. 
+**Enables Future Work:** Support safe and appropriate usage of LLMs in all our projects as well as directly supporting our assurance, benchmarking and validation research.   Overall the project would aim to put forward a specification for larger funding into an NHS specfic benchmark for a set of identified tasks. 
 
 **Outcome/Learning Objectives:** This work would be looking for both a technical and accessible report with supporting notebook experiments.   These outputs would focus on how the evaluation could directly feed into a workflow to give operational and/or clinical confidence in the outputs. 
 
