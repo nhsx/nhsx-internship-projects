@@ -18,6 +18,7 @@ This project would seek to demonstrate the issues and errors that need to be add
 **Current Knowledge/Examples & Possible Techniques/Approaches:**
 - [Large Language Models as a Proxy For Human Evaluation in Assessing the Comprehensibility of Disordered Speech Transcription](https://research.google/pubs/large-language-models-as-a-proxy-for-human-evaluation-in-assessing-the-comprehensibility-of-disordered-speech-transcription/)
 - [The development of an automatic speech recognition model using interview data from long-term care for older adults](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9933064/)
+- [Use of an ambient artificial intelligence tool to improve quality of clinical documentation](https://www.sciencedirect.com/science/article/pii/S2514664524015479)
 
 **Related Previous Internship Projects:** 
 - Recent scoping work around Ambient voice technologies ahs highlighted the need and the issues in healthcare.
