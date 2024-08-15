@@ -16,7 +16,6 @@ Whilst metrics such as word error rate (WER) are commonly used, there are well d
 This project would seek to demonstrate the issues and errors that need to be addressed in ASR with summaritaion tasks, how to identify these issues, and to highlight the impact of choices made in audio processing on the transcription accuracy.  
 
 **Current Knowledge/Examples & Possible Techniques/Approaches:**
-- PLACEHOLDER FOR MORE LINKS
 - [Large Language Models as a Proxy For Human Evaluation in Assessing the Comprehensibility of Disordered Speech Transcription](https://research.google/pubs/large-language-models-as-a-proxy-for-human-evaluation-in-assessing-the-comprehensibility-of-disordered-speech-transcription/)
 - [The development of an automatic speech recognition model using interview data from long-term care for older adults](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9933064/)
 
