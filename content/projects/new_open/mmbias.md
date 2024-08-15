@@ -9,14 +9,14 @@ permalink: /mmbias/
 
 **Keywords:**  Explainability, Fairness, Multi-modal
 
-**Need:** This work follows on from a previous internship project.  See the report [hereLINK NEEDED](LINKNEEDED)
+**Need:** This work follows on from a previous internship project.  The final report from this will be coming in September.
 
 Multimodal AI (MMAI) provides opportunities improve performance and gain insights from by modelling correlations and representations of data of different types. These approaches are incredibly powerful for the analysis of healthcare data, where the integration of data sources is key for gaining a holistic view of individual patients (personalised medicine) or evaluating models across different patient profiles to ensure safe and ethical use (population health). However, MMAI presents an unique challenges when deciding how best to incorporate and fuse information, maintaining an understanding of how data is processed (explainability), ensuring bias is not amplified as a result. 
 
 The project would seek to build off from the previous work and continue the exploration to identify how bias can be mitigated or unintentionally enhanced through multimodal fusion models.  
 
 **Current Knowledge/Examples & Possible Techniques/Approaches:**  
-- See previous project report
+- See previous project report (In September 2025)
 
 **Related Previous Internship Projects:** 
 https://nhsx.github.io/nhsx-internship-projects/advances-modalities-explainability/
