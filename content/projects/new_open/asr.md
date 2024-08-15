@@ -17,6 +17,7 @@ This project would seek to demonstrate the issues and errors that need to be add
 
 **Current Knowledge/Examples & Possible Techniques/Approaches:**
 - PLACEHOLDER FOR MORE LINKS
+- [Large Language Models as a Proxy For Human Evaluation in Assessing the Comprehensibility of Disordered Speech Transcription](https://research.google/pubs/large-language-models-as-a-proxy-for-human-evaluation-in-assessing-the-comprehensibility-of-disordered-speech-transcription/)
 - [The development of an automatic speech recognition model using interview data from long-term care for older adults](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9933064/)
 
 **Related Previous Internship Projects:** 
@@ -27,13 +28,14 @@ This project would seek to demonstrate the issues and errors that need to be add
 - Benchmarking and evaluation of ASR solutions as well as demonstration of the value of audio data
 
 **Outcome/Learning Objectives:**
-- Demonstration of applying and evalauating ASR to audio recordings
+- Demonstration of applying and evaluating ASR to audio recordings
 - Lessons learnt report on common errors, mitigations and evaluations
 
-**Datasets:** Public facing data to begin with such as the Kaggle competition around [Patient Health Detection using Vocal Audio](https://www.kaggle.com/datasets/subhajournal/patient-health-detection-using-vocal-audio)
+**Datasets:** 
+Public facing data to begin with such as the Kaggle competition around [Patient Health Detection using Vocal Audio](https://www.kaggle.com/datasets/subhajournal/patient-health-detection-using-vocal-audio)
 
 **Desired skill set:**
-When applying please highlight any experience around audio processing and evalautio, python coding experience, and any other data science experience you feel relevant.  
+When applying please highlight any experience around audio processing and evaluation, python coding experience, and any other data science experience you feel relevant.  
 
 
 ---

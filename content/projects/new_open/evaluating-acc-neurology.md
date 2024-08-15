@@ -20,7 +20,7 @@ This project would aim to continue this investigation by exploring an implementa
 - [MedCAT](https://github.com/CogStack/MedCAT) is a tool to extract information from Electronic Health Records (EHRs) and link it to biomedical ontologies like SNOMED-CT and UMLS (see the associated [paper](https://arxiv.org/abs/2010.01165)) - it is part of the CogStack framework  
 - [AI-based ICD coding and classification approaches using discharge summaries: A systematic literature review](https://www.sciencedirect.com/science/article/abs/pii/S0957417422020152?via%3Dihub) 
 
-**Related Previous Internship Projects:** [Enriching Neurology Information Using MedCat](https://nhsx.github.io/nhsx-internship-projects/enriching-neurology-information-medcat/) working with Lancashire Teaching Hopsitals (LTH)
+**Related Previous Internship Projects:** [Enriching Neurology Information Using MedCat](https://nhsx.github.io/nhsx-internship-projects/enriching-neurology-information-medcat/) working with Lancashire Teaching Hospitals (LTH)
 
 **Enables Future Work:** Both the learning from applying MedCAT to clinical letters for neurology and the implementation within the LANDER environment feeds future projects. 
 

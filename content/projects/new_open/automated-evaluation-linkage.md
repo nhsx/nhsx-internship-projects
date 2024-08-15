@@ -7,7 +7,7 @@ permalink: /automated-evaluation-linkage/
 
 # Automated Evaluation and Benchmarking of Data Linkage Quality
 
-**Keywords:** KeyWord1, KeyWord2, KeyWordData
+**Keywords:** Evaluation, Linkage, Tabular
 
 **Need:**
 Data linkage of administrative records is frequently conducted by trusted third-party organisations, leaving the end-users of the linked data largely unaware of the intricacies of the linkage process. Understanding the quality of data linkage is crucial for users to accurately interpret the datasets they receive.   The existing literature offers extensive guidelines on how to communicate data linkage quality and uncertainty, however, implementing these recommendations in a scalable and automated manner presents significant challenges.
@@ -39,7 +39,7 @@ First internship project in this field but builds of the data science teams work
 **Outcome/Learning Objectives:**
 Minimum: A consolidated and comprehensive plan to deliver transparent and explainable data linkage, including defined items, priorities, and dependencies.  A proof of concept demonstrating how to automate basic transparency and explainability metrics for users of linked data (for instance, a subset of the techniques for linkage quality assessment listed in Table 1 of [Quality assessment in data linkage](https://www.gov.uk/government/publications/joined-up-data-in-government-the-future-of-data-linking-methods/quality-assessment-in-data-linkage) ).
 
-Ideal: All of the above, plus an engineered pipeline capable of automatically generating metrics and linkage metadata.
+*Ideal:* All of the above, plus an engineered pipeline capable of automatically generating metrics and linkage metadata.
 
 **Datasets:**
 The project will involve working with real data from PAVE (Participant Validation Engine) submissions. Due to the sensitivity of this data, the successful candidate will require security clearance, a process that can take up to three months. Consequently, the internship is scheduled to begin in June to allow sufficient time for this clearance to be obtained.

@@ -9,9 +9,9 @@ permalink: /synthea-learning/
 
 **Keywords:**  Synthetic, Simulation, MultiModalData
 
-**Need:**  Synthea<sup>TM</sup> is an open-source, synthetic patient generator that models the medical history of synthetic US patients.  The data science team are currently ammending this codebased into a [UK-based version](https://github.com/nhsengland/swpc_synthea) with the vision of using this to create electronic health records across primary, secondary and community care for a defined population.  These records would then act as a synthetic view of the system enabling faster innovation and easier demonstration for population health.  
+**Need:**  Synthea<sup>TM</sup> is an open-source, synthetic patient generator that models the medical history of synthetic US patients.  The data science team are currently amending this codebase into a [UK-based version](https://github.com/nhsengland/swpc_synthea) with the vision of using this to create electronic health records across primary, secondary and community care for a defined population.  These records would then act as a synthetic view of the system enabling faster innovation and easier demonstration for population health.  
 
-This project would seek to build a secondary downstream codebased to add multimodal generation .   This could come in the form of generating unstructured text in different forms (e.g. Patient letters) using the information generated in the simulation or creating relevant images (e.g. MRI scan) based on the activities the pateint has undergone.  It's envisaged that current generation solutions could be used to create medium fidelity 
+This project would seek to build a secondary downstream codebase to add multimodal generation .   This could come in the form of generating unstructured text in different forms (e.g. Patient letters) using the information generated in the simulation or creating relevant images (e.g. MRI scan) based on the activities the patient has undergone.  It's envisaged that current generation solutions could be used to create medium fidelity 
 
 
 **Current Knowledge/Examples & Possible Techniques/Approaches:**   
@@ -22,7 +22,7 @@ This project would seek to build a secondary downstream codebased to add multimo
 
 **Related Previous Internship Projects:** n/a but our current development is open [here](https://github.com/nhsengland/swpc_synthea)
 
-**Enables Future Work:**  Use of Synthea for generating syntehtic longitudinal patient records
+**Enables Future Work:**  Use of Synthea for generating synthetic longitudinal patient records
 
 **Outcome/Learning Objectives:**
 - Standalone generation model of medium fidelity unstructured text and/or images in realistic formats
@@ -30,7 +30,7 @@ This project would seek to build a secondary downstream codebased to add multimo
 
 **Datasets:** n/a
 
-**Desired skill set:**  When applying please highlight any experience around work with pathways or longitudinal data, software development, syntehtic generation of text and/or images, coding experience (including any coding in the open), and any other data science experience you feel relevant.
+**Desired skill set:**  When applying please highlight any experience around work with pathways or longitudinal data, software development, synthetic generation of text and/or images, coding experience (including any coding in the open), and any other data science experience you feel relevant.
 
 ---
 Return to list of [all available projects](https://nhsx.github.io/nhsx-internship-projects/).
