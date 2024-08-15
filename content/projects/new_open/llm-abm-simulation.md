@@ -19,12 +19,10 @@ As this field that is evolving quickly, the project will be expected to build ou
 
 **Current Knowledge/Examples & Possible Techniques/Approaches:**
 - Generative Agents: Interactive Simulacra of Human Behaviour, Park et al, 2023. [arXiv: 2304.03442](https://arxiv.org/abs/2304.03442)
-- GitHub - [joonspk-research/generative_agents](https://github.com/joonspk-research/generative_agents)
-- GitHub - [mkturkcan/generative-agents](https://github.com/mkturkcan/generative-agents)
+- Agent Hospital: A Simulacrum of Hospital with Evolvable Medical Agents, Li et al. [arXiv: 2405.02957](https://arxiv.org/abs/2405.02957)
 - [Lil'Log - LLM-powered Autonomous Agents, Lilian Weng - June 2023](https://lilianweng.github.io/posts/2023-06-23-agent/)
-- [LangChain Agent Simulation Documentation](https://python.langchain.com/docs/use_cases/agent_simulations/)
-- [LangGraph Studio: The first agent IDE](https://blog.langchain.dev/langgraph-studio-the-first-agent-ide/)
 - AgentSims: An Open-Source Sandbox for Large Language Model Evaluation, Lin et al, 2023. [arXiv: 2308.04026](https://arxiv.org/abs/2308.04026)
+- AgentClinic: a multimodal agent benchmark to evaluate AI in simulated clinical environments, Schmidgall et al. [arXiv: 2405.07960](https://arxiv.org/abs/2405.07960)
 
 **Related Previous Internship Projects:** 
 N/A - this is first year of the project 
