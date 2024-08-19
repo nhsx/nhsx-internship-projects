@@ -2,11 +2,11 @@
   codelink: "holding.html"
   reportlink: "holding.html"
   case study link: tbu
-  stage: Wave 6 - Jan to Jun 2024
-  badge1: Graph-based Web Scrapping
+  stage: Wave 6 - January to June 2024
+  badge1: Graph-based Web Scraping
   badge2: Text Data
   badge3: Corpus
-  description: Scrapping and curation of NHS website data to create a corpus of representive text data
+  description: Scraping and curation of NHS website data to create a corpus of representive text data
   author: Samuel Hollands
   supervisor: Dan Schofield
 
@@ -14,7 +14,7 @@
   codelink: https://github.com/nhsengland/mm-healthfair
   reportlink: "holding.html"
   case study link: tbu
-  stage: Wave 6 - Jan to Jun 2024
+  stage: Wave 6 - January to June 2024
   badge1: Fairness
   badge2: MultiModal
   badge3: Python
@@ -50,8 +50,8 @@
   supervisor: Paul Carroll and Martina Fonseca
 
 - title: P51 - Investigating Privacy Concerns and Mitigations for Language Models in Healthcare
-  codelink: "holding.html"
-  reportlink: "holding.html"
+  codelink: "https://github.com/nhsengland/priv-lm-health"
+  reportlink: "https://github.com/nhsengland/priv-lm-health/blob/main/reports/Healthcare_LLM_Privacy_VS_v1.0.pdf"
   case study link: tbu
   stage: Wave 5 - June to November 2023
   badge1: NLP
@@ -65,7 +65,7 @@
 # ----
 
 - title: P43 - Enriching Neurology Patient Information using MedCAT
-  codelink: "https://github.com/nhsx/P43LTH_MedCAT"
+  codelink: "https://github.com/nhsengland/P43_LTHMedCat"
   reportlink: "https://github.com/nhsengland/P43_LTHMedCat/blob/main/report/Redacted_MedCAT_Neurology_Report.pdf"
   case study link: tbu
   stage: Wave 4 - January to May 2023
