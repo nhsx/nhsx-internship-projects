@@ -7,7 +7,7 @@ permalink: /automated-evaluation-linkage/
 
 # Automated Evaluation and Benchmarking of Data Linkage Quality
 
-**Keywords:** Evaluation, Linkage, Tabular
+**Keywords:** Linkage, Evaluation, Tabular
 
 **Need:**
 Data linkage of administrative records is frequently conducted by trusted third-party organisations, leaving the end-users of the linked data largely unaware of the intricacies of the linkage process. Understanding the quality of data linkage is crucial for users to accurately interpret the datasets they receive.   The existing literature offers extensive guidelines on how to communicate data linkage quality and uncertainty, however, implementing these recommendations in a scalable and automated manner presents significant challenges.
