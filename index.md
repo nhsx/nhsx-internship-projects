@@ -18,13 +18,15 @@ For details on **open projects** see the <a href="/nhsx-internship-projects/proj
 Currently our interns are working on the following projects in two waves.  These are the original briefs they applied to and their work and outputs will be available on our organisation GitHub.
 
 |:---:|--|
-|**Wave 6** | February - July 2024 |
-|![area](https://img.shields.io/badge/NLP-yellow) &nbsp; ![technique](https://img.shields.io/badge/Curation-lightgrey) &nbsp; ![datamodality](https://img.shields.io/badge/MultiModal-blueviolet)|[NHS Language Corpus Extension](https://nhsx.github.io/nhsx-internship-projects/nhs-language-corpus/)|
-|![area](https://img.shields.io/badge/Explainability-orange) &nbsp; ![technique](https://img.shields.io/badge/Fairness-lightgrey) &nbsp; ![datamodality](https://img.shields.io/badge/MultiModal-blueviolet) | [Understanding Fairness and Explainability in Multi-modal Approaches within Healthcare](https://nhsx.github.io/nhsx-internship-projects/advances-modalities-explainability/)|
-
 |**Wave 7**|  July - December 2024 |
-|![area](https://img.shields.io/badge/NLP-yellow) &nbsp; ![technique](https://img.shields.io/badge/NER-lightgrey) &nbsp; ![datamodality](https://img.shields.io/badge/Text-9cf) |[Evaluating NER-focussed models and LLMs for identifying key entities in histopathology reports – working with GOSH DRIVE](https://nhsx.github.io/nhsx-internship-projects/eval-ner-histopathology-goshdrive/)|
+|![area](https://img.shields.io/badge/NLP-yellow) &nbsp; ![technique](https://img.shields.io/badge/NER-lightgrey) &nbsp; ![datamodality](https://img.shields.io/badge/Text-9cf) | [Evaluating NER-focussed models and LLMs for identifying key entities in histopathology reports – working with GOSH DRIVE](https://nhsx.github.io/nhsx-internship-projects/eval-ner-histopathology-goshdrive/)|
 |![area](https://img.shields.io/badge/NLP-yellow) &nbsp; ![technique](https://img.shields.io/badge/Foundation-lightgrey) &nbsp; ![datamodality](https://img.shields.io/badge/MultiModal-blueviolet) | [Investigating Privacy Concerns and Mitigations for Healthcare Language and Foundation Models](https://nhsx.github.io/nhsx-internship-projects/language-foundation-privacy-concern-mitigation/)|
+|![area](https://img.shields.io/badge/NLP-yellow) &nbsp; ![technique](https://img.shields.io/badge/VQA-lightgrey) &nbsp; ![datamodality](https://img.shields.io/badge/MultiModal-blueviolet)|[Exploring Medical Visual Question Answering Approaches and Advancements](https://nhsx.github.io/nhsx-internship-projects/visual-question-answer/)|
+
+|:---:|--|
+| **Wave 6** | February - July 2024 |
+|![area](https://img.shields.io/badge/NLP-yellow) &nbsp;![technique](https://img.shields.io/badge/Curation-lightgrey) &nbsp; ![datamodality](https://img.shields.io/badge/MultiModal-blueviolet)| [NHS Language Corpus Extension](https://nhsx.github.io/nhsx-internship-projects/nhs-language-corpus/)|
+|![area](https://img.shields.io/badge/Explainability-orange) &nbsp; ![technique](https://img.shields.io/badge/Fairness-lightgrey) &nbsp; ![datamodality](https://img.shields.io/badge/MultiModal-blueviolet) | [Understanding Fairness and Explainability in Multi-modal Approaches within Healthcare](https://nhsx.github.io/nhsx-internship-projects/advances-modalities-explainability/)|
 
 
 <ul class="nhsuk-grid-row nhsuk-card-group">

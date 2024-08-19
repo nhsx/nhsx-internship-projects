@@ -9,12 +9,11 @@ permalink: /nhs-synth-extended/
 
 **Keywords:** Synthetic, VAE, Tabular 
 
-**Need:**  Over the course of three internship projects, we have developed [NHSSynth](https://github.com/nhsx/NHSSynth), a Variational AutoEncoder (VAE) with differential privacy built into a modular pipeline.  It allows tabular, single table, synthetic data to be generated alongside an evaluation metric suite, a fairness toolset, and an adversarial attack suite. 
+**Need:**  Over the course of three internship projects, we have developed [NHSSynth](https://github.com/nhsx/NHSSynth), a modular pipeline that allows different synthetic generation models (e.g. our a Variational AutoEncoder (VAE) with differential privacy) to run comparative experiments for the generation of medium-high fidelity, high privacy healthcare data.  It allows tabular, single table, synthetic data to be generated alongside an evaluation metric suite, a fairness tool set, and an adversarial attack suite. 
 
-This project would investigate expanding this tool to be able to generate multi-table, longitudinal, or multi-modal data using recent advances in the field.
+This project would investigate expanding this tool to be able to generate multi-table, longitudinal, or multi-modal data using recent advances in the field.  Alternatively, the project could look at a series of new generation methods and use the pipeline to benchmark these for different data formats and levels of quality. 
 
 **Current Knowledge/Examples & Possible Techniques/Approaches:** 
-
 In terms of: 
 - Multi-table – various implementations of single-to-single, single-to-many, and many-to-many relationships mainly around either creating a synthetic population and then sampling logically from this or by defining a cross-table evaluation metric to train against
 - Longitudinal – two examples are [TimeGAN](https://proceedings.neurips.cc/paper_files/paper/2019/file/c9efe5f26cd17ba6216bbe2a7d26d490-Paper.pdf) and this [paper](https://bmcmedresmethodol.biomedcentral.com/articles/10.1186/s12874-023-01869-w) using a recurrent deep learning model.  CRPD have also [published their work](https://cprd.com/sites/default/files/2022-04/Wang%20et%20al%20preprint.pdf) on creating and evaluating longitudinal data 
@@ -30,7 +29,7 @@ Allows NHS England to be generating a wider range of synthetic data for internal
 Extension of the toolset into a new functional area.  
 
 **Datasets:**  
-MIMIC III is our standard for this work 
+MIMIC III is our standard for this work but we could move to MIMIC IV or alternative open dataset.   Open data used to make the work transparent and keep the development in the open.
 
 **Desired skill set:** 
 When applying please highlight any experience around work with synthetic data, variational autoencoders, other generative techniques, python coding experience and software development (including any coding in the open), and any other data science experience you feel relevant.

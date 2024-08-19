@@ -7,7 +7,7 @@ permalink: /human-computer-interaction/
 
 # Exploring Human-Computer Interaction and Collaboration in Healthcare Settings 
 
-**Keywords:**  MachineLearning, Decision Support, Tabular 
+**Keywords:**  Explainability, Decision Support, Tabular 
 
 **Need:** There are several emerging use cases where performance of AI (Artificial Intelligence) applications in narrow tasks can rival human domain experts on many examples, but still produce unexpected errors in areas where humans perform very well. Further, many of these models do not inherently produce an output that is clearly mapped to uncertainty as understood by humans or can identify when they are provided on out-of-domain examples which should be deferred to a different process. 
 

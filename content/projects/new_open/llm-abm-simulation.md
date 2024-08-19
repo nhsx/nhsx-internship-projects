@@ -15,21 +15,20 @@ This project would look to explore the use of this paradigm to model healthcare 
 
 An area of particular interest is how the language model might behave when acting as an intelligence layer from different agent viewpoints within the wider simulation. Complex logs of actions and exchanges within the environment can then also be studied to gain a better understanding of how scenarios have played out, and then iterated on. 
 
-As this field that is evolving quickly, the project will be expected to build out an initial working example over a simplified pathway (such as the one described in the [SynPath – Diabetes Report](https://github.com/nhsx/SynPath_Diabetes/blob/main/t2dm/reports/Technical%20Report%20(SynPath%20Diabetes)%20v1.pdf)), which can then be built on to incorporate new emerging and promising techniques, or a more complicated pathway.
+As this field that is evolving quickly, the project will be expected to build out an initial working example over a simplified pathway which can then be built on to incorporate new emerging and promising techniques, or a more complicated pathway.
 
 **Current Knowledge/Examples & Possible Techniques/Approaches:**
 - Generative Agents: Interactive Simulacra of Human Behaviour, Park et al, 2023. [arXiv: 2304.03442](https://arxiv.org/abs/2304.03442)
-- GitHub - [joonspk-research/generative_agents](https://github.com/joonspk-research/generative_agents)
-- GitHub - [mkturkcan/generative-agents](https://github.com/mkturkcan/generative-agents)
+- Agent Hospital: A Simulacrum of Hospital with Evolvable Medical Agents, Li et al. [arXiv: 2405.02957](https://arxiv.org/abs/2405.02957)
 - [Lil'Log - LLM-powered Autonomous Agents, Lilian Weng - June 2023](https://lilianweng.github.io/posts/2023-06-23-agent/)
-- [LangChain Agent Simulation Documentation](https://python.langchain.com/docs/use_cases/agent_simulations/)
 - AgentSims: An Open-Source Sandbox for Large Language Model Evaluation, Lin et al, 2023. [arXiv: 2308.04026](https://arxiv.org/abs/2308.04026)
+- AgentClinic: a multimodal agent benchmark to evaluate AI in simulated clinical environments, Schmidgall et al. [arXiv: 2405.07960](https://arxiv.org/abs/2405.07960)
 
 **Related Previous Internship Projects:** 
 N/A - this is first year of the project 
 
 **Enables Future Work:**
-Builds on the team’s work in agent-based modelling (ABMs) simulations and exploration of new uses of generative AI 
+Foundation for both using agents for evaluation and as an intelligence layer in agent based modelling
 
 **Outcome/Learning Objectives:**
 Demonstaration of the usefulness and challenges of utilising LLMs as agents to model complex interactions 

@@ -1,3 +1,30 @@
+- title: P62 - NHS Monitor Corpus
+  codelink: "holding.html"
+  reportlink: "holding.html"
+  case study link: tbu
+  stage: Wave 6 - January to June 2024
+  badge1: Graph-based Web Scraping
+  badge2: Text Data
+  badge3: Corpus
+  description: Scraping and curation of NHS website data to create a corpus of representive text data
+  author: Samuel Hollands
+  supervisor: Dan Schofield
+
+- title: P61 - Understanding Fairness and Explainability in Multimodal Approaches within Healthcare
+  codelink: https://github.com/nhsengland/mm-healthfair
+  reportlink: "holding.html"
+  case study link: tbu
+  stage: Wave 6 - January to June 2024
+  badge1: Fairness
+  badge2: MultiModal
+  badge3: Python
+  description: Pipeline to compare the impact on fairness of using a fusion model versus a single modality model
+  author: Sophie Martin
+  supervisor: Jonny Pearson
+
+# ----
+# ----
+
 - title: P53 - Transforming Healthcare Data with Graph-based Techniques using SAIL DataBank
   codelink: "holding.html"
   reportlink: "holding.html"
@@ -23,8 +50,8 @@
   supervisor: Paul Carroll and Martina Fonseca
 
 - title: P51 - Investigating Privacy Concerns and Mitigations for Language Models in Healthcare
-  codelink: "holding.html"
-  reportlink: "holding.html"
+  codelink: "https://github.com/nhsengland/priv-lm-health"
+  reportlink: "https://github.com/nhsengland/priv-lm-health/blob/main/reports/Healthcare_LLM_Privacy_VS_v1.0.pdf"
   case study link: tbu
   stage: Wave 5 - June to November 2023
   badge1: NLP
@@ -38,8 +65,8 @@
 # ----
 
 - title: P43 - Enriching Neurology Patient Information using MedCAT
-  codelink: "holding.html"
-  reportlink: "holding.html"
+  codelink: "https://github.com/nhsengland/P43_LTHMedCat"
+  reportlink: "https://github.com/nhsengland/P43_LTHMedCat/blob/main/report/Redacted_MedCAT_Neurology_Report.pdf"
   case study link: tbu
   stage: Wave 4 - January to May 2023
   badge1: NLP
@@ -50,8 +77,8 @@
   supervisor: Paul Carroll and Jonny Pearson
 
 - title: P42 - Including Mortality in Hypergraphs for Multi-morbidity
-  codelink: "holding.html"
-  reportlink: "holding.html"
+  codelink: "https://github.com/nhsx/hypergraph-mm"
+  reportlink: "https://github.com/nhsx/hypergraph-mm/blob/zh-hypergraph-mm-mort/reports/Hypergraph_mm_mort_report_ZH.pdf"
   case study link: tbu
   stage: Wave 4 - January to May 2023
   badge1: Representations of Data
@@ -76,8 +103,8 @@
 # ----
 
 - title: P34 - Using Hypergraphs to Investigate the Impact of Comorbidities  
-  codelink: "holding.html"
-  reportlink: "holding.html"
+  codelink: "https://github.com/nhsx/hypergraph-mm/tree/main"
+  reportlink: "https://github.com/nhsx/hypergraph-mm/blob/main/reports/Hypergraph_mm_report_JB.pdf"
   case study link: tbu
   stage: Wave 3 - June to December 2022
   badge1: Representations of Data
