@@ -12,7 +12,7 @@ Below is a list of internship projects which are continually being updated and a
 ---
 
 ## Open Projects Accepting Applications
-*These projects are currently open for applications in the Autumn (2024).  We are happy to discuss the briefs and hear suggestions to fine tune them.*
+*These projects are the list that our 2025 cohort could aply to.  Projects for 2026 will be confirmed and appear here in early August.  We are happy to discuss the briefs and hear suggestions to fine tune them.*
 
 |:---:|---|
 |![area](https://img.shields.io/badge/PETs-red) &nbsp; ![technique](https://img.shields.io/badge/Encryption-lightgrey) &nbsp; ![datamodality](https://img.shields.io/badge/Tabular-green) |[Applied Privacy Enhancing Technologies in Healthcare](https://nhsx.github.io/nhsx-internship-projects/pets-in-healthcare/)|
