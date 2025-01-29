@@ -1,3 +1,42 @@
+- title: P73 - VQA with GOSH
+  codelink: "holding.html"
+  reportlink: "holding.html"
+  case study link: tbu
+  stage: Wave 7 - June to January 2024
+  badge1: Visual Question Answering
+  badge2: Image Data
+  badge3: 
+  description: 
+  author: Anjali Golding
+  supervisor: Dan Schofield | Jonathan Hope
+
+- title: P72 - NER Evalaution with GOSH
+  codelink: "holding.html"
+  reportlink: "holding.html"
+  case study link: tbu
+  stage: Wave 7 - June to January 2024
+  badge1: Histopathology Reports
+  badge2: Text Data
+  badge3: Annotations
+  description: Resource Constrained Annotation Workflow for Paediatric Histopathology Reports Using LLMs
+  author: Avish Vijayaraghavan
+  supervisor: Dan Schofield | Jonathan Hope
+
+- title: P71 - Privacy Leakage Extended
+  codelink: "holding.html"
+  reportlink: "holding.html"
+  case study link: tbu
+  stage: Wave 7 - June to January 2024
+  badge1: Privacy Aware Models
+  badge2: Text Data
+  badge3: Indirect Leakage
+  description: Identifying Metrics, Mitigations and Models which can identify Leakage of sensitive content from Language Models
+  author: Jenny Chim
+  supervisor: Dan Schofield | Jonny Pearson
+
+# ----
+# ----
+
 - title: P62 - NHS Monitor Corpus
   codelink: "holding.html"
   reportlink: "holding.html"
@@ -12,7 +51,7 @@
 
 - title: P61 - Understanding Fairness and Explainability in Multimodal Approaches within Healthcare
   codelink: https://github.com/nhsengland/mm-healthfair
-  reportlink: "holding.html"
+  reportlink: https://github.com/nhsengland/mm-healthfair/blob/main/report/NHSE_Internship_Project_Multimodal_XAI.pdf
   case study link: tbu
   stage: Wave 6 - January to June 2024
   badge1: Fairness
