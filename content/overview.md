@@ -9,9 +9,9 @@ permalink: overview.html
 
 ### Overview
 
-This scheme aims to connect NHS real data and issues with academic thought and research through short-term PhD internships.  The benefit to the NHS is the added value that academia brings to evidence-based research but on timescales that allow the insights to be acted upon.  For the student and university, the benefit is an avenue to conduct related research in an industrial environment and access to NHS data.
+This scheme aims to connect NHS real data and issues with academic thought and research through short-term PhD internships.  The benefit to the NHS is the added value that academia brings to evidence-based research but on timescales that allow the insights to be acted upon.  For the student and university, the benefit is an avenue to conduct related research in an industrial environment and access to NHS data where appropriate.
 
-We are looking for PhD students working in a quantitative discipline but with an interest in applying their knowledge and gaining experience of creating solutions for the NHS.  The student will be funded during the duration of the internship covering between three and five months. 
+We are looking for PhD students working in a quantitative discipline but with an interest in applying their knowledge and gaining experience of creating solutions for the NHS.  The student ~will be funded~ (**unfortuantely funding can't be offered in 2026 and interns will have to be self-funded from their current PhD funding body**) during the duration of the internship covering between three and five months. 
 
 Our aim is to continually build on previous learning whilst having an avenue for including the latest research and approaches.  Where possible we will work in an open and transparent way ensuring that learning is shared and insights made available for others to reproduce.  At the end of the project the applicant will submit a final report suitable for publication in open literature, and presentations to NHS England on their results including their experience of the project.  The nature of the output will depend on the specific project.
 
@@ -29,7 +29,7 @@ The successful candidate will occupy a permanent role within the Data Science Te
 
 Within the topic area of the chosen project, there will be some freedom to direct the development of the research and knowledge but this will also need to be balanced against creating a learning outcome or tangible output, that benefits the PhD scheme objectives and is in a shareable state for future projects to pick up and continue the development.
 
-As the candidate will be a NHS England employee during the internship period, standard employment checks and some mandatory training are required.  The intern will also recieve the full benefts of NHS employment during the time including pro-rata'd annual leave.
+As the candidate will be ~a NHS England employee~ on an voluntary agreement honorary contract during the internship period, standard employment checks and some mandatory training are required.  
 
 A key aim for the intern will be to progress the research project ensuring learning/outcomes are shareable with NHS England and where appropriate made suitable for publication. 
 
@@ -40,7 +40,7 @@ A list of currently available projects can be found on the scheme site with link
 During the project period, the student will be allocated an NHS England supervisor and in some instances a project specific mentor.   It is also required that an academic supervisor from the hosting university is identified before the student can accept the internship place.  
 
 ### Funding
-For the entirety of the internship, the applicant would be paid as a NHS band 6 (spine point 1) post according to NHS Terms and Conditions (AfC) pay scales - Annual
+For the entirety of the internship, the applicant ~would be paid as a NHS band 6 (spine point 1) post according to NHS Terms and Conditions (AfC) pay scales - Annual~ **will need to be self-funded**
   
 ### Application Process
 
@@ -49,10 +49,9 @@ For the entirety of the internship, the applicant would be paid as a NHS band 6 
 Applicants will need: 
 - to provide acceptable proof of legal right to study in the UK or ability to satisfy the current requirements of UK Visa and Immigration. 
 - to be enrolled in a PhD programme in a qualitative field of study (such as mathematics, statistics, data engineering, computer science, data science, physics, ...) during the course of the internship.
-- to provide a statement of current PhD supervisor support stating that the student is able to conduct this work alongside their study or that the student will take a break from their current funding whilst conducting this work
+- to provide a statement of current PhD supervisor support stating that the student is able to conduct this work alongside their study ~or that the student will take a break from their current funding whilst conducting this work~.
 
 ### Timelines 
-Please note all timelines for 2024 have been delayed by up to 2 months. 
 
 **Applications Open** - Early October
 
@@ -68,7 +67,7 @@ Please note all timelines for 2024 have been delayed by up to 2 months.
 
 ### How to Apply
 
-Application links will be made available on our [website](https://www.nhsx.nhs.uk/key-tools-and-info/nhsx-analytics-unit/apply-for-nhsx-analytics-unit-internship/) between the open and close dates
+Application links will be made available on our [website](https://nhsengland.github.io/datascience/PhDInterns/) between the open and close dates
 
 As part of the application you will be asked to specify which project(s) you are interested in and any relevant experience in these areas.
 
