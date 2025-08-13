@@ -1,6 +1,34 @@
+- title: P82 - EvalSense
+  codelink: "https://github.com/nhsengland/evalsense/tree/main"
+  reportlink: "https://nhsengland.github.io/evalsense/"
+  case study link: tbu
+  stage: Wave 8 - Jan to June 2025
+  badge1: Evaluation
+  badge2: Text Data
+  badge3: LLMs
+  description: Comprehensive guidance and tooling for evaluating large language models (LLMs)
+  author: Adam Dejl
+  supervisor: Jonny Pearson
+
+- title: P81 - MM-HealthFair
+  codelink: "https://github.com/nhsengland/mm-healthfair/tree/main"
+  reportlink: "https://github.com/nhsengland/mm-healthfair/blob/main/report/MMHealthFair_v2_KG_Final_Report.pdf"
+  case study link: tbu
+  stage: Wave 8 - Jan to June 2025
+  badge1: Fariness
+  badge2: MultiModal Data
+  badge3: Explainability
+  description: An end-to-end pipeline for multimodal fusion, evaluation and fairness investigation
+  author: Konstantin Georgiev
+  supervisor: Jonathan Hope | Jonny Pearson
+
+
+# ----
+# ----
+
 - title: P73 - VQA with GOSH
-  codelink: "holding.html"
-  reportlink: "holding.html"
+  codelink: Available on Request
+  reportlink: Available on Request
   case study link: tbu
   stage: Wave 7 - June to December 2024
   badge1: Visual Question Answering
@@ -11,8 +39,8 @@
   supervisor: Dan Schofield | Jonathan Hope
 
 - title: P72 - NER Evalaution with GOSH
-  codelink: "holding.html"
-  reportlink: "holding.html"
+  codelink: "https://github.com/nhsengland/nlp_renal_biopsy"
+  reportlink: "https://github.com/nhsengland/nlp_renal_biopsy"
   case study link: tbu
   stage: Wave 7 - June to December 2024
   badge1: Histopathology Reports
@@ -23,8 +51,8 @@
   supervisor: Dan Schofield | Jonathan Hope
 
 - title: P71 - Privacy Leakage Extended
-  codelink: "holding.html"
-  reportlink: "holding.html"
+  codelink: "https://github.com/nhsengland/priv-lm-health-extended"
+  reportlink: "https://github.com/nhsengland/priv-lm-health-extended/tree/main/reports"
   case study link: tbu
   stage: Wave 7 - June to December 2024
   badge1: Privacy Aware Models
@@ -38,8 +66,8 @@
 # ----
 
 - title: P62 - NHS Monitor Corpus
-  codelink: "holding.html"
-  reportlink: "holding.html"
+  codelink: "https://github.com/nhsengland/pvt_p62_corpus_extension"
+  reportlink: "https://github.com/nhsengland/pvt_p62_corpus_extension"
   case study link: tbu
   stage: Wave 6 - January to June 2024
   badge1: Graph-based Web Scraping
@@ -65,8 +93,8 @@
 # ----
 
 - title: P53 - Transforming Healthcare Data with Graph-based Techniques using SAIL DataBank
-  codelink: "holding.html"
-  reportlink: "holding.html"
+  codelink: Available on Request
+  reportlink: Available on Request
   case study link: tbu
   stage: Wave 5 - June to November 2023
   badge1: Representations of data

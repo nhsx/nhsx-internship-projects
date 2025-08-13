@@ -1,31 +1,37 @@
 ---
 remote_theme: nhsx/nhs-io-theme
-title: AI Safety in Healthcare - Fairness Measures
-description: NHS England PhD Internship - AI Safety in Healthcare - Fairness Measures
+title: Fairness in MultiModal Healthcare Models
+description: NHS England PhD Internship - Fairness in MultiModal Healthcare Models
 permalink: /fairness-measures/
 ---
 
-# AI Safety in Healthcare - Fairness Measures
+# Fairness in MultiModal Healthcare Models
 
-**Keywords:**  Explainability, Equity, TabularData
+**Keywords:**  Machine Learning, Algorithmic Fairness, MultiModal
 
-**Need:**  There is a great need in healthcare to understand, measure and correct for bias in our data.  Additionally, as we start to develop operational models further we need a clear understanding of model bias and how to measure and track this over time.  There are multiple metrics that can address fairness in data focusing on group, subgroup or individual.  However, these are not always compatible with one another making it difficult to optimise a model in a way that deals with the underlying data biases.   This project would seek to investigate the way we identify and talk about fairness in both our data and models.   In addition we would look to demonstrate a robust approach to fairness through optimising a directed acyclic graph for a variety of fairness measures with a clear demonstration of the impact. 
+**Need:**  Multimodal AI (MMAI) enables models to integrate and learn from multiple data types (e.g., text, imaging, structured EHR), offering powerful opportunities for personalised care and population health analysis. However, these models introduce unique challenges in how information is fused, how outputs can be explained, and how to ensure fairness across different patient groups.
 
-**Current Knowledge/Examples & Possible Techniques/Approaches:**  There is a wealth of papers and discussion around bias and fairness in data and models.  In October of 2021 a call went out [Addressing bias in big data and AI for health care](https://www.sciencedirect.com/science/article/pii/S2666389921002026).
+[Two previous internships](https://github.com/nhsengland/mm-healthfair/tree/main) projects on fairness in multimodal models found that existing fairness metrics focus mainly on tabular metadata (e.g., age, sex), overlooking subtle biases in richer modalities—for example, gendered concepts embedded in clinical text. In some cases, fairness mitigation strategies reduced reliance on tabular data but inadvertently increased dependence on other modalities, giving the appearance of fairness while hiding deeper issues.
 
-During our previous projects we have come across a few models that attempt to include fairness within in order to create a synthetic fairer version of the base data.  These include: [DECAF](https://arxiv.org/abs/1805.11202), [FR-GAN](https://krvarshney.github.io/pubs/SattigeriHCV_safeml2019.pdf), and [FairGAN](https://arxiv.org/abs/2110.12884). 
+This project will develop methods to detect and address fairness issues across all modalities (i.e. considering the fairness dimension for each dimension separately as well as considering how to combine these to address fairness for the whole model) in a multimodal healthcare model, incorporating these into fairness terms so that mitigation strategies produce genuinely fair outcomes.
 
+**Current Knowledge/Examples & Possible Techniques/Approaches:**  [Explainable deep learning models in medical image analysis](https://arxiv.org/abs/2005.13799) provide tools for interpreting model predictions, while surveys such as A Survey of the State of Explainable AI for Natural Language Processing (arXiv:2010.00711) summarise techniques for textual modalities. The [Zoom In: An Introduction to Circuits](https://distill.pub/2020/circuits/zoom-in/) work explores fine-grained interpretability in neural networks, offering insights into how biases can manifest at a feature level. Tools such as AIF360, Fairlearn, and the MMF Multimodal Framework provide open-source capabilities for measuring and mitigating bias, but their integration across diverse modalities in healthcare is still under explored.
 
 **Related Previous Internship Projects:** n/a as first iteration of the project
 
-**Enables Future Work:**  Possibilities of feeding into many ongoing models and pieces of analysis
+**Enables Future Work:**  Supports the use of MultiModal Data in our models to create fairer outputs
 
-**Outcome/Learning Objectives:**   Report with connect open code summarising the fairness metric landscape and how this could apply to healthcare models.
+**Outcome/Learning Objectives:**   
 
-**Datasets:** Public covid cases data, other large open datasets with known and unknown bias
+- Develop extended fairness metrics applicable across multiple data modalities
+- Evaluate multimodal healthcare models using these metrics
+- Propose and test mitigation strategies that address bias across all modalities
+- Contribute code and findings to the open-source MM-HealthFair repository
+- Produce guidance for NHS AI deployment and procurement processes
 
-**Desired skill set:**  When applying please highlight any experience around fairness, DAGs, coding experience (including any coding in the open), any other data science experience you feel relevant. 
+**Datasets:** Open-source datasets with appropriate modality for the techniques under study
 
+**Desired skill set:**  When applying please highlight any experience around explainability techniques, fairness, clinical, machine learning, coding experience (including any coding in the open), and any other data science experience you feel relevant.
 
 ---
 Return to list of [all available projects](https://nhsx.github.io/nhsx-internship-projects/).
