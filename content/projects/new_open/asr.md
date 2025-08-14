@@ -9,34 +9,43 @@ permalink: /asr/
 
 **Keywords:** Explainability, ASR, Audio 
 
-**Need:**  The accuracy and efficacy of automatic speech recognition (ASR) and downstream summarisation technologies need clear validation and benchmarking to give the NHS confidence in the performance and safety of these technologies.  
+**Need:**  Many NHS consultations, Multi-Disciplinary Team meetings, and patient interactions are recorded as speech. Converting this audio into accurate, concise, and clinically meaningful summaries could reduce administrative burden, improve documentation quality, and enhance patient safety.
 
-Whilst metrics such as word error rate (WER) are commonly used, there are well documented issues with using WER alone to evaluate ASR systems especially in the medical setting where disordered speech can be caused through speech impediments, emotion and accents. In addition the WER considers all errors to be equal when in fact some will have a much greater impact on the downstream tasks, especially in summarisation.  Therefore, a wider set of metrics including semantic models and clinical coding models are needed to be incorporated alongside the WER, with errors weighted by change in meaning.  
+However, current automatic speech recognition (ASR) and summarisation models face challenges in real-world NHS contexts. Standard metrics like word error rate (WER) are limited—treating all errors equally, even though some (e.g. medication name errors) can significantly impact clinical interpretation. Disordered or accented speech, emotion, or interruptions often reduce ASR accuracy in healthcare.
 
-This project would seek to demonstrate the issues and errors that need to be addressed in ASR with summaritaion tasks, how to identify these issues, and to highlight the impact of choices made in audio processing on the transcription accuracy.  
+This project aims to evaluate how decisions made regarding audio processing, transcription and summarisation, influence patient outcomes.  It will explore more nuanced evaluation methods—including semantic similarity, clinical relevance scoring, and error weighting—and demonstrate how different ASR systems perform in healthcare-like scenarios.
 
 **Current Knowledge/Examples & Possible Techniques/Approaches:**
-- [Large Language Models as a Proxy For Human Evaluation in Assessing the Comprehensibility of Disordered Speech Transcription](https://research.google/pubs/large-language-models-as-a-proxy-for-human-evaluation-in-assessing-the-comprehensibility-of-disordered-speech-transcription/)
-- [The development of an automatic speech recognition model using interview data from long-term care for older adults](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9933064/)
-- [Use of an ambient artificial intelligence tool to improve quality of clinical documentation](https://www.sciencedirect.com/science/article/pii/S2514664524015479)
+Recent advances in ASR and summarisation have led to high-performing open-source and commercial systems:
+
+- Our Previous NHS Monitor Corpus Report [PLACEHOLDER](holding.md)
+- OpenAI Whisper: Strong multilingual performance and noise robustness (GitHub)[https://github.com/openai/whisper]
+- Wav2Vec2: Transformer-based end-to-end speech model fine-tuned for healthcare use cases
+- Google Research (2024): Showed LLMs can proxy human evaluation for disordered speech transcription (paper)[https://research.google/pubs/large-language-models-as-a-proxy-for-human-evaluation-in-assessing-the-comprehensibility-of-disordered-speech-transcription/]
+- Hacking et al. (2022): Evaluated ASR for geriatric care interviews (PMC9933064)[https://pmc.ncbi.nlm.nih.gov/articles/PMC9933064/]
+- Balloch et al. (2024): Investigated ambient AI tools for documentation in clinical settings (ScienceDirect)[https://www.sciencedirect.com/science/article/pii/S2514664524015479]
 
 **Related Previous Internship Projects:** 
 - Recent scoping work around Ambient voice technologies ahs highlighted the need and the issues in healthcare.
 - [NHS Language Corpus](https://nhsx.github.io/nhsx-internship-projects/nhs-language-corpus/) included some aspects of audio collection considerations 
 
 **Enables Future Work:**
+
+- Survey of speech-to-text and summarisation techniques
+- Open-source pipeline prototype for internal NHS testing
 - Benchmarking and evaluation of ASR solutions as well as demonstration of the value of audio data
+- Guidelines for ethical/secure deployment of speech summarisation
 
 **Outcome/Learning Objectives:**
+
 - Demonstration of applying and evaluating ASR to audio recordings
 - Lessons learnt report on common errors, mitigations and evaluations
 
 **Datasets:** 
-Public facing data to begin with such as the Kaggle competition around [Patient Health Detection using Vocal Audio](https://www.kaggle.com/datasets/subhajournal/patient-health-detection-using-vocal-audio)
+Public facing data to begin with such as the Kaggle competition around [Patient Health Detection using Vocal Audio](https://www.kaggle.com/datasets/subhajournal/patient-health-detection-using-vocal-audio), LibriSpeech, or CommonVoice
 
 **Desired skill set:**
-When applying please highlight any experience around audio processing and evaluation, python coding experience, and any other data science experience you feel relevant.  
-
+When applying please highlight any experience around audio processing and evaluation, NLP and/or speech models, Familiarity with LLMs & HuggingFace, understanding of model evaluation and bias/factuality concerns, Python including PyTorch or TensorFlow, and any other data science experience you feel relevant. 
 
 ---
 Return to list of [all available projects](https://nhsx.github.io/nhsx-internship-projects/).

@@ -9,9 +9,11 @@ permalink: /nhs-synth-extended/
 
 **Keywords:** Synthetic, VAE, Tabular 
 
-**Need:**  Over the course of three internship projects, we have developed [NHSSynth](https://github.com/nhsx/NHSSynth), a modular pipeline that allows different synthetic generation models (e.g. our a Variational AutoEncoder (VAE) with differential privacy) to run comparative experiments for the generation of medium-high fidelity, high privacy healthcare data.  It allows tabular, single table, synthetic data to be generated alongside an evaluation metric suite, a fairness tool set, and an adversarial attack suite. 
+**Need:**  Over the course of three internship projects, we have developed [NHSSynth](https://github.com/nhsx/NHSSynth), a modular synthetic data pipeline capable of running multiple generation models (e.g., a Variational Autoencoder with differential privacy) for producing medium-to-high fidelity, high-privacy single-table healthcare data. It also includes an evaluation metric suite, fairness tools, and an adversarial attack framework.
 
-This project would investigate expanding this tool to be able to generate multi-table, longitudinal, or multi-modal data using recent advances in the field.  Alternatively, the project could look at a series of new generation methods and use the pipeline to benchmark these for different data formats and levels of quality. 
+However, most NHS data is multi-table, longitudinal, and often multi-modal, reflecting linked patient records over time and across systems. Extending NHSSynth to support these formats would greatly increase its value—enabling realistic synthetic datasets for AI assurance, software testing, and research.
+
+This project will investigate methods for multi-table, longitudinal, and multi-modal synthetic data generation, or alternatively, benchmark new generation methods across different data formats using the existing NHSSynth evaluation framework.
 
 **Current Knowledge/Examples & Possible Techniques/Approaches:** 
 In terms of: 
@@ -26,10 +28,14 @@ The first two projects on this can be seen in [SynthVAE](https://github.com/nhsx
 Allows NHS England to be generating a wider range of synthetic data for internal and external use 
 
 **Outcome/Learning Objectives:** 
-Extension of the toolset into a new functional area.  
+
+- Extend NHSSynth to handle at least one new data format (multi-table, longitudinal, or multi-modal)
+- Implement and benchmark one or more generation models for the new format
+- Update the evaluation suite to assess fidelity, utility, and privacy for the new data type
+- Contribute code, documentation, and example datasets to the open-source repository
 
 **Datasets:**  
-MIMIC III is our standard for this work but we could move to MIMIC IV or alternative open dataset.   Open data used to make the work transparent and keep the development in the open.
+Development will use open datasets for transparency and reproducibility (e.g., MIMIC-III or MIMIC-IV). Adaptations to NHS-specific synthetic datasets could be explored under governance.
 
 **Desired skill set:** 
 When applying please highlight any experience around work with synthetic data, variational autoencoders, other generative techniques, python coding experience and software development (including any coding in the open), and any other data science experience you feel relevant.

@@ -14,19 +14,14 @@ The projects often have a focus on emerging data science techniques and so we ad
 For details on **how to apply** see the <a href="/nhsx-internship-projects/overview.html">Scheme Overview</a> page 
 
 For details on **open projects** see the <a href="/nhsx-internship-projects/projects.html">Projects</a> page
+
 ### Current Projects 
 Currently our interns are working on the following projects in two waves.  These are the original briefs they applied to and their work and outputs will be available on our organisation GitHub.
 
 |:---:|--|
-|**Wave 7**|  July - December 2024 |
-|![area](https://img.shields.io/badge/NLP-yellow) &nbsp; ![technique](https://img.shields.io/badge/NER-lightgrey) &nbsp; ![datamodality](https://img.shields.io/badge/Text-9cf) | [Evaluating NER-focussed models and LLMs for identifying key entities in histopathology reports – working with GOSH DRIVE](https://nhsx.github.io/nhsx-internship-projects/eval-ner-histopathology-goshdrive/)|
-|![area](https://img.shields.io/badge/NLP-yellow) &nbsp; ![technique](https://img.shields.io/badge/Foundation-lightgrey) &nbsp; ![datamodality](https://img.shields.io/badge/MultiModal-blueviolet) | [Investigating Privacy Concerns and Mitigations for Healthcare Language and Foundation Models](https://nhsx.github.io/nhsx-internship-projects/language-foundation-privacy-concern-mitigation/)|
-|![area](https://img.shields.io/badge/NLP-yellow) &nbsp; ![technique](https://img.shields.io/badge/VQA-lightgrey) &nbsp; ![datamodality](https://img.shields.io/badge/MultiModal-blueviolet)|[Exploring Medical Visual Question Answering Approaches and Advancements](https://nhsx.github.io/nhsx-internship-projects/visual-question-answer/)|
-
-|:---:|--|
-| **Wave 6** | February - July 2024 |
-|![area](https://img.shields.io/badge/NLP-yellow) &nbsp;![technique](https://img.shields.io/badge/Curation-lightgrey) &nbsp; ![datamodality](https://img.shields.io/badge/MultiModal-blueviolet)| [NHS Language Corpus Extension](https://nhsx.github.io/nhsx-internship-projects/nhs-language-corpus/)|
-|![area](https://img.shields.io/badge/Explainability-orange) &nbsp; ![technique](https://img.shields.io/badge/Fairness-lightgrey) &nbsp; ![datamodality](https://img.shields.io/badge/MultiModal-blueviolet) | [Understanding Fairness and Explainability in Multi-modal Approaches within Healthcare](https://nhsx.github.io/nhsx-internship-projects/advances-modalities-explainability/)|
+|**Wave 9**|  July - December 2025 |
+|![area](https://img.shields.io/badge/Linkage-yellowgreen) &nbsp; ![technique](https://img.shields.io/badge/Evaluation-lightgrey) &nbsp; ![datamodality](https://img.shields.io/badge/Tabular-green)|[Automated Evaluation and Benchmarking of Data Linkage Quality ](https://nhsx.github.io/nhsx-internship-projects/automated-evaluation-linkage/)|
+|![area](https://img.shields.io/badge/MachineLearning-blue) &nbsp; ![technique](https://img.shields.io/badge/CausalInference-lightgrey) &nbsp; ![datamodality](https://img.shields.io/badge/Tabular-green) |[Causal Inference to Estimate the Impact of Interventions](https://nhsx.github.io/nhsx-internship-projects/causal-community/)|
 
 
 <ul class="nhsuk-grid-row nhsuk-card-group">

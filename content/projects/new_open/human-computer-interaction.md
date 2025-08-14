@@ -9,23 +9,23 @@ permalink: /human-computer-interaction/
 
 **Keywords:**  Explainability, Decision Support, Tabular 
 
-**Need:** There are several emerging use cases where performance of AI (Artificial Intelligence) applications in narrow tasks can rival human domain experts on many examples, but still produce unexpected errors in areas where humans perform very well. Further, many of these models do not inherently produce an output that is clearly mapped to uncertainty as understood by humans or can identify when they are provided on out-of-domain examples which should be deferred to a different process. 
+**Need:** AI systems can achieve performance on narrow tasks comparable to human experts, but still make unexpected errors—particularly in cases where humans perform well. Many such models lack clear, human-understandable measures of uncertainty, and cannot reliably detect out-of-domain inputs that should be deferred to alternative processes.
 
-This project looks to explore areas and techniques where human-algorithmic interactions and collaborations can improve performance and robustness, or settings where a model is used to improve efficiency or augment decision-making from the point of view of an arbitrator. 
-
-The main aim is to understand how to identify and explain the impact the arbitrator has upon model tuning and performance including a shared understanding of uncertainty and the ability to fully audit outputs produced.  
+In NHS settings, this raises challenges for safe deployment and trust. This project will explore techniques for human-AI collaboration, where models and clinicians work together to improve performance, robustness, and efficiency. The focus will be on “arbitrator” settings—where a model, human, or combined process decides how to act—examining shared understanding of uncertainty, methods for transparent decision-making, and ways to fully audit outputs.
 
 **Current Knowledge/Examples & Possible Techniques/Approaches:**  
-- [Enhancing the reliability and accuracy of AI-enabled diagnosis via complementarity-driven deferral to clinicians ](https://www.nature.com/articles/s41591-023-02437-x%20)
-- [GitHub: deepmind/codoc](https://github.com/deepmind/codoc) 
-- [GitHub: aamini/evidential-deep-learning](https://github.com/aamini/evidential-deep-learning)
-- [Active Acquisition for Multimodal Temporal Data: A Challenging Decision-Making Task](https://arxiv.org/abs/2211.05039)
+Recent research has proposed frameworks for human-AI collaboration in decision-making. For example,  Dvijotham et al. (2023) explore complementarity-driven deferral systems, where AI defers to clinicians in uncertain cases ([Nature Medicine](https://www.nature.com/articles/s41591-023-02437-x)). Open-source projects such as [DeepMind’s CoDoC](https://github.com/google-deepmind/codoc) demonstrate calibration and deferral strategies, while [evidential deep learning](https://github.com/aamini/evidential-deep-learning) offers principled uncertainty estimation. More complex scenarios, such as active acquisition for multimodal temporal data, are discussed in [Kossen et al. (2023)](https://arxiv.org/abs/2211.05039), highlighting the challenges of dynamic, data-driven decision-making.
 
 **Related Previous Internship Projects:** n/a first year of this topic 
 
 **Enables Future Work:** Supports wide deployment of AI applications in healthcare workflows 
 
-**Outcome/Learning Objectives:** Build a better understanding of the frameworks and techniques available to build collaborative and transparent systems 
+**Outcome/Learning Objectives:** 
+
+- Evaluate existing human-AI collaboration frameworks on open healthcare datasets
+- Implement at least one uncertainty-aware, deferral-capable model
+- Analyse the effect of human arbitration on model performance and calibration
+- Produce guidance for designing transparent, auditable decision-support systems in NHS workflows
 
 **Datasets:** Open healthcare datasets that support the exploration of human-algorithm interactions
 

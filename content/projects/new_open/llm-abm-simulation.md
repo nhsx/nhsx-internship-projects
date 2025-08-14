@@ -7,15 +7,13 @@ permalink: /llm-abm-simulation/
 
 # Simulating Healthcare Scenarios with LLMs as Agents
 
-**Keywords:** Simulation, ABM, Text 
+**Keywords:** Generative AI, Agent Simulation, Text 
 
-**Need:**  The use of Large Language Models (LLMs) as Autonomous Agents is a nascent field but has already generated a large amount of interest for a variety of use-cases, new packages and corresponding workstreams.  Within this framework, the language model is prompted to take on various roles, is allowed to interact with its environment, make use of a memory store, and even access tools to improve its ability at specific tasks. 
+**Need:**  The use of Large Language Models (LLMs) as autonomous agents is an emerging field generating significant interest across multiple domains. In this paradigm, an LLM (or collection of models) is prompted to take on specific roles, interact with its environment, maintain memory, and use tools to achieve defined objectives.
 
-This project would look to explore the use of this paradigm to model healthcare scenarios, generate complex interactions and align to non-linear outcome objectives, which can be challenging in other modelling simulations.  It will look to take advantage of the underlying language model’s (or collection of models) abilities and explore pragmatic ways evaluate limitations of current techniques. 
+This project will explore how such agents can model healthcare scenarios, enabling simulation of complex, multi-actor interactions and non-linear outcome pathways—areas often challenging for traditional modelling approaches. An area of particular interest is how an LLM might act as an “intelligence layer” from different agent viewpoints within the same simulated environment.
 
-An area of particular interest is how the language model might behave when acting as an intelligence layer from different agent viewpoints within the wider simulation. Complex logs of actions and exchanges within the environment can then also be studied to gain a better understanding of how scenarios have played out, and then iterated on. 
-
-As this field that is evolving quickly, the project will be expected to build out an initial working example over a simplified pathway which can then be built on to incorporate new emerging and promising techniques, or a more complicated pathway.
+Complex logs of actions and interactions can then be analysed to understand how scenarios play out and iteratively improve simulation realism. The project will deliver an initial working example based on a simplified care pathway, with the ability to expand to more complex simulations and integrate emerging techniques as the field evolves.
 
 **Current Knowledge/Examples & Possible Techniques/Approaches:**
 - Generative Agents: Interactive Simulacra of Human Behaviour, Park et al, 2023. [arXiv: 2304.03442](https://arxiv.org/abs/2304.03442)
@@ -31,7 +29,12 @@ N/A - this is first year of the project
 Foundation for both using agents for evaluation and as an intelligence layer in agent based modelling
 
 **Outcome/Learning Objectives:**
-Demonstaration of the usefulness and challenges of utilising LLMs as agents to model complex interactions 
+
+- Literature review of Agentic LLM approaches with clarity on definitions of scales of agentic with associated evaluation considerations
+- Develop a proof-of-concept LLM agent-based simulation for a simplified healthcare pathway
+- Explore multiple agent perspectives (e.g., clinician, patient, administrator) within the simulation
+- Evaluate agent performance, interaction realism, and scenario reproducibility
+- Document challenges, limitations, and recommendations for future NHS applications
 
 **Datasets:** 
 Much of the work will focus on setting up appropriate scenarios and generating outputs from them, but open healthcare datasets will be used to augment where required 

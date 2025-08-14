@@ -19,20 +19,24 @@ As part of the proof of concept, a small sub-corpus of around 1% of all domains 
 Possible directions may include: 
 - Exploring the interconnectivity between health organisations online presence 
 - Analysing accent representation in geographically sparse trusts 
-- Investigating communication strategies for different health conditions across the UK 
+- Investigating communication strategies for different health conditions across the UK and identify where healthcare guidance/policy differs between trusts?
 - Experimenting with NLP approaches to marry up named entity recognition outputs with SNOMED CT codes 
 - Accessibility evaluation using an utterance level linguistic analysis 
 - Understanding website structure in accessing key services from centralised NHS pages 
 - Automation and monitoring of identification of dead/incorrect links informing methods for repairing sites 
 
 **Current Knowledge/Examples & Possible Techniques/Approaches:**
-See previous project report and codebase (pending release) 
+The previous internship project NHS Language Corpus developed the initial scraping and enrichment pipeline. Techniques that could be relevant for this phase include large-scale web scraping, named entity recognition, ontology mapping (e.g., SNOMED CT), speech-to-text processing, and corpus linguistics analysis.
 
 **Related Previous Internship Projects:** 
 [https://nhsx.github.io/nhsx-internship-projects/nhs-language-corpus/](NHS Language Corpus)
 
 **Enables Future Work:**
-Feed the justification and technical build of a monitor corpus data asset 
+
+- Develop and run analysis scripts for at least 2–3 use cases on the sub-corpus
+- Produce example dashboards, visualisations, or reports from the corpus
+- Provide recommendations for scaling and operationalising the NHS Monitor Corpus
+- Document methodology to support future research and reuse
 
 **Outcome/Learning Objectives:**
 Series of demonstrations of use-cases and value of such an asset for the NHS and other potential users
