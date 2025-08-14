@@ -7,7 +7,7 @@ permalink: /domain-gap/
 
 # Domain Gap Bridging
 
-**Keywords:** KeyWord1, KeyWord2, KeyWordData 
+**Keywords:** Machine Learning, Generalisation, Images
 
 **Need:**  Many machine learning models degrade significantly when applied outside their original training domain, leading to lower-than-expected accuracy, poor scalability, and potential patient safety risks. In healthcare, this can occur when deploying a model in a new hospital, with a different EHR supplier, or on imaging data from a different scanner or acquisition protocol. 
 

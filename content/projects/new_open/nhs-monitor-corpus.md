@@ -7,7 +7,7 @@ permalink: /nhs-monitor-corpus/
 
 # Exploiting an NHS Monitor Corpus
 
-**Keywords:** NLP, Corpus, Text 
+**Keywords:** NLP, Corpus, MultiModal 
 
 **Need:**  
 Many data science and AI tasks which makes use of modern natural language processing approaches, need large, varied and domain-aligned training and validation data to give an acceptable performance.  We are investigating building an NHS Monitor (updates over time) Corpus - a body of data, which is representative of language for both patients and clinicians discussing healthcare, curated in a machine-readable form.  These corpora can not only help models have greater accuracy but can also be used to understand health communication. This sits alongside other examples of more general domain Corpora include the [British National Corpus](http://www.natcorp.ox.ac.uk/) for text and [OpenSLR](https://openslr.org/) for audio. 
