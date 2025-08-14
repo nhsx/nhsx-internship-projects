@@ -2,7 +2,7 @@
   codelink: "https://github.com/nhsengland/evalsense/tree/main"
   reportlink: "https://nhsengland.github.io/evalsense/"
   case study link: tbu
-  stage: Wave 8 - Jan to June 2025
+  stage: Wave 8 - January to June 2025
   badge1: Evaluation
   badge2: Text Data
   badge3: LLMs
@@ -14,7 +14,7 @@
   codelink: "https://github.com/nhsengland/mm-healthfair/tree/main"
   reportlink: "https://github.com/nhsengland/mm-healthfair/blob/main/report/MMHealthFair_v2_KG_Final_Report.pdf"
   case study link: tbu
-  stage: Wave 8 - Jan to June 2025
+  stage: Wave 8 - January to June 2025
   badge1: Fariness
   badge2: MultiModal Data
   badge3: Explainability
@@ -33,8 +33,8 @@
   stage: Wave 7 - June to December 2024
   badge1: Visual Question Answering
   badge2: Image Data
-  badge3: 
-  description: 
+  badge3: MultiModal
+  description: Investigating the hurdles of applying VQA in a real-world healthcare setting
   author: Anjali Golding
   supervisor: Dan Schofield | Jonathan Hope
 
