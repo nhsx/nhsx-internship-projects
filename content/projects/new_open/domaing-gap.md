@@ -15,20 +15,20 @@ For the NHS, which operates across hundreds of diverse clinical sites, safe nati
 
 **Current Knowledge/Examples & Possible Techniques/Approaches:** Recent work in unsupervised domain adaptation (UDA) and domain generalisation (DG) has mainly focussed on medical imaging which has shown promise in bridging performance gaps between training and deployment environments.  This project would start by considering the imaging domain but look to wider considerations for generalisation of models across health areas and organisations too. 
 
-[Dou et al. (2018)](https://arxiv.org/pdf/1812.07907) provide an overview of recent UDA methods and their clinical impact, while [Gong et al. (2024)](https://arxiv.org/pdf/2408.05985) demonstrate Diffuse‑UDA, a diffusion-based approach that generates target-style images with preserved structure, achieving strong adaptation results. [Lyu et al. (2025)](https://arxiv.org/html/2505.11909v1) propose LowBridge, a lightweight cross-modal alignment method that uses domain-invariant edge features to improve segmentation across imaging modalities. [Ying et al. (2025)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5345726) provide a broader survey of DA/DG methods in medical imaging, with insights into how foundation models and pre-training strategies can improve robustness in cross-site settings.
+[Dou et al. (2018)](https://arxiv.org/pdf/1812.07907) provide an overview of recent UDA methods and their clinical impact, while [Gong et al. (2024)](https://arxiv.org/pdf/2408.05985) demonstrate Diffuse‑UDA, a diffusion-based approach that generates target-style images with preserved structure, achieving strong adaptation results. [Lyu et al. (2025)](https://arxiv.org/html/2505.11909v1) propose LowBridge, a lightweight cross-modal alignment method that uses domain-invariant edge features to improve segmentation across imaging modalities. [Ying et al. (2025)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5345726) provide a broader survey of UDA/DG methods in medical imaging, with insights into how foundation models and pre-training strategies can improve robustness in cross-site settings.
 
 **Related Previous Internship Projects:** N/A as first iteration of the project
 
 **Enables Future Work:**
 
-- Evaluation of DA methods across imaging domains
+- Evaluation of UDA methods across imaging domains
 - Toolkit for NHS AI teams to test domain sensitivity
 - Pipeline to train generalisable, cross-site models 
 
 **Outcome/Learning Objectives:**
 
 - Benchmark study using public and synthetic imaging data
-- Application of diffusion-based and adversarial DA techniques
+- Application of diffusion-based and adversarial UDA techniques
 - Quantitative analysis of performance across domains
 - Guidance for NHS AI deployment with cross-site robustness
 
