@@ -15,7 +15,6 @@ Below is a list of internship projects which are continually being updated and a
 *These projects are the list that our 2025 cohort could apply to.  Projects for 2026 will be confirmed and appear here in early August.  We are happy to discuss the briefs and hear suggestions to fine tune them.*
 
 |:---:|---|
-
 |![area](https://img.shields.io/badge/PETs-red) &nbsp; ![technique](https://img.shields.io/badge/DifferentialPrivacy-lightgrey) &nbsp; ![datamodality](https://img.shields.io/badge/Tabular-green) |[Applied Privacy Enhancing Technologies in Healthcare](https://nhsx.github.io/nhsx-internship-projects/pets-in-healthcare/)|
 |![area](https://img.shields.io/badge/Explainability-orange) &nbsp; ![technique](https://img.shields.io/badge/ASR-lightgrey) &nbsp; ![datamodality](https://img.shields.io/badge/Audio-9cf) |[Automatic Speech Recognition with Summarisation Evaluation](https://nhsx.github.io/nhsx-internship-projects/asr/)|
 |![area](https://img.shields.io/badge/MachineLearning-blue) &nbsp; ![technique](https://img.shields.io/badge/SinglePatientRecord-lightgrey) &nbsp; ![datamodality](https://img.shields.io/badge/MultiModal-blueviolet)|[Building Multimodal Patient Representations for Clinical Prediction](https://nhsx.github.io/nhsx-internship-projects/mm-patient-rep/)|
