@@ -29,7 +29,7 @@ Possible directions may include:
 The previous internship project NHS Language Corpus developed the initial scraping and enrichment pipeline. Techniques that could be relevant for this phase include large-scale web scraping, named entity recognition, ontology mapping (e.g., SNOMED CT), speech-to-text processing, and corpus linguistics analysis.
 
 **Related Previous Internship Projects:** 
-[https://nhsx.github.io/nhsx-internship-projects/nhs-language-corpus/](NHS Language Corpus)
+[NHS Language Corpus](https://nhsx.github.io/nhsx-internship-projects/nhs-language-corpus/)
 
 **Enables Future Work:**
 
