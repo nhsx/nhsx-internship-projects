@@ -7,6 +7,26 @@ permalink: overview.html
 
 # {{page.title}}
 
+## Changes this year
+
+Unfortunately, this year we can’t offer funded places as we have done previously.   We are aiming to re-establish these funded internships after NHS England has been combined with the Department of Health and Social Care (DHSC).
+
+### How this change impacts the scheme:
+
+- Previously our interns occupied permanent band 6 roles with full agenda for change conditions for 5-month periods.  This came with a band 6 spine point 1 wage and included access to data.    
+This year our interns will sign a voluntary agreement honorary contract which enables the project to go ahead, and then a separate data sharing agreement which enables access to the data.   This will come with no wage and so the intern will need to be funded by their current PhD body throughout the duration of the industrial placement. 
+
+- Previously we could only offer four internships (due to the limitation on available permanent places) – two in January and two in June.
+This year we have up to ten places available with five starting in January and five in April.   There is flexibility on the start date and time-period going from three to five months and an opportunity to group interns if it would be beneficial to have a team work on a project together. 
+
+- Previously we’ve been limited to applicants who are on a current PhD programme throughout the duration of the internship and have an established right to work in the UK.  
+This year these constraints will still apply.
+
+**Note**: we welcome applications from students on visas that restrict their weekly working hours as we are looking to match the right student to the right project which will result in an innovative and usable project which is by no means directly correlated to the number of hours available.
+
+Please email datascience@nhs.net with any queries and questions.   **Please do not send CVs or personal data here.**
+
+
 ### Overview
 
 This scheme aims to connect NHS real data and issues with academic thought and research through short-term PhD internships.  The benefit to the NHS is the added value that academia brings to evidence-based research but on timescales that allow the insights to be acted upon.  For the student and university, the benefit is an avenue to conduct related research in an industrial environment and access to NHS data where appropriate.
@@ -25,7 +45,7 @@ Key priorities of the internship will be:
 
 ### The Role
 
-The successful candidate will occupy a permanent role within the Data Science Team.   During the internship the candidate will be expected to progress their chosen project autonomously with supervision from internal colleagues as well as their current academic supervisor(s).   The candidate will be expected to be focussed on the project and self-driven during the internship period, providing regular updates on progress and issues. 
+The successful candidate will ~~occupy a permanent role~~ sit within the Data Science Team under a honorary contract.   During the internship the candidate will be expected to progress their chosen project autonomously with supervision from internal colleagues as well as their current academic supervisor(s).   The candidate will be expected to be focussed on the project and self-driven during the internship period, providing regular updates on progress and issues. 
 
 Within the topic area of the chosen project, there will be some freedom to direct the development of the research and knowledge but this will also need to be balanced against creating a learning outcome or tangible output, that benefits the PhD scheme objectives and is in a shareable state for future projects to pick up and continue the development.
 
@@ -53,24 +73,39 @@ Applicants will need:
 
 ### Timelines 
 
-**Applications Open** - Early October
+**Applications Open** - Start of October
 
-**Applications Close** - Early November
+**Applications Close** - End of October
 
-**Interviews** - Late November
+Each application will have its content extracted and anonymised before multiple reviewers assess the application.
+- An initial sift will check that applicants meet the eligibility requirements
+- A second stage sift will consider the content of the CV and covering letter
 
-**Outcomes Communicated** - Early December
+**Interviews** - Mid to late November
 
-**January Wave Start** - Mid-January
+**Outcomes Communicated** - By the End of November
 
-**June Wave Start** - Mid-June
+**January Wave Start** - Mid-January (Flexible)
+
+**June Wave Start** - Mid-April (Flexible)
 
 ### How to Apply
 
-Application links will be made available on our [website](https://nhsengland.github.io/datascience/PhDInterns/) between the open and close dates
+Please email [(jonathanpearson@nhs.net)](mailto:jonathanpearson@nhs.net) directly to apply.   
 
-As part of the application you will be asked to specify which project(s) you are interested in and any relevant experience in these areas.
+Your data will be stored in a secure space for the duration of the application and then deleted once outcomes have been communicated.   A record of name, contact and feedback provided will be retained for audit purposes.  
 
-Applications will be sifted using a set of sifting questions to ensure the candidate fulfils the minimum requirements for this role.   Each question will be marked by three sifters using a score of 1 to 5.  The sifters will not be able to see any other material the candidate has provided whilst marking each individual question so please ensure each answer doesn’t refer to other materials and that all information and evidence is self-contained in the question.
-
-Interviews - The interviews will be conducted as a panel with competency based questions. During the interview process, candidates will be asked to provide further evidence of their interest, technical skill and experience.   You will also be asked to provide a statement of support for the internship from your PhD supervisor.
+Please include:
+- Curriculum Vitae
+    - Name
+    - Contact email
+    - Education including current PhD scheme and supervisor contact
+    - Previous relevant employment & experience
+    - Technical experience such as coding, tooling proficiency
+    - Links to relevant papers, Github repositories, etc.. 
+- Covering letter 
+    - Which project(s) (from those available at https://nhsx.github.io/nhsx-internship-projects/projects.html) you are interested in working on (maximum two).
+    - Why you are interested in the scheme and chosen project(s)
+    - Where you see the potential for the project to have a positive impact for NHS patients
+    - What initial considerations you would want to consider for the project to ensure impact and appropriate implementation for healthcare.
+    - A reference and contact email (either academic or employment) which you would be happy for us to contact
