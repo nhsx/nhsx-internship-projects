@@ -32,7 +32,7 @@ Please email datascience@nhs.net with any queries and questions.   **Please do n
 This scheme aims to connect NHS real data and issues with academic thought and research through short-term PhD internships.  The benefit to the NHS is the added value that academia brings to evidence-based research but on timescales that allow the insights to be acted upon.  For the student and university, the benefit is an avenue to conduct related research in an industrial environment and access to NHS data where appropriate.
 
 We are looking for PhD students working in a quantitative discipline but with an interest in applying their knowledge and gaining experience of creating solutions for the NHS.  The student ~~will be funded~~ **funding can't be offered in 2026 and interns will have to be self-funded from their current PhD funding body** during the duration of the internship covering between three and five months. 
-
+  
 Our aim is to continually build on previous learning whilst having an avenue for including the latest research and approaches.  Where possible we will work in an open and transparent way ensuring that learning is shared and insights made available for others to reproduce.  At the end of the project the applicant will submit a final report suitable for publication in open literature, and presentations to NHS England on their results including their experience of the project.  The nature of the output will depend on the specific project.
 
 Key priorities of the internship will be:
