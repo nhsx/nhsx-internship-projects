@@ -40,7 +40,7 @@
 
 - title: P72 - NER Evalaution with GOSH
   codelink: "https://github.com/nhsengland/nlp_renal_biopsy"
-  reportlink: "https://github.com/nhsengland/nlp_renal_biopsy"
+  reportlink: "https://github.com/nhsengland/nlp_renal_biopsy/blob/main/reports/AV_report_v1_partialredact.pdf"
   case study link: tbu
   stage: Wave 7 - June to December 2024
   badge1: Histopathology Reports
@@ -78,8 +78,8 @@
   supervisor: Dan Schofield
 
 - title: P61 - Understanding Fairness and Explainability in Multimodal Approaches within Healthcare
-  codelink: https://github.com/nhsengland/mm-healthfair
-  reportlink: https://github.com/nhsengland/mm-healthfair/blob/main/report/NHSE_Internship_Project_Multimodal_XAI.pdf
+  codelink: "https://github.com/nhsengland/mm-healthfair"
+  reportlink: "https://github.com/nhsengland/mm-healthfair/blob/main/report/MMHealthFair_v1_SM_Final_Report.pdf"
   case study link: tbu
   stage: Wave 6 - January to June 2024
   badge1: Fairness
