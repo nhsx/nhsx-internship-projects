@@ -1,32 +1,51 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 
-{% include header.html %}
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+  <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.title }}</title>
+  <meta name="description" content="{{ page.description | default: site.description }}">
+
+  <!-- NHS UK Frontend -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/nhsuk-frontend@9.0.0/dist/nhsuk.min.css">
+
+  <!-- Font Awesome 6 -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css">
+
+  <!-- MathJax -->
+  <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+
+  <!-- Frutiger Bold (preload local copy) -->
+  <link type="font/woff2" href="{{ "/assets/fonts/FrutigerLTW01-65Bold.woff2" | relative_url }}" rel="preload" as="font" crossorigin />
+
+  <!-- Custom styles -->
+  <link rel="stylesheet" href="{{ "/assets/css/custom.css" | relative_url }}">
+
+  <!-- Favicon -->
+  <link rel="shortcut icon" href="{{ "/favicon.ico" | relative_url }}" type="image/x-icon">
+</head>
 
 <body>
-  {% include navbar.html %}
-
   <script>
     document.body.className = document.body.className
       ? document.body.className + " js-enabled"
       : "js-enabled";
   </script>
 
+  {% include header.html %}
+
   <div class="nhsuk-width-container">
     <main class="nhsuk-main-wrapper" id="maincontent" role="main">
-      <div class="nhsuk-grid-row">
-        <div class="nhsuk-grid-column">
-        
-
-          {{ content }}
-        </div>
-      </div>
+      {{ content }}
     </main>
   </div>
 
   {% include footer.html %}
-</body>
 
-<script src="https://cdn.jsdelivr.net/gh/MarketingPipeline/Markdown-Tag/markdown-tag-GitHub.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/nhsuk-frontend@9.0.0/dist/nhsuk.min.js" defer></script>
+  <script src="https://cdn.jsdelivr.net/gh/MarketingPipeline/Markdown-Tag/markdown-tag-GitHub.js"></script>
+</body>
 
 </html>

@@ -1,52 +1,56 @@
 ---
 layout: base
 title: NHS England Data Science PhD Internship
-description: NHS England PhD Internship
+description: NHS England PhD Internship — connecting doctoral researchers with real NHS data science challenges
 permalink: /
 ---
 
-# {{page.title}}
+<div class="nhsx-hero">
+  <div class="nhsuk-width-container">
+    <h1>NHS England Data Science PhD Internships</h1>
+    <p class="nhsx-hero__lead">Connecting doctoral researchers with real NHS data science challenges. Five-month paid placements for PhD students across data science, clinical informatics, mathematics, and beyond.</p>
+    <a href="overview.html" class="nhsuk-button nhsx-btn-hero-primary">How to apply</a>
+    <a href="projects.html" class="nhsuk-button nhsx-btn-hero-secondary">View open projects</a>
+  </div>
+</div>
 
-Our internships are aimed at current PhD students looking for an industrial placement of around five months with the right to work in the UK.  The projects are focussed on innovation, in particular around getting the most value out of NHS data.
+<div class="nhsx-stats">
+  <div class="nhsx-stat">
+    <span class="nhsx-stat__number">38+</span>
+    <span class="nhsx-stat__label">Projects completed</span>
+  </div>
+  <div class="nhsx-stat">
+    <span class="nhsx-stat__number">11</span>
+    <span class="nhsx-stat__label">Cohort waves</span>
+  </div>
+  <div class="nhsx-stat">
+    <span class="nhsx-stat__number">12</span>
+    <span class="nhsx-stat__label">Open projects</span>
+  </div>
+</div>
 
-The projects often have a focus on emerging data science techniques and so we advertise mainly to data science programmes, however previous interns have come from other disciplines such as clinical, mathematics, computer science and bioinformatics, which have added huge value through the range of approaches and knowledge.
+---
 
-For details on **how to apply** see the <a href="/nhsx-internship-projects/overview.html">Scheme Overview</a> page 
+### About the scheme
 
-For details on **open projects** see the <a href="/nhsx-internship-projects/projects.html">Projects</a> page
+Our internships are aimed at current PhD students looking for a paid industrial placement of around five months with the right to work in the UK. Projects are focused on innovation — particularly around getting the most value out of NHS data.
 
-### Current Projects 
-Currently our interns are working on the following projects in two waves.  These are the original briefs they applied to and their work and outputs will be available on our organisation GitHub.
+Projects often have a focus on emerging data science techniques so we advertise mainly to data science programmes, however previous interns have come from clinical, mathematics, computer science and bioinformatics backgrounds, adding huge value through the range of approaches and knowledge they bring.
 
-|:---:|--|
-|**Wave 9**|  July - December 2025 |
-|![area](https://img.shields.io/badge/Linkage-yellowgreen) &nbsp; ![technique](https://img.shields.io/badge/Evaluation-lightgrey) &nbsp; ![datamodality](https://img.shields.io/badge/Tabular-green)|[Automated Evaluation and Benchmarking of Data Linkage Quality ](https://nhsx.github.io/nhsx-internship-projects/automated-evaluation-linkage/)|
-|![area](https://img.shields.io/badge/MachineLearning-blue) &nbsp; ![technique](https://img.shields.io/badge/CausalInference-lightgrey) &nbsp; ![datamodality](https://img.shields.io/badge/Tabular-green) |[Causal Inference to Estimate the Impact of Interventions](https://nhsx.github.io/nhsx-internship-projects/causal-community/)|
+---
 
+### Current Internships
 
-<ul class="nhsuk-grid-row nhsuk-card-group">
-  <li class="nhsuk-grid-column-one-half nhsuk-card-group__item">
-    <div class="nhsuk-card nhsuk-card--clickable">
-        <img class="nhsuk-card__img" src="assets/img/graph.jpg" alt="teaser" height="250" />
-        <div class="nhsuk-card__content">
-            <h2 class="nhsuk-card__heading nhsuk-heading-m">
-            <a class="nhsuk-card__link" href="projects.html">Projects</a>
-            </h2>
-            <p class="nhsuk-card__description">List of active and open projects to either get involved with or apply to in our next round</p>
-        </div>
-    </div>
-  </li>    
-  <li class="nhsuk-grid-column-one-half nhsuk-card-group__item">  
-    <div class="nhsuk-card nhsuk-card--clickable">
-        <img class="nhsuk-card__img" src="assets/img/genetic-algo.jpg" alt="teaser" height="250" />
-        <div class="nhsuk-card__content">
-            <h2 class="nhsuk-card__heading nhsuk-heading-m">
-            <a class="nhsuk-card__link" href="overview.html">Scheme Overview</a>
-            </h2>
-            <p class="nhsuk-card__description">Details of aims and application process of the scheme</p>
-        </div>
-    </div>
-  </li>
-</ul>
+<div class="nhsx-current-projects">
+  <span class="nhsx-wave-badge">Wave 11 — April to July 2026</span>
+  <p>We currently have six interns working across a range of projects. Project details and outputs will be published on our <a href="https://github.com/nhsengland">organisation GitHub</a> on completion.</p>
 
-Please get in contact by emailing <a href="mailto:datascience@nhs.net">our mailbox</a> with any further questions around the internship.  
+  <div class="nhsuk-inset-text">
+    <span class="nhsuk-u-visually-hidden">Information: </span>
+    <p>Wave 11 project details and links will be added here shortly. Please <a href="mailto:datascience@nhs.net">get in touch</a> if you would like to know more about the current cohort's work.</p>
+  </div>
+</div>
+
+---
+
+Please get in contact by emailing <a href="mailto:datascience@nhs.net">our mailbox</a> with any further questions about the internship.
