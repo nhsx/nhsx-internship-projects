@@ -56,20 +56,6 @@ Below is a list of internship projects which are continually being updated and a
       </div>
     </div>
   </li>
-  <li class="nhsuk-grid-column-one-third nhsuk-card-group__item nhsx-project-card" data-tags="linkage">
-    <div class="nhsuk-card nhsuk-card--clickable">
-      <div class="nhsuk-card__content">
-        <h3 class="nhsuk-card__heading nhsuk-heading-s">
-          <a class="nhsuk-card__link" href="https://nhsx.github.io/nhsx-internship-projects/geospatial-data/">Evaluating the risks and value of multiple geospatial data linkages</a>
-        </h3>
-        <div class="nhsx-card-badges">
-          <strong class="nhsuk-tag nhsuk-tag--aqua-green">Linkage</strong>
-          <strong class="nhsuk-tag nhsuk-tag--grey">Evaluation</strong>
-          <strong class="nhsuk-tag nhsuk-tag--tabular">Tabular</strong>
-        </div>
-      </div>
-    </div>
-  </li>
   <li class="nhsuk-grid-column-one-third nhsuk-card-group__item nhsx-project-card" data-tags="explainability nlp">
     <div class="nhsuk-card nhsuk-card--clickable">
       <div class="nhsuk-card__content">
@@ -182,16 +168,44 @@ Below is a list of internship projects which are continually being updated and a
       </div>
     </div>
   </li>
-  <li class="nhsuk-grid-column-one-third nhsuk-card-group__item nhsx-project-card" data-tags="machinelearning">
+  <li class="nhsuk-grid-column-one-third nhsuk-card-group__item nhsx-project-card" data-tags="synthetic">
     <div class="nhsuk-card nhsuk-card--clickable">
       <div class="nhsuk-card__content">
         <h3 class="nhsuk-card__heading nhsuk-heading-s">
-          <a class="nhsuk-card__link" href="https://nhsx.github.io/nhsx-internship-projects/pharmacy-prioritisation-support/">Pharmacy Prioritisation Support</a>
+          <a class="nhsuk-card__link" href="controllable-generation-rare-events/">Controllable generation of rare clinical events</a>
         </h3>
         <div class="nhsx-card-badges">
-          <strong class="nhsuk-tag">MachineLearning</strong>
-          <strong class="nhsuk-tag nhsuk-tag--grey">Pharmacy</strong>
+          <strong class="nhsuk-tag nhsuk-tag--green">Synthetic</strong>
+          <strong class="nhsuk-tag nhsuk-tag--grey">GenerativeAI</strong>
           <strong class="nhsuk-tag nhsuk-tag--tabular">Tabular</strong>
+        </div>
+      </div>
+    </div>
+  </li>
+  <li class="nhsuk-grid-column-one-third nhsuk-card-group__item nhsx-project-card" data-tags="explainability">
+    <div class="nhsuk-card nhsuk-card--clickable">
+      <div class="nhsuk-card__content">
+        <h3 class="nhsuk-card__heading nhsuk-heading-s">
+          <a class="nhsuk-card__link" href="test-environment-harness/">Test Environment Harness</a>
+        </h3>
+        <div class="nhsx-card-badges">
+          <strong class="nhsuk-tag nhsuk-tag--orange">Explainability</strong>
+          <strong class="nhsuk-tag nhsuk-tag--grey">Testing</strong>
+          <strong class="nhsuk-tag nhsuk-tag--multimodal">MultiModal</strong>
+        </div>
+      </div>
+    </div>
+  </li>
+  <li class="nhsuk-grid-column-one-third nhsuk-card-group__item nhsx-project-card" data-tags="pets">
+    <div class="nhsuk-card nhsuk-card--clickable">
+      <div class="nhsuk-card__content">
+        <h3 class="nhsuk-card__heading nhsuk-heading-s">
+          <a class="nhsuk-card__link" href="automated-red-teaming/">Automated Red-teaming for clinical generative AI</a>
+        </h3>
+        <div class="nhsx-card-badges">
+          <strong class="nhsuk-tag nhsuk-tag--red">PETs</strong>
+          <strong class="nhsuk-tag nhsuk-tag--grey">RedTeaming</strong>
+          <strong class="nhsuk-tag nhsuk-tag--text">Text</strong>
         </div>
       </div>
     </div>
@@ -356,6 +370,34 @@ Below is a list of internship projects which are continually being updated and a
         <div class="nhsx-card-badges">
           <strong class="nhsuk-tag nhsuk-tag--green">Synthetic</strong>
           <strong class="nhsuk-tag nhsuk-tag--grey">BayesianNetworks</strong>
+          <strong class="nhsuk-tag nhsuk-tag--tabular">Tabular</strong>
+        </div>
+      </div>
+    </div>
+  </li>
+  <li class="nhsuk-grid-column-one-third nhsuk-card-group__item nhsx-project-card" data-tags="linkage">
+    <div class="nhsuk-card nhsuk-card--clickable">
+      <div class="nhsuk-card__content">
+        <h3 class="nhsuk-card__heading nhsuk-heading-s">
+          <a class="nhsuk-card__link" href="https://nhsx.github.io/nhsx-internship-projects/geospatial-data/">Evaluating the risks and value of multiple geospatial data linkages</a>
+        </h3>
+        <div class="nhsx-card-badges">
+          <strong class="nhsuk-tag nhsuk-tag--aqua-green">Linkage</strong>
+          <strong class="nhsuk-tag nhsuk-tag--grey">Evaluation</strong>
+          <strong class="nhsuk-tag nhsuk-tag--tabular">Tabular</strong>
+        </div>
+      </div>
+    </div>
+  </li>
+  <li class="nhsuk-grid-column-one-third nhsuk-card-group__item nhsx-project-card" data-tags="machinelearning">
+    <div class="nhsuk-card nhsuk-card--clickable">
+      <div class="nhsuk-card__content">
+        <h3 class="nhsuk-card__heading nhsuk-heading-s">
+          <a class="nhsuk-card__link" href="https://nhsx.github.io/nhsx-internship-projects/pharmacy-prioritisation-support/">Pharmacy Prioritisation Support</a>
+        </h3>
+        <div class="nhsx-card-badges">
+          <strong class="nhsuk-tag">MachineLearning</strong>
+          <strong class="nhsuk-tag nhsuk-tag--grey">Pharmacy</strong>
           <strong class="nhsuk-tag nhsuk-tag--tabular">Tabular</strong>
         </div>
       </div>
