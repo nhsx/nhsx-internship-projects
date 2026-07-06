@@ -57,9 +57,9 @@ This project will look to:
 - Assess how model size, training corpus, and instruction tuning style affect privacy risk
 - Deliver a technical report with NHS-relevant policy guidance and recommendations
 
-**Datasets:** MIMIC-III/IV and Synthetic Clinical Notes (e.g., from privfp-experiments).
+**Datasets:** MIMIC-III/IV and Synthetic Clinical Notes (e.g., from privfp-experiments), [Internally generated synthetic clinical notes](https://huggingface.co/datasets/NHSEDataScience/synthetic_clinical_notes)
 
-**Desired skill set:** When applying please highlight any experience around privacy in large language models applied to healthcare, coding experience (including any coding in the open), any other data science experience you feel relevant.
+**Desired skill set:** When applying please highlight any experience around privacy in large language models applied to healthcare, privacy preserving ML, coding experience (including any coding in the open), any other data science experience you feel relevant.
 
 ---
 Return to list of [all available projects](https://nhsx.github.io/nhsx-internship-projects/).

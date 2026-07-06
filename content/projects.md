@@ -28,15 +28,15 @@ Below is a list of internship projects which are continually being updated and a
 *These projects are the list that our 2026 cohort could apply to. Projects for 2027 will be confirmed and appear here in early August. We are happy to discuss the briefs and hear suggestions to fine tune them.*
 
 <ul class="nhsuk-grid-row nhsuk-card-group">
-  <li class="nhsuk-grid-column-one-third nhsuk-card-group__item nhsx-project-card" data-tags="machinelearning">
+  <li class="nhsuk-grid-column-one-third nhsuk-card-group__item nhsx-project-card" data-tags="machinelearning linkage">
     <div class="nhsuk-card nhsuk-card--clickable">
       <div class="nhsuk-card__content">
         <h3 class="nhsuk-card__heading nhsuk-heading-s">
-          <a class="nhsuk-card__link" href="https://nhsx.github.io/nhsx-internship-projects/mm-patient-rep/">Building Multimodal Patient Representations for Clinical Prediction</a>
+          <a class="nhsuk-card__link" href="https://nhsx.github.io/nhsx-internship-projects/mm-patient-rep/">The NHS Patient Profile — Representations for Clinical AI</a>
         </h3>
         <div class="nhsx-card-badges">
-          <strong class="nhsuk-tag">MachineLearning</strong>
-          <strong class="nhsuk-tag nhsuk-tag--grey">SinglePatientRecord</strong>
+          <strong class="nhsuk-tag">MultiModal Learning</strong>
+          <strong class="nhsuk-tag nhsuk-tag--grey">Representations</strong>
           <strong class="nhsuk-tag nhsuk-tag--multimodal">MultiModal</strong>
         </div>
       </div>
@@ -70,62 +70,6 @@ Below is a list of internship projects which are continually being updated and a
       </div>
     </div>
   </li>
-  <li class="nhsuk-grid-column-one-third nhsuk-card-group__item nhsx-project-card" data-tags="nlp">
-    <div class="nhsuk-card nhsuk-card--clickable">
-      <div class="nhsuk-card__content">
-        <h3 class="nhsuk-card__heading nhsuk-heading-s">
-          <a class="nhsuk-card__link" href="https://nhsx.github.io/nhsx-internship-projects/nhs-monitor-corpus/">Exploiting an NHS Monitor Corpus</a>
-        </h3>
-        <div class="nhsx-card-badges">
-          <strong class="nhsuk-tag nhsuk-tag--yellow">NLP</strong>
-          <strong class="nhsuk-tag nhsuk-tag--grey">MonitorCorpus</strong>
-          <strong class="nhsuk-tag nhsuk-tag--multimodal">MultiModal</strong>
-        </div>
-      </div>
-    </div>
-  </li>
-  <li class="nhsuk-grid-column-one-third nhsuk-card-group__item nhsx-project-card" data-tags="pets">
-    <div class="nhsuk-card nhsuk-card--clickable">
-      <div class="nhsuk-card__content">
-        <h3 class="nhsuk-card__heading nhsuk-heading-s">
-          <a class="nhsuk-card__link" href="https://nhsx.github.io/nhsx-internship-projects/digital-watermarking/">Exploring Digital Watermarking and Usage-Aware Agents for Healthcare AI Governance</a>
-        </h3>
-        <div class="nhsx-card-badges">
-          <strong class="nhsuk-tag nhsuk-tag--red">PETs</strong>
-          <strong class="nhsuk-tag nhsuk-tag--grey">Agents</strong>
-          <strong class="nhsuk-tag nhsuk-tag--tabular">Tabular</strong>
-        </div>
-      </div>
-    </div>
-  </li>
-  <li class="nhsuk-grid-column-one-third nhsuk-card-group__item nhsx-project-card" data-tags="explainability">
-    <div class="nhsuk-card nhsuk-card--clickable">
-      <div class="nhsuk-card__content">
-        <h3 class="nhsuk-card__heading nhsuk-heading-s">
-          <a class="nhsuk-card__link" href="human-computer-interaction/">Exploring Human-Computer Interaction and Collaboration in Healthcare Settings</a>
-        </h3>
-        <div class="nhsx-card-badges">
-          <strong class="nhsuk-tag nhsuk-tag--orange">Explainability</strong>
-          <strong class="nhsuk-tag nhsuk-tag--grey">DecisionSupport</strong>
-          <strong class="nhsuk-tag nhsuk-tag--tabular">Tabular</strong>
-        </div>
-      </div>
-    </div>
-  </li>
-  <li class="nhsuk-grid-column-one-third nhsuk-card-group__item nhsx-project-card" data-tags="synthetic">
-    <div class="nhsuk-card nhsuk-card--clickable">
-      <div class="nhsuk-card__content">
-        <h3 class="nhsuk-card__heading nhsuk-heading-s">
-          <a class="nhsuk-card__link" href="https://nhsx.github.io/nhsx-internship-projects/nhs-synth-extended/">Extending NHSSynth into Multi-table, Multi-modal, and Longitudinal Data</a>
-        </h3>
-        <div class="nhsx-card-badges">
-          <strong class="nhsuk-tag nhsuk-tag--green">Synthetic</strong>
-          <strong class="nhsuk-tag nhsuk-tag--grey">VAE</strong>
-          <strong class="nhsuk-tag nhsuk-tag--tabular">Tabular</strong>
-        </div>
-      </div>
-    </div>
-  </li>
   <li class="nhsuk-grid-column-one-third nhsuk-card-group__item nhsx-project-card" data-tags="pets nlp">
     <div class="nhsuk-card nhsuk-card--clickable">
       <div class="nhsuk-card__content">
@@ -136,20 +80,6 @@ Below is a list of internship projects which are continually being updated and a
           <strong class="nhsuk-tag nhsuk-tag--red">PETs</strong>
           <strong class="nhsuk-tag nhsuk-tag--grey">Memorisation</strong>
           <strong class="nhsuk-tag nhsuk-tag--text">Text</strong>
-        </div>
-      </div>
-    </div>
-  </li>
-  <li class="nhsuk-grid-column-one-third nhsuk-card-group__item nhsx-project-card" data-tags="linkage">
-    <div class="nhsuk-card nhsuk-card--clickable">
-      <div class="nhsuk-card__content">
-        <h3 class="nhsuk-card__heading nhsuk-heading-s">
-          <a class="nhsuk-card__link" href="https://nhsx.github.io/nhsx-internship-projects/knowledge-graph-formation/">Knowledge Graph Formation Strategies</a>
-        </h3>
-        <div class="nhsx-card-badges">
-          <strong class="nhsuk-tag nhsuk-tag--aqua-green">DataRepresentations</strong>
-          <strong class="nhsuk-tag nhsuk-tag--grey">NodeEmbeddings</strong>
-          <strong class="nhsuk-tag nhsuk-tag--tabular">Tabular</strong>
         </div>
       </div>
     </div>
@@ -172,11 +102,25 @@ Below is a list of internship projects which are continually being updated and a
     <div class="nhsuk-card nhsuk-card--clickable">
       <div class="nhsuk-card__content">
         <h3 class="nhsuk-card__heading nhsuk-heading-s">
-          <a class="nhsuk-card__link" href="controllable-generation-rare-events/">Controllable generation of rare clinical events</a>
+          <a class="nhsuk-card__link" href="nhs-synthetic-data-studio/">NHSSynth Studio</a>
         </h3>
         <div class="nhsx-card-badges">
           <strong class="nhsuk-tag nhsuk-tag--green">Synthetic</strong>
-          <strong class="nhsuk-tag nhsuk-tag--grey">GenerativeAI</strong>
+          <strong class="nhsuk-tag nhsuk-tag--grey">Framework</strong>
+          <strong class="nhsuk-tag nhsuk-tag--tabular">Tabular</strong>
+        </div>
+      </div>
+    </div>
+  </li>
+  <li class="nhsuk-grid-column-one-third nhsuk-card-group__item nhsx-project-card" data-tags="synthetic">
+    <div class="nhsuk-card nhsuk-card--clickable">
+      <div class="nhsuk-card__content">
+        <h3 class="nhsuk-card__heading nhsuk-heading-s">
+          <a class="nhsuk-card__link" href="tailsynth/">TailSynth - Rare Event Synthetic Generation</a>
+        </h3>
+        <div class="nhsx-card-badges">
+          <strong class="nhsuk-tag nhsuk-tag--green">Synthetic</strong>
+          <strong class="nhsuk-tag nhsuk-tag--grey">RareEvents</strong>
           <strong class="nhsuk-tag nhsuk-tag--tabular">Tabular</strong>
         </div>
       </div>
@@ -186,25 +130,39 @@ Below is a list of internship projects which are continually being updated and a
     <div class="nhsuk-card nhsuk-card--clickable">
       <div class="nhsuk-card__content">
         <h3 class="nhsuk-card__heading nhsuk-heading-s">
-          <a class="nhsuk-card__link" href="test-environment-harness/">Test Environment Harness</a>
+          <a class="nhsuk-card__link" href="llm-model-collapse/">Detecting LLM Model Collapse</a>
         </h3>
         <div class="nhsx-card-badges">
           <strong class="nhsuk-tag nhsuk-tag--orange">Explainability</strong>
-          <strong class="nhsuk-tag nhsuk-tag--grey">Testing</strong>
+          <strong class="nhsuk-tag nhsuk-tag--grey">LLMs</strong>
+          <strong class="nhsuk-tag nhsuk-tag--text">Text</strong>
+        </div>
+      </div>
+    </div>
+  </li>
+  <li class="nhsuk-grid-column-one-third nhsuk-card-group__item nhsx-project-card" data-tags="explainability">
+    <div class="nhsuk-card nhsuk-card--clickable">
+      <div class="nhsuk-card__content">
+        <h3 class="nhsuk-card__heading nhsuk-heading-s">
+          <a class="nhsuk-card__link" href="sparse-neural-networks-explainability/">Sparse Networks for Explainability</a>
+        </h3>
+        <div class="nhsx-card-badges">
+          <strong class="nhsuk-tag nhsuk-tag--orange">Explainability</strong>
+          <strong class="nhsuk-tag nhsuk-tag--grey">SparseNetworks</strong>
           <strong class="nhsuk-tag nhsuk-tag--multimodal">MultiModal</strong>
         </div>
       </div>
     </div>
   </li>
-  <li class="nhsuk-grid-column-one-third nhsuk-card-group__item nhsx-project-card" data-tags="pets">
+  <li class="nhsuk-grid-column-one-third nhsuk-card-group__item nhsx-project-card" data-tags="nlp">
     <div class="nhsuk-card nhsuk-card--clickable">
       <div class="nhsuk-card__content">
         <h3 class="nhsuk-card__heading nhsuk-heading-s">
-          <a class="nhsuk-card__link" href="automated-red-teaming/">Automated Red-teaming for clinical generative AI</a>
+          <a class="nhsuk-card__link" href="linguistic-robustness-triage/">Linguistic Robustness in Triage</a>
         </h3>
         <div class="nhsx-card-badges">
-          <strong class="nhsuk-tag nhsuk-tag--red">PETs</strong>
-          <strong class="nhsuk-tag nhsuk-tag--grey">RedTeaming</strong>
+          <strong class="nhsuk-tag nhsuk-tag--yellow">NLP</strong>
+          <strong class="nhsuk-tag nhsuk-tag--grey">Robustness</strong>
           <strong class="nhsuk-tag nhsuk-tag--text">Text</strong>
         </div>
       </div>
@@ -370,6 +328,62 @@ Below is a list of internship projects which are continually being updated and a
         <div class="nhsx-card-badges">
           <strong class="nhsuk-tag nhsuk-tag--green">Synthetic</strong>
           <strong class="nhsuk-tag nhsuk-tag--grey">BayesianNetworks</strong>
+          <strong class="nhsuk-tag nhsuk-tag--tabular">Tabular</strong>
+        </div>
+      </div>
+    </div>
+  </li>
+  <li class="nhsuk-grid-column-one-third nhsuk-card-group__item nhsx-project-card" data-tags="nlp">
+    <div class="nhsuk-card nhsuk-card--clickable">
+      <div class="nhsuk-card__content">
+        <h3 class="nhsuk-card__heading nhsuk-heading-s">
+          <a class="nhsuk-card__link" href="https://nhsx.github.io/nhsx-internship-projects/nhs-monitor-corpus/">Exploiting an NHS Monitor Corpus</a>
+        </h3>
+        <div class="nhsx-card-badges">
+          <strong class="nhsuk-tag nhsuk-tag--yellow">NLP</strong>
+          <strong class="nhsuk-tag nhsuk-tag--grey">MonitorCorpus</strong>
+          <strong class="nhsuk-tag nhsuk-tag--multimodal">MultiModal</strong>
+        </div>
+      </div>
+    </div>
+  </li>
+  <li class="nhsuk-grid-column-one-third nhsuk-card-group__item nhsx-project-card" data-tags="synthetic">
+    <div class="nhsuk-card nhsuk-card--clickable">
+      <div class="nhsuk-card__content">
+        <h3 class="nhsuk-card__heading nhsuk-heading-s">
+          <a class="nhsuk-card__link" href="https://nhsx.github.io/nhsx-internship-projects/nhs-synth-extended/">Extending NHSSynth into Multi-table, Multi-modal, and Longitudinal Data</a>
+        </h3>
+        <div class="nhsx-card-badges">
+          <strong class="nhsuk-tag nhsuk-tag--green">Synthetic</strong>
+          <strong class="nhsuk-tag nhsuk-tag--grey">VAE</strong>
+          <strong class="nhsuk-tag nhsuk-tag--tabular">Tabular</strong>
+        </div>
+      </div>
+    </div>
+  </li>
+  <li class="nhsuk-grid-column-one-third nhsuk-card-group__item nhsx-project-card" data-tags="explainability">
+    <div class="nhsuk-card nhsuk-card--clickable">
+      <div class="nhsuk-card__content">
+        <h3 class="nhsuk-card__heading nhsuk-heading-s">
+          <a class="nhsuk-card__link" href="https://nhsx.github.io/nhsx-internship-projects/human-computer-interaction/">Exploring Human-Computer Interaction and Collaboration in Healthcare Settings</a>
+        </h3>
+        <div class="nhsx-card-badges">
+          <strong class="nhsuk-tag nhsuk-tag--orange">Explainability</strong>
+          <strong class="nhsuk-tag nhsuk-tag--grey">DecisionSupport</strong>
+          <strong class="nhsuk-tag nhsuk-tag--tabular">Tabular</strong>
+        </div>
+      </div>
+    </div>
+  </li>
+  <li class="nhsuk-grid-column-one-third nhsuk-card-group__item nhsx-project-card" data-tags="pets">
+    <div class="nhsuk-card nhsuk-card--clickable">
+      <div class="nhsuk-card__content">
+        <h3 class="nhsuk-card__heading nhsuk-heading-s">
+          <a class="nhsuk-card__link" href="https://nhsx.github.io/nhsx-internship-projects/digital-watermarking/">Exploring Digital Watermarking and Usage-Aware Agents for Healthcare AI Governance</a>
+        </h3>
+        <div class="nhsx-card-badges">
+          <strong class="nhsuk-tag nhsuk-tag--red">PETs</strong>
+          <strong class="nhsuk-tag nhsuk-tag--grey">Agents</strong>
           <strong class="nhsuk-tag nhsuk-tag--tabular">Tabular</strong>
         </div>
       </div>

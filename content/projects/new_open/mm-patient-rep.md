@@ -1,65 +1,60 @@
 ---
 remote_theme: nhsx/nhs-io-theme
-title: Building Multimodal Patient Representations for Clinical Prediction
-description: NHS England PhD Internship - Building Multimodal Patient Representations for Clinical Prediction
+title: The NHS Patient Profile — Representations for Clinical AI
+description: NHS England PhD Internship - The NHS Patient Profile — Representations for Clinical AI
 permalink: /mm-patient-rep/
 ---
 
-# Building Multimodal Patient Representations for Clinical Prediction
+# The NHS Patient Profile — Representations for Clinical AI
 
-**Keywords:** Machine Learning, Single Patient Record, MultiModal 
+**Keywords:** MultiModal Learning, Representations, MultiModal
 
-**Need:** This project builds on that work by moving beyond fairness diagnosis and instead focusing on developing robust, task-relevant multimodal patient representations. Specifically, it will create patient-level embeddings across structured (EHR), unstructured (clinical notes), and image (e.g., X-ray or CT metadata) data, and assess their utility across a range of downstream use cases, including:
+**Need:** The NHS vision of a Single Patient Record brings together the full breadth of data relating to a patient — structured EHR tables, clinical notes, lab results, medications, imaging, and more — into a unified, accessible form. For AI to work with this data holistically, it needs a suitable *representation*: a structure that captures the richness of patient information while enabling fast, reusable, and interpretable analysis.
 
-- Patient similarity search / retrieval
-- Clinical prediction (e.g., length of stay, readmission)
-- Patient clustering (e.g., phenotype discovery)
+Two main paradigms exist for building such representations. Graph-based approaches encode patients, diagnoses, medications, and clinical ontologies (e.g. SNOMED CT, LOINC) as nodes and edges, making relationships explicit and semantically interpretable. Embedding-based approaches use deep learning to fuse heterogeneous modalities (structured data, free text, imaging) into dense patient-level vectors, enabling downstream tasks through learned similarity. Each paradigm has distinct strengths in terms of interpretability, scalability, and task suitability.
 
-Previous NHS projects, such as [mm-healthfair](https://github.com/nhsengland/mm-healthfair), have demonstrated that combining data across multiple modalities (e.g., structured data, free text, and imaging) can both improve performance and introduce new fairness concerns. Those projects highlighted how models can become unfairly biased depending on the modality fusion strategy and the richness of the non-tabular data sources.
+Previous NHS projects, such as [mm-healthfair](https://github.com/nhsengland/mm-healthfair), demonstrated that combining modalities can both improve performance and introduce new fairness risks — with outcomes depending heavily on how data is fused and represented.
 
-By using consistent embedding frameworks, this project creates a foundation for future fairness auditing, interpretability analysis, and explainability research, enabling NHS use cases with traceable model reasoning. 
+This project will implement and evaluate at least one approach from each paradigm on shared downstream tasks, producing a comparative analysis that informs NHS data architecture and AI strategy.
 
 **Current Knowledge/Examples & Possible Techniques/Approaches:**
-- Prior NHS Work: [mm-healthfair](https://github.com/nhsengland/mm-healthfair) highlighted fusion fairness issues; this project progresses from evaluation to representation building.
-- Multimodal Fusion Strategies:
-    - Early Fusion: Feature concatenation or cross-attention (e.g., Perceiver IO)
-    - Late Fusion: Modality-specific encoders with unified embedding space
-    - Cross-modal Representation: Contrastive learning (e.g., CLIP, MedCLIP, or ALBEF-style models)
-- Relevant Literature and Frameworks:
-    - [Hansen et al. (2024)](https://pubmed.ncbi.nlm.nih.gov/39511041/) Multimodal representation learning for medical analytics - a systematic literature review. 
-    - BioBERT, ClinicalBERT for text
-    - Densenet or ViT variants pretrained on medical imaging
-    - PyTorch Metric Learning for patient similarity retrieval tasks
-    - SHAP, Integrated Gradients for explainability 
 
-**Related Previous Internship Projects:** 
+Graph-based approaches:
+- [A Survey on Knowledge Graphs for Healthcare: Resources, Application Progress, and Promise](https://openreview.net/forum?id=CZCktJoBRh#all)
+- Patient-Centric Knowledge Graphs — [Al Khatib et al., 2024](https://www.researchgate.net/publication/385394042_Patient-centric_knowledge_graphs_a_survey_of_current_methods_challenges_and_applications)
+- KGs from Structured EHR Data — [Abu‑Salih et al., 2023](https://journalofbigdata.springeropen.com/articles/10.1186/s40537-023-00774-9)
+- BioKGrapher — [Schäfer et al. (2024)](https://www.sciencedirect.com/science/article/pii/S2001037024003386)
 
-- https://nhsx.github.io/nhsx-internship-projects/mmbias/
-- Txt-Ray Align – [Txt-Ray Align Project](https://github.com/nhsx/txt-ray-align)
-- Genomic + Clinical Integration (Upcoming)
-- Synthetic multimodal patient generation (e.g., [NHSSynth](https://github.com/nhsengland/NHSSynth))
+Embedding-based approaches:
+- [Hansen et al. (2024)](https://pubmed.ncbi.nlm.nih.gov/39511041/) Multimodal representation learning for medical analytics — a systematic literature review
+- Multimodal fusion strategies: early fusion (concatenation, cross-attention), late fusion (modality-specific encoders), cross-modal contrastive learning (CLIP, MedCLIP, ALBEF)
+- BioBERT, ClinicalBERT for text; DenseNet or ViT variants for imaging
+- PyTorch Metric Learning for patient similarity retrieval
+
+**Related Previous Internship Projects:**
+
+- [Understanding Bias in Multi-modal models within Healthcare](https://nhsx.github.io/nhsx-internship-projects/mmbias/)
+- [Txt-Ray Align](https://github.com/nhsx/txt-ray-align)
+- [NHSSynth](https://github.com/nhsengland/NHSSynth) — synthetic multimodal patient generation
 
 **Enables Future Work:**
- 
-- Modular patient embeddings that can be reused in multiple downstream projects (prediction, retrieval, fairness auditing)
-- Input for patient-similarity-based systems or recommendation tools
-- Foundation for cross-modal fairness evaluations and bias mitigation strategies
-- Improved architecture selection guidance for NHS multimodal ML
+
+- Modular patient representations reusable across prediction, retrieval, and fairness auditing projects
+- Foundation for cross-modal fairness evaluation and bias mitigation
+- Input for patient-similarity systems and retrieval-augmented generation with clinical KGs
+- Architecture guidance for NHS multimodal and linked-record AI
 
 **Outcome/Learning Objectives:**
 
-- Design and implement at least one fusion strategy across structured and unstructured data
-- Generate patient-level embeddings across multiple modalities
-- Evaluate embeddings on one or more downstream tasks:
-    - Classification (e.g., 30-day readmission)
-    - Clustering (e.g., unsupervised phenotype discovery)
-    - Similarity retrieval (e.g., patient case recall)
-- Assess utility, explainability, and reusability of these embeddings
-- Document findings in a reusable open-source codebase and technical report
+- Review of graph-based vs. embedding-based approaches for unified patient data representation
+- Working prototype of at least one approach from each paradigm on MIMIC-IV
+- Evaluation on shared downstream tasks: classification (e.g. 30-day readmission), clustering (phenotype discovery), similarity retrieval
+- Comparative analysis of utility, interpretability, and reusability across approaches
+- Technical report with recommendations for NHS patient record AI architecture
 
-**Datasets:** Accessible Datasets such as MIMIC-IV
+**Datasets:** MIMIC-IV; SNOMED CT and UMLS as ontological resources for graph approaches
 
-**Desired skill set:** When applying please highlight any experience around healthcare data, multimodal embedding and learning, coding experience (including any coding in the open), any other data science experience you feel relevant.
+**Desired skill set:** When applying please highlight any experience around multimodal machine learning or graph ML methods, NLP, clinical terminologies, python coding experience (including any coding in the open), medical imaging experience is a bonus, and any other data science experience you feel relevant.
 
 ---
 Return to list of [all available projects](https://nhsx.github.io/nhsx-internship-projects/).

@@ -17,7 +17,7 @@ For the NHS, which operates across hundreds of diverse clinical sites, safe nati
 
 [Dou et al. (2018)](https://arxiv.org/pdf/1812.07907) provide an overview of recent UDA methods and their clinical impact, while [Gong et al. (2024)](https://arxiv.org/pdf/2408.05985) demonstrate Diffuse‑UDA, a diffusion-based approach that generates target-style images with preserved structure, achieving strong adaptation results. [Lyu et al. (2025)](https://arxiv.org/html/2505.11909v1) propose LowBridge, a lightweight cross-modal alignment method that uses domain-invariant edge features to improve segmentation across imaging modalities. [Ying et al. (2025)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5345726) provide a broader survey of UDA/DG methods in medical imaging, with insights into how foundation models and pre-training strategies can improve robustness in cross-site settings.
 
-**Related Previous Internship Projects:** N/A as first iteration of the project
+**Related Previous Internship Projects:** mm-healthfair
 
 **Enables Future Work:**
 
@@ -34,7 +34,7 @@ For the NHS, which operates across hundreds of diverse clinical sites, safe nati
 
 **Datasets:** Public medical imaging datasets (e.g., CheXpert, MIDRC, Camelyon), Synthetic or open-source histopathology/endoscopy images
 
-**Desired skill set:** When applying please highlight any experience around deep learning for vision (including CNNs and diffusion models), python coding experience (including PyTorch or TensorFlow), any other data science experience you feel relevant.
+**Desired skill set:** When applying please highlight any experience around deep learning for vision (including CNNs and diffusion models), python coding experience (including PyTorch), any other data science experience you feel relevant.
 
 ---
 Return to list of [all available projects](https://nhsx.github.io/nhsx-internship-projects/).

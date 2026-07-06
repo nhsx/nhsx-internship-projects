@@ -7,7 +7,7 @@ permalink: /mechanistic-interpretability/
 
 # Mechanistic Interpretability for AI Systems in Healthcare
 
-**Keywords:** Explainability, Circuits, Multi-modal
+**Keywords:** Explainability, Circuits, Text
 
 **Need:**  AI models in healthcare, including those trained on tabular data, clinical notes, or multi-modal records, often perform well, but their internal mechanisms remain opaque. Traditional explainability tools (like SHAP, LIME, or saliency maps) offer high-level justifications, but don’t provide visibility into the internal logic or failures of a model. This limits trust, reduces safety, and impairs regulatory and ethical assurance.
 
@@ -28,9 +28,9 @@ This will:
 
 **Related Previous Internship Projects:** 
 
-- MM_Healthfair
-- Privacy Leakage
-- EvalSense
+- [Understanding Bias in Multi-modal models within Healthcare](https://nhsx.github.io/nhsx-internship-projects/mmbias/)
+- Fact-Level Privacy Leakage Detection and Mitigation
+- Evalsense continued
 
 **Enables Future Work:**
  
@@ -48,7 +48,7 @@ This will:
 
 **Datasets:** Open datasets like MIMIC-III, or MIMIC-IV
 
-**Desired skill set:** When applying please highlight any experience around neural networks, explainability, interest in deep learning, python coding experience (including any coding in the open), any other data science experience you feel relevant.
+**Desired skill set:** When applying please highlight any experience around neural networks, explainability, transformers and attension mechanisms, interest in deep learning, python coding experience (including any coding in the open), any other data science experience you feel relevant.
 
 ---
 Return to list of [all available projects](https://nhsx.github.io/nhsx-internship-projects/).
