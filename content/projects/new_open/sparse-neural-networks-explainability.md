@@ -13,21 +13,15 @@ permalink: /sparse-neural-networks-explainability/
 This project will explore whether sparsity-inducing techniques can improve the interpretability of clinically-relevant models without unacceptable performance trade-offs.
 
 **Current Knowledge/Examples & Possible Techniques/Approaches:**
-The foundational paper is "The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks" (Frankle & Carlin, ICLR 2019 Best Paper), which demonstrates that within any large randomly-initialised network there exists a small sparse subnetwork, the "winning ticket", that trained in isolation from the same initialisation, matches the full network's performance. This reframes sparsity from a compression technique into a discovery tool: the winning ticket is the subset of the architecture that actually matters.
-Magnitude pruning (Han et al., 2015) — zeroing weights below a threshold — remains the standard baseline. Iterative magnitude pruning (IMP), where the network is trained, pruned, and retrained repeatedly, can achieve 90%+ sparsity with minimal accuracy loss on many benchmarks. Structured pruning (removing entire neurons, attention heads, or convolutional channels) is more hardware-efficient and produces models where the reduced pathways are directly inspectable. L1 regularisation on parameter group norms induces structured sparsity end-to-end.
+"[The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks](https://arxiv.org/abs/1803.03635)" (Frankle & Carlin, 2019), demonstrated that within any large randomly-initialised network there exists a small sparse subnetwork, the "winning ticket", that trained in isolation from the same initialisation, matches the full network's performance. This winning ticket is the subset of the architecture that actually matters.
 
-Sparse Autoencoders (SAEs) represent a distinct but closely related paradigm for interpretability. "Towards Monosemanticity" (Bricken et al., Anthropic, 2023) shows that neurons in transformers are polysemantic (encoding multiple unrelated concepts via superposition), and that SAEs — trained to reconstruct activations using a sparse overcomplete dictionary — can decompose these into monosemantic features, one concept per neuron. Cunningham et al. (2023) provide an independent replication validating that SAE-recovered features are substantially more interpretable than raw neuron activations. "Scaling and Evaluating Sparse Autoencoders" (Gao et al., Anthropic, 2024) scales this to GPT-4-class models and introduces automated interpretability scoring using LLMs.
+Iterative magnitude pruning (IMP), where the network is trained, pruned, and retrained repeatedly, can achieve 90%+ sparsity with minimal accuracy loss on many benchmarks. Structured pruning (removing entire neurons, attention heads, or convolutional channels) is more hardware-efficient and produces models where the reduced pathways are directly inspectable. 
 
-Concept Bottleneck Models (CBMs) (Koh et al., ICML 2020) offer a supervised alternative: the penultimate layer is constrained to represent human-defined concepts (e.g. "oedema present", "heart enlarged") from which the final prediction is made. Inherently interpretable and sparse in the concept space; particularly suited to clinical imaging where radiological concepts are well-defined.
-
-For large language models, SparseGPT (Frantar & Alistarh, 2023) achieves 50–60% unstructured sparsity in LLaMA/OPT-scale models with minimal perplexity increase using one-shot approximate second-order pruning. L0 regularisation (Louizos et al., ICLR 2018) learns sparse networks end-to-end via a differentiable relaxation of the discrete L0 norm.
-
-The comparison baseline — SHAP and LIME — provides feature attribution post-hoc but does not reflect actual model internals and can be adversarially manipulated to show misleading explanations (Slack et al., 2020 "Fooling LIME and SHAP"). Sparse network methods are architecturally transparent by construction, which is the core distinction this project explores in the NHS governance context.
-
+"[Towards Monosemanticity](https://transformer-circuits.pub/2023/monosemantic-features)" (Bricken et al., Anthropic, 2023) and [Cunningham et al. (2023)](https://arxiv.org/abs/2309.08600) showed that neurons in transformers encode multiple unrelated concepts via superposition, and that Sparse Autoencoders (SAEs) can decompose these into one concept per neuron. 
 
 **Related Previous Internship Projects:** Mechanistic Interpretability for AI Systems in Healthcare; Explaining facial skin disease classification using LIME; Evalsense continued
 
-**Enables Future Work:**
+**Enables Future Work:** Supports our work around evalaution and explainability of AI in healthcare.
 
 **Outcome/Learning Objectives:**
 

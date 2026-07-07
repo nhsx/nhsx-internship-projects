@@ -32,7 +32,7 @@ Below is a list of internship projects which are continually being updated and a
     <div class="nhsuk-card nhsuk-card--clickable">
       <div class="nhsuk-card__content">
         <h3 class="nhsuk-card__heading nhsuk-heading-s">
-          <a class="nhsuk-card__link" href="https://nhsx.github.io/nhsx-internship-projects/mm-patient-rep/">The NHS Patient Profile — Representations for Clinical AI</a>
+          <a class="nhsuk-card__link" href="https://nhsx.github.io/nhsx-internship-projects/mm-patient-rep/">The NHS Patient Profile - Representations for Clinical AI</a>
         </h3>
         <div class="nhsx-card-badges">
           <strong class="nhsuk-tag">MultiModal Learning</strong>
