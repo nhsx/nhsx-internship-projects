@@ -13,10 +13,16 @@ permalink: /llm-model-collapse/
 This project will empirically characterise how model collapse manifests in healthcare language models, develop practical detection metrics, and explore mitigation strategies suited to NHS deployment settings.
 
 **Current Knowledge/Examples & Possible Techniques/Approaches:**
+[Shumailov et al. (2024)](https://pubmed.ncbi.nlm.nih.gov/39048682/) demonstrated theoretically and empirically that iterative training on LLM-generated outputs causes a progressive loss of output diversity (model collapse). [Alemohammad et al. (2023)](https://arxiv.org/abs/2307.01850) "Self-Consuming Generative Models Go MAD" provides a parallel mathematical treatment for image generative models, showing that without injection of real data each generation produces increasingly homogeneous outputs. Both are of particular interest for AI-generated summaries subsequently used in training, or for clinical coding tools collapsing to the most common codes.
+
+Metrics to identify collapse include lexical diversity metrics (e.g. Type-Token Ratio, distinct n-grams, and vocab entropy), embedding space diversity metrics (e.g. Vendi Score, nearest-neighbour distribution) tracked over time, and perplexity drift.
+
+Mitigation approaches include data provenance tracking, digital watermarking, and minimum real-data injection.
+
 
 **Related Previous Internship Projects:** Evalsense continued; P81 - Generative AI Evaluation; Fact-Level Privacy Leakage Detection and Mitigation; P33 - Exploring Large-scale Language Models with NHS Incident Data
 
-**Enables Future Work:**
+**Enables Future Work:** Assurance and monitoring of applied LLMs.
 
 **Outcome/Learning Objectives:**
 

@@ -31,18 +31,16 @@ Embedding-based approaches:
 - BioBERT, ClinicalBERT for text; DenseNet or ViT variants for imaging
 - PyTorch Metric Learning for patient similarity retrieval
 
-**Related Previous Internship Projects:**
+Temporal Sequencers:
+- [RETAIN](https://arxiv.org/abs/1608.05745) Choi et al. applied a reverse time-attention model to an EHR.
+- [GRAM](https://arxiv.org/abs/1611.07012) Choi et al. applied a Graph-based attention model to a EHR. 
+- [BEHRT](https://www.nature.com/articles/s41598-020-62922-y) Li et al. is a transformer for EHRs.
 
-- [Understanding Bias in Multi-modal models within Healthcare](https://nhsx.github.io/nhsx-internship-projects/mmbias/)
-- [Txt-Ray Align](https://github.com/nhsx/txt-ray-align)
-- [NHSSynth](https://github.com/nhsengland/NHSSynth) — synthetic multimodal patient generation
+The MIMIC-iV predictive tasks could be considered as standard benchmarks for these approaches. 
 
-**Enables Future Work:**
+**Related Previous Internship Projects:** [Understanding Bias in Multi-modal models within Healthcare](https://nhsx.github.io/nhsx-internship-projects/mmbias/); [Txt-Ray Align](https://github.com/nhsx/txt-ray-align); [NHSSynth](https://github.com/nhsengland/NHSSynth) — synthetic multimodal patient generation
 
-- Modular patient representations reusable across prediction, retrieval, and fairness auditing projects
-- Foundation for cross-modal fairness evaluation and bias mitigation
-- Input for patient-similarity systems and retrieval-augmented generation with clinical KGs
-- Architecture guidance for NHS multimodal and linked-record AI
+**Enables Future Work:** Modular patient representations reusable across prediction, retrieval, and fairness auditing projects; Foundation for cross-modal fairness evaluation and bias mitigation; Input for patient-similarity systems and retrieval-augmented generation with clinical KGs; Architecture guidance for NHS multimodal and linked-record AI
 
 **Outcome/Learning Objectives:**
 

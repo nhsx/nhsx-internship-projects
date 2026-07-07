@@ -36,18 +36,11 @@ This project will look to:
     - Information Type Classification: Automated tagging of sensitive data types (e.g., conditions, names, locations)
     - Fact-based Ground Truth Extraction: Creating benchmarks where individual facts are known to be in or out of training data
     - Longitudinal Leakage: Identifying how fragmented identifiers may coalesce over long sequences
+    - Machine Unlearning: SISA and gradient-based approaches.
 
-**Related Previous Internship Projects:** 
+**Related Previous Internship Projects:** [privfp-experiments](https://github.com/nhsengland/privfp-experiments); P71 - Investigating Privacy Concerns and Mitigations for Healthcare Language and Foundation Models; [P51 - Investigating Privacy Concerns and Mitigations for Language Models in Healthcare](https://github.com/nhsengland/priv-lm-health)
 
-- [privfp-experiments](https://github.com/nhsengland/privfp-experiments)
-- P71 - Investigating Privacy Concerns and Mitigations for Healthcare Language and Foundation Models
-- [P51 - Investigating Privacy Concerns and Mitigations for Language Models in Healthcare](https://github.com/nhsengland/priv-lm-health)
-
-**Enables Future Work:**
-
-- A fact-based leakage benchmark could become the basis for national LLM governance testing
-- Tools from this work could be extended into privacy evaluation modules for NHS LLM deployments
-- Contributes to Trustworthy AI development pipelines within the NHS
+**Enables Future Work:** A fact-based leakage benchmark could become the basis for national LLM governance testing; Tools from this work could be extended into privacy evaluation modules for NHS LLM deployments; Contributes to Trustworthy AI development pipelines within the NHS
 
 **Outcome/Learning Objectives:**
 

@@ -11,7 +11,7 @@ permalink: /mechanistic-interpretability/
 
 **Need:**  AI models in healthcare, including those trained on tabular data, clinical notes, or multi-modal records, often perform well, but their internal mechanisms remain opaque. Traditional explainability tools (like SHAP, LIME, or saliency maps) offer high-level justifications, but don’t provide visibility into the internal logic or failures of a model. This limits trust, reduces safety, and impairs regulatory and ethical assurance.
 
-Mechanistic Interpretability (MI) offers a more ambitious approach: probing internals of models to uncover how decisions are made, at the level of neurons, features, and circuits. This project proposes exploring MI methods on a well-defined clinical prediction task, using small-to-medium scale models (e.g., a small LLM trained on synthetic or open data), to examine how internal representations correlate with known clinical factors (e.g. lab results, symptoms, or diagnosis codes).
+Mechanistic Interpretability (MI) offers a more ambitious approach: probing internals of models to uncover how decisions are made, at the level of neurons, features, and circuits. Unlike design-time approaches — such as constraining a model's architecture to use sparse connections — MI is applied post-hoc to an already-trained model, making it applicable to any existing clinical AI system without architectural modification. This project proposes exploring MI methods on a well-defined clinical prediction task, using small-to-medium scale models (e.g., a small LLM trained on synthetic or open data), to examine how internal representations correlate with known clinical factors (e.g. lab results, symptoms, or diagnosis codes).
 
 This will:
 
@@ -24,19 +24,13 @@ This will:
 - [Open Problems in Mechanistic Interpretability](https://arxiv.org/abs/2501.16496)
 - [Mechanistic Interpretability for AI Safety -- A Review](https://arxiv.org/abs/2404.14082)
 - [On the Biology of a Large Language Model](https://transformer-circuits.pub/2025/attribution-graphs/biology.html)
-- Mechanistic approaches such as Sparse Autoencoders (SAEs), Activation patching, path tracing, feature and circuit attribution, causal abstraction, etc. 
+- Circuits 
+- [TransformerLens](https://github.com/TransformerLensOrg/TransformerLens) or [nnsight](https://nnsight.net/) - suggested python libraries.
 
-**Related Previous Internship Projects:** 
 
-- [Understanding Bias in Multi-modal models within Healthcare](https://nhsx.github.io/nhsx-internship-projects/mmbias/)
-- Fact-Level Privacy Leakage Detection and Mitigation
-- Evalsense continued
+**Related Previous Internship Projects:** [Understanding Bias in Multi-modal models within Healthcare](https://nhsx.github.io/nhsx-internship-projects/mmbias/); Fact-Level Privacy Leakage Detection and Mitigation; Evalsense continued
 
-**Enables Future Work:**
- 
-- Foundation for NHS-safe models via auditable internal behaviour
-- Circuit-level intervention tooling for future clinical models
-- Assessment of AI assurance pipelines with traceability at the model architecture level
+**Enables Future Work:** Foundation for NHS-safe models via auditable internal behaviour; Circuit-level intervention tooling for future clinical models; Assessment of AI assurance pipelines with traceability at the model architecture level
 
 **Outcome/Learning Objectives:**
 

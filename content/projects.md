@@ -42,20 +42,6 @@ Below is a list of internship projects which are continually being updated and a
       </div>
     </div>
   </li>
-  <li class="nhsuk-grid-column-one-third nhsuk-card-group__item nhsx-project-card" data-tags="machinelearning">
-    <div class="nhsuk-card nhsuk-card--clickable">
-      <div class="nhsuk-card__content">
-        <h3 class="nhsuk-card__heading nhsuk-heading-s">
-          <a class="nhsuk-card__link" href="https://nhsx.github.io/nhsx-internship-projects/domain-gap/">Domain Gap Bridging</a>
-        </h3>
-        <div class="nhsx-card-badges">
-          <strong class="nhsuk-tag">MachineLearning</strong>
-          <strong class="nhsuk-tag nhsuk-tag--grey">VAE</strong>
-          <strong class="nhsuk-tag nhsuk-tag--images">Images</strong>
-        </div>
-      </div>
-    </div>
-  </li>
   <li class="nhsuk-grid-column-one-third nhsuk-card-group__item nhsx-project-card" data-tags="explainability nlp">
     <div class="nhsuk-card nhsuk-card--clickable">
       <div class="nhsuk-card__content">
@@ -168,6 +154,62 @@ Below is a list of internship projects which are continually being updated and a
       </div>
     </div>
   </li>
+  <li class="nhsuk-grid-column-one-third nhsuk-card-group__item nhsx-project-card" data-tags="machinelearning">
+    <div class="nhsuk-card nhsuk-card--clickable">
+      <div class="nhsuk-card__content">
+        <h3 class="nhsuk-card__heading nhsuk-heading-s">
+          <a class="nhsuk-card__link" href="imaging-foundation-models/">Foundation Models for Clinical Image Analysis</a>
+        </h3>
+        <div class="nhsx-card-badges">
+          <strong class="nhsuk-tag">Machine Learning</strong>
+          <strong class="nhsuk-tag nhsuk-tag--grey">Foundation Models</strong>
+          <strong class="nhsuk-tag nhsuk-tag--images">Images</strong>
+        </div>
+      </div>
+    </div>
+  </li>
+  <li class="nhsuk-grid-column-one-third nhsuk-card-group__item nhsx-project-card" data-tags="explainability">
+    <div class="nhsuk-card nhsuk-card--clickable">
+      <div class="nhsuk-card__content">
+        <h3 class="nhsuk-card__heading nhsuk-heading-s">
+          <a class="nhsuk-card__link" href="uncertainty-quantification/">Uncertainty Quantification for Clinical AI</a>
+        </h3>
+        <div class="nhsx-card-badges">
+          <strong class="nhsuk-tag nhsuk-tag--orange">Explainability</strong>
+          <strong class="nhsuk-tag nhsuk-tag--grey">Uncertainty</strong>
+          <strong class="nhsuk-tag nhsuk-tag--tabular">Tabular</strong>
+        </div>
+      </div>
+    </div>
+  </li>
+  <li class="nhsuk-grid-column-one-third nhsuk-card-group__item nhsx-project-card" data-tags="machinelearning">
+    <div class="nhsuk-card nhsuk-card--clickable">
+      <div class="nhsuk-card__content">
+        <h3 class="nhsuk-card__heading nhsuk-heading-s">
+          <a class="nhsuk-card__link" href="fairness-clinical-ai/">Fairness and Equity in Clinical AI</a>
+        </h3>
+        <div class="nhsx-card-badges">
+          <strong class="nhsuk-tag">Machine Learning</strong>
+          <strong class="nhsuk-tag nhsuk-tag--grey">Fairness</strong>
+          <strong class="nhsuk-tag nhsuk-tag--tabular">Tabular</strong>
+        </div>
+      </div>
+    </div>
+  </li>
+  <li class="nhsuk-grid-column-one-third nhsuk-card-group__item nhsx-project-card" data-tags="machinelearning">
+    <div class="nhsuk-card nhsuk-card--clickable">
+      <div class="nhsuk-card__content">
+        <h3 class="nhsuk-card__heading nhsuk-heading-s">
+          <a class="nhsuk-card__link" href="longitudinal-trajectory-modelling/">Longitudinal Patient Trajectory Modelling</a>
+        </h3>
+        <div class="nhsx-card-badges">
+          <strong class="nhsuk-tag">Machine Learning</strong>
+          <strong class="nhsuk-tag nhsuk-tag--grey">Temporal</strong>
+          <strong class="nhsuk-tag nhsuk-tag--tabular">Tabular</strong>
+        </div>
+      </div>
+    </div>
+  </li>
 </ul>
 
 ---
@@ -179,6 +221,20 @@ Below is a list of internship projects which are continually being updated and a
 *Paused projects are ones which we have advertised in the past and still interested in but either have been de-prioritised, need further research or there is an issue with data access delaying the work. Happy to discuss these briefs if you see opportunity.*
 
 <ul class="nhsuk-grid-row nhsuk-card-group">
+  <li class="nhsuk-grid-column-one-third nhsuk-card-group__item nhsx-project-card" data-tags="machinelearning">
+    <div class="nhsuk-card nhsuk-card--clickable">
+      <div class="nhsuk-card__content">
+        <h3 class="nhsuk-card__heading nhsuk-heading-s">
+          <a class="nhsuk-card__link" href="https://nhsx.github.io/nhsx-internship-projects/domain-gap/">Domain Gap Bridging</a>
+        </h3>
+        <div class="nhsx-card-badges">
+          <strong class="nhsuk-tag">MachineLearning</strong>
+          <strong class="nhsuk-tag nhsuk-tag--grey">VAE</strong>
+          <strong class="nhsuk-tag nhsuk-tag--images">Images</strong>
+        </div>
+      </div>
+    </div>
+  </li>
   <li class="nhsuk-grid-column-one-third nhsuk-card-group__item nhsx-project-card" data-tags="synthetic">
     <div class="nhsuk-card nhsuk-card--clickable">
       <div class="nhsuk-card__content">
