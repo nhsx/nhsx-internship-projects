@@ -8,7 +8,7 @@ permalink: /llm-model-collapse/
 
 **Keywords:** NLP, Model Collapse, Text
 
-**Need:** Model collapse describes a failure mode in generative AI where iterative training on AI-generated outputs causes models to progressively lose output diversity and drift from the original data distribution. As NHS systems begin deploying LLMs in workflows that may inadvertently feed generated content back into future training pipelines—such as summarisation tools, discharge letter drafting, or clinical coding assistants—the risk of model collapse becomes operationally significant.
+**Need:** Model collapse describes a failure mode in generative AI where iterative training on AI-generated outputs causes models to progressively lose output diversity and drift from the original data distribution. As NHS systems begin deploying LLMs in workflows that may inadvertently feed generated content back into future training pipelines, such as summarisation tools, discharge letter drafting, or clinical coding assistants, the risk of model collapse becomes operationally significant.
 
 This project will empirically characterise how model collapse manifests in healthcare language models, develop practical detection metrics, and explore mitigation strategies suited to NHS deployment settings.
 

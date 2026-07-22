@@ -10,7 +10,7 @@ permalink: /uncertainty-quantification/
 
 **Need:** Clinical AI systems typically produce a single point prediction or uncalibrated probability score. Clinicians and regulators are rightly sceptical of AI recommendations that arrive without reliable confidence estimates: knowing *when* a model is uncertain is at least as important as its average accuracy, particularly where the consequences of a missed or incorrect prediction are severe.
 
-Uncertainty quantification (UQ) addresses this by producing calibrated predictions — where a stated confidence level corresponds to an empirically verified coverage frequency. Conformal prediction is a particularly attractive framework for NHS deployment: it is distribution-free, model-agnostic, applies to any existing trained model, and provides finite-sample coverage guarantees without retraining. Bayesian and ensemble methods offer complementary approaches to separating uncertainty about the model from irreducible noise in the data.
+Uncertainty quantification (UQ) addresses this by producing calibrated predictions where a stated confidence level corresponds to an empirically verified coverage frequency. Conformal prediction is a particularly attractive framework for NHS deployment: it is distribution-free, model-agnostic, applies to any existing trained model, and provides finite-sample coverage guarantees without retraining. Bayesian and ensemble methods offer complementary approaches to separating uncertainty about the model from irreducible noise in the data.
 
 This project will implement and compare UQ methods on clinically relevant prediction tasks, evaluate calibration across patient subgroups, and explore how uncertainty estimates can be communicated usefully to clinical decision-makers.
 

@@ -10,7 +10,7 @@ permalink: /nhs-synthetic-data-studio/
 
 **Need:** NHS organisations increasingly need synthetic data for system testing, algorithm validation, and safe research sharing. NHS England has developed a range of tools for generating tabular and text synthetic data for healthcare.
 
-NHSSynth Studio aims to consolidate NHS England's synthetic data tools into a cohesive, usable platform—combining generation models, evaluation metrics, and fairness checks into a single, well-documented environment that data professionals across the NHS can adopt.
+NHSSynth Studio aims to consolidate NHS England's synthetic data tools into a cohesive, usable platform combining generation models, evaluation metrics, and fairness checks into a single, well-documented environment that data professionals across the NHS can adopt.
 
 This project will look to extend the current synthetic data offering in NHS England to expand to different modalities and enable agentic AI to use the tools and datasets created for testing and demonstration purposes. 
 

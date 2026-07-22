@@ -9,11 +9,11 @@ permalink: /mm-patient-rep/
 
 **Keywords:** MultiModal Learning, Representations, MultiModal
 
-**Need:** The NHS vision of a Single Patient Record brings together the full breadth of data relating to a patient — structured EHR tables, clinical notes, lab results, medications, imaging, and more — into a unified, accessible form. For AI to work with this data holistically, it needs a suitable *representation*: a structure that captures the richness of patient information while enabling fast, reusable, and interpretable analysis.
+**Need:** The NHS vision of a Single Patient Record brings together the full breadth of data relating to a patient: structured EHR tables, clinical notes, lab results, medications, imaging, and more, into a unified, accessible form. For AI to work with this data holistically, it needs a suitable *representation*: a structure that captures the richness of patient information while enabling fast, reusable, and interpretable analysis.
 
 Two main paradigms exist for building such representations. Graph-based approaches encode patients, diagnoses, medications, and clinical ontologies (e.g. SNOMED CT, LOINC) as nodes and edges, making relationships explicit and semantically interpretable. Embedding-based approaches use deep learning to fuse heterogeneous modalities (structured data, free text, imaging) into dense patient-level vectors, enabling downstream tasks through learned similarity. Each paradigm has distinct strengths in terms of interpretability, scalability, and task suitability.
 
-Previous NHS projects, such as [mm-healthfair](https://github.com/nhsengland/mm-healthfair), demonstrated that combining modalities can both improve performance and introduce new fairness risks — with outcomes depending heavily on how data is fused and represented.
+Previous NHS projects, such as [mm-healthfair](https://github.com/nhsengland/mm-healthfair), demonstrated that combining modalities can both improve performance and introduce new fairness risks with outcomes depending heavily on how data is fused and represented.
 
 This project will implement and evaluate at least one approach from each paradigm on shared downstream tasks, producing a comparative analysis that informs NHS data architecture and AI strategy.
 

@@ -8,11 +8,11 @@ permalink: /imaging-foundation-models/
 
 **Keywords:** Machine Learning, Foundation Models, Images
 
-**Need:** Vision foundation models — large networks pre-trained on broad image corpora, including vision transformers (ViT), contrastive models such as CLIP, and general-purpose segmentation models such as SAM — have demonstrated strong transfer capabilities across computer vision tasks. In healthcare, they offer a potential route to performant imaging AI without the large labelled datasets that have historically been required: NHS imaging archives are extensive, but expert annotation is expensive and time-consuming.
+**Need:** Vision foundation models (including vision transformers (ViT), contrastive models such as CLIP, and general-purpose segmentation models such as SAM) have demonstrated strong transfer capabilities across computer vision tasks. In healthcare, they offer a potential route to performant imaging AI without the large labelled datasets that have historically been required: NHS imaging archives are extensive, but expert annotation is expensive and time-consuming.
 
 However, the extent to which these models transfer to clinical imaging remains uneven and poorly characterised. Clinical images differ from natural photographs in acquisition protocol, anatomical structure, and the clinical relevance of subtle, fine-grained features. Models that perform well on natural image benchmarks may be poorly calibrated for pathology detection, sensitive to scanner-specific artefacts, or brittle to contrast and resolution variation between NHS sites.
 
-This project will systematically evaluate and adapt vision foundation models for one or more NHS-relevant imaging tasks — such as chest X-ray finding classification or histopathology slide analysis — characterising where transfer succeeds, where it fails, and which adaptation strategies (full fine-tuning, parameter-efficient methods, few-shot prompting) are most effective under realistic NHS constraints.
+This project will systematically evaluate and adapt vision foundation models for one or more NHS-relevant imaging tasks such as chest X-ray finding classification or histopathology slide analysis, characterising where transfer succeeds, where it fails, and which adaptation strategies (full fine-tuning, parameter-efficient methods, few-shot prompting) are most effective under realistic NHS constraints.
 
 **Current Knowledge/Examples & Possible Techniques/Approaches:**
 
