@@ -36,18 +36,11 @@ This project will look to:
     - Information Type Classification: Automated tagging of sensitive data types (e.g., conditions, names, locations)
     - Fact-based Ground Truth Extraction: Creating benchmarks where individual facts are known to be in or out of training data
     - Longitudinal Leakage: Identifying how fragmented identifiers may coalesce over long sequences
+    - Machine Unlearning: SISA and gradient-based approaches.
 
-**Related Previous Internship Projects:** 
+**Related Previous Internship Projects:** [privfp-experiments](https://github.com/nhsengland/privfp-experiments); P71 - Investigating Privacy Concerns and Mitigations for Healthcare Language and Foundation Models; [P51 - Investigating Privacy Concerns and Mitigations for Language Models in Healthcare](https://github.com/nhsengland/priv-lm-health)
 
-- [privfp-experiments](https://github.com/nhsengland/privfp-experiments)
-- P71 - Investigating Privacy Concerns and Mitigations for Healthcare Language and Foundation Models
-- [P51 - Investigating Privacy Concerns and Mitigations for Language Models in Healthcare](https://github.com/nhsengland/priv-lm-health)
-
-**Enables Future Work:**
-
-- A fact-based leakage benchmark could become the basis for national LLM governance testing
-- Tools from this work could be extended into privacy evaluation modules for NHS LLM deployments
-- Contributes to Trustworthy AI development pipelines within the NHS
+**Enables Future Work:** A fact-based leakage benchmark could become the basis for national LLM governance testing; Tools from this work could be extended into privacy evaluation modules for NHS LLM deployments; Contributes to Trustworthy AI development pipelines within the NHS
 
 **Outcome/Learning Objectives:**
 
@@ -57,9 +50,9 @@ This project will look to:
 - Assess how model size, training corpus, and instruction tuning style affect privacy risk
 - Deliver a technical report with NHS-relevant policy guidance and recommendations
 
-**Datasets:** MIMIC-III/IV and Synthetic Clinical Notes (e.g., from privfp-experiments).
+**Datasets:** MIMIC-III/IV and Synthetic Clinical Notes (e.g., from privfp-experiments), [Internally generated synthetic clinical notes](https://huggingface.co/datasets/NHSEDataScience/synthetic_clinical_notes)
 
-**Desired skill set:** When applying please highlight any experience around privacy in large language models applied to healthcare, coding experience (including any coding in the open), any other data science experience you feel relevant.
+**Desired skill set:** When applying please highlight any experience around privacy in large language models applied to healthcare, privacy preserving ML, coding experience (including any coding in the open), any other data science experience you feel relevant.
 
 ---
 Return to list of [all available projects](https://nhsx.github.io/nhsx-internship-projects/).

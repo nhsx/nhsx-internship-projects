@@ -1,41 +1,5 @@
-<!DOCTYPE html>
-<html>
+---
+layout: base
+---
 
-{% include header.html %}
-
-<body>
-  {% include navbar.html %}
-
-  <script>
-    document.body.className = document.body.className
-      ? document.body.className + " js-enabled"
-      : "js-enabled";
-  </script>
-
-  <div class="nhsuk-width-container">
-    <main class="nhsuk-main-wrapper" id="maincontent" role="main">
-      <div class="nhsuk-grid-row">
-        <div class="nhsuk-grid-column">
-          <div class="nhsuk-warning-callout">
-            <h3 class="nhsuk-warning-callout__label">
-              <span role="text">
-                <span class="nhsuk-u-visually-hidden">Update: </span>
-                2023 Applications for NHS England PhD Data Science Internships
-              </span>
-            </h3>
-            <p>We're pleased to say, that after some delay, applications were opened on the 4th December with a closing date of midday on the 17th December 2023. Interviews will take place across the 8th to 12th January with the first projects starting in mid-Feb till early July.</p>
-          </div>
-        
-
-          {{ content }}
-        </div>
-      </div>
-    </main>
-  </div>
-
-  {% include footer.html %}
-</body>
-
-<script src="https://cdn.jsdelivr.net/gh/MarketingPipeline/Markdown-Tag/markdown-tag-GitHub.js"></script>
-
-</html>
+{{ content }}
