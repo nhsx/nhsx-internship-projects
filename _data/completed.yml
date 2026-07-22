@@ -1,6 +1,6 @@
 # ---- Wave 11 ----
 
-- title: P11x - Applied Privacy Enhancing Technologies in Healthcare
+- title: P116 - Applied Privacy Enhancing Technologies in Healthcare
   codelink: "tbu"
   reportlink: "tbu"
   stage: Wave 11 - April to July 2026
@@ -11,38 +11,60 @@
   author: tbu
   supervisor: tbu
 
-- title: P11x - Building towards a Patient Record Digital Twin
+- title: P115 - Genomic Data Incorporated into Healthcare Predictions
+  codelink: "tbu"
+  reportlink: "tbu"
+  stage: Wave 11 - April to July 2026
+  badge1: PETs
+  badge2: Differential Privacy
+  badge3: Tabular
+  description: Investigating the integration of genomic data into machine learning models for healthcare outcome prediction.
+  author: Paula Gardner
+  supervisor: Scarlett Kynoch
+
+- title: P114 - Automatic Speech Recognition with Summarisation Evaluation
   codelink: "tbu"
   reportlink: "tbu"
   stage: Wave 11 - April to July 2026
   badge1: Synthetic
   badge2: Digital Twin
   badge3: Tabular
-  description: Investigating approaches to build digital twin representations of patient records for simulation and prediction.
-  author: tbu
-  supervisor: tbu
+  description: Evaluating automatic speech recognition systems with automated summarisation quality metrics for NHS healthcare settings.
+  author: Ziyuan Cai
+  supervisor: Ben Wallace
 
-- title: P11x - Fairness in MultiModal Healthcare Models
+- title: P113 - Building Multimodal Patient Representations for Clinical Prediction
   codelink: "tbu"
   reportlink: "tbu"
-  stage: Wave 11 - April to July 2026
+  stage: Wave 11 - April to October 2026
   badge1: MachineLearning
   badge2: Algorithmic Fairness
   badge3: MultiModal
   description: Investigating and mitigating algorithmic bias and fairness issues in multimodal healthcare AI models.
-  author: tbu
-  supervisor: tbu
+  author: Zhiyan Bo
+  supervisor: Jonathan Hope
 
-- title: P11x - Simulating Healthcare Scenarios with LLMs as Agents
+- title: P112 - Building Multimodal Patient Representations for Clinical Prediction
   codelink: "tbu"
   reportlink: "tbu"
-  stage: Wave 11 - April to July 2026
+  stage: Wave 11 - April to October 2026
+  badge1: MachineLearning
+  badge2: Algorithmic Fairness
+  badge3: MultiModal
+  description: Investigating and mitigating algorithmic bias and fairness issues in multimodal healthcare AI models.
+  author: Xin Zhao
+  supervisor: Jonathan Hope
+
+- title: P111 - Simulating Healthcare Scenarios with LLMs as Agents
+  codelink: "tbu"
+  reportlink: "tbu"
+  stage: Wave 11 - April to Oct 2026
   badge1: Simulation
   badge2: LLM Agents
   badge3: Text
   description: Using large language models as agents to simulate healthcare interactions and scenarios.
-  author: tbu
-  supervisor: tbu
+  author: Jingyao Cai
+  supervisor: Will Poulett
 
 # ---- Wave 10 ----
 
@@ -55,7 +77,7 @@
   badge3: Genomic Data
   description: Investigating the integration of genomic data into machine learning models for healthcare outcome prediction.
   author: Auguste Rumbutyte
-  supervisor: tbu
+  supervisor: Scarlett Kynoch
 
 - title: P101 - Automatic Speech Recognition with Summarisation Evaluation
   codelink: "tbu"
@@ -66,7 +88,7 @@
   badge3: Audio
   description: Evaluating automatic speech recognition systems with automated summarisation quality metrics for NHS healthcare settings.
   author: Wing Leung
-  supervisor: tbu
+  supervisor: Ben Wallace
 
 # ---- Wave 9 ----
 

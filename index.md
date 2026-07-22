@@ -33,7 +33,7 @@ permalink: /
 
 ### About the scheme
 
-Our internships are aimed at current PhD students looking for a paid industrial placement of around five months with the right to work in the UK. Projects are focused on innovation — particularly around getting the most value out of NHS data.
+Our internships are aimed at current PhD students looking for a paid industrial placement of around five months with the right to work in the UK. Projects are focused on innovation and getting the most value out of NHS data.
 
 Projects often have a focus on emerging data science techniques so we advertise mainly to data science programmes, however previous interns have come from clinical, mathematics, computer science and bioinformatics backgrounds, adding huge value through the range of approaches and knowledge they bring.
 
