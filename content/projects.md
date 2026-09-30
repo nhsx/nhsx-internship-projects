@@ -25,8 +25,6 @@ Below is a list of internship projects which are continually being updated and a
 
 ## Open Projects Accepting Applications
 
-*These projects are the list that our 2026 cohort could apply to. Projects for 2027 will be confirmed and appear here in early August. We are happy to discuss the briefs and hear suggestions to fine tune them.*
-
 <ul class="nhsuk-grid-row nhsuk-card-group">
   <li class="nhsuk-grid-column-one-third nhsuk-card-group__item nhsx-project-card" data-tags="machinelearning linkage">
     <div class="nhsuk-card nhsuk-card--clickable">

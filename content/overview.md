@@ -29,6 +29,18 @@ Please email [datascience@nhs.net](mailto:datascience@nhs.net) with any queries 
 
 ---
 
+### Update for 2027 Intake
+
+The next wave of the NHS England PhD Internship Programme will not proceed in January 2027 as originally intended.
+ 
+We expect to bring the scheme back online soon, once organisational arrangements arising from the NHS England and DHSC merger are finalised and we are able to provide the level of structure, supervision and support required to deliver the high-quality experience that participants and hosting teams expect from the programme.
+ 
+We remain committed to strengthening our research capability and partnerships with academia, and we look forward to reintroducing the internship programme when the necessary arrangements are in place.
+ 
+In the meantime, please contact [(datascience@nhs.net)](mailto:datascience@nhs.net) if you would like to discuss our work, explore potential areas of collaboration, or learn more about the team's interests. You can also view examples of previous internship projects to see the impact and breadth of work completed through the programme.
+
+---
+
 ### The Role
 
 The successful candidate will sit within the Data Science Team as a permanent NHS England employee for the duration of the internship. During the internship the candidate will be expected to progress their chosen project autonomously with supervision from internal colleagues as well as their current academic supervisor(s). The candidate will be expected to be focused on the project and self-driven during the internship period, providing regular updates on progress and issues.
@@ -66,21 +78,21 @@ Applicants will need:
 
 ### Timelines
 
-**Applications Open** — Start of October
+**Applications Open** — Delayed
 
-**Applications Close** — End of October
+**Applications Close** — Delayed
 
 Each application will have its content extracted and anonymised before multiple reviewers assess the application.
 - An initial sift will check that applicants meet the eligibility requirements
 - A second stage sift will consider the content of the CV and covering letter
 
-**Interviews** — Mid to late November
+**Interviews** — Delayed
 
-**Outcomes Communicated** — By the End of November
+**Outcomes Communicated** — Delayed
 
-**January Wave Start** — Mid-January (Flexible)
+**January Wave Start** — Delayed
 
-**April Wave Start** — Mid-April (Flexible)
+**April Wave Start** — Delayed
 
 ---
 
