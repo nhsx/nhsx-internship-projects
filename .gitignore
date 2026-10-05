@@ -10,3 +10,6 @@ vendor/
 .DS_Store
 
 .vscode
+
+# Project outputs (local reference, not published)
+_outputs/

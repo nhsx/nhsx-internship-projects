@@ -23,7 +23,8 @@ title: Completed Intern Projects
 <h2 class="nhsx-wave-heading">{{ stage.name }}</h2>
 
 <ul class="nhsuk-grid-row nhsuk-card-group nhsx-wave-cards">
-  {% for proj in site.data.completed %}{% if stage.name == proj.stage %}
+  {% assign wave_prefix = stage.name | split: " - " | first %}
+  {% for proj in site.data.completed %}{% assign proj_prefix = proj.stage | split: " - " | first %}{% if wave_prefix == proj_prefix %}
 
   {% assign filter_tag = "machinelearning" %}
   {% if proj.badge1 == "NLP" or proj.badge1 == "Evaluation" or proj.badge1 == "Histopathology Reports" %}

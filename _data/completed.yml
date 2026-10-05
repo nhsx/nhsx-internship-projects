@@ -1,5 +1,27 @@
 # ---- Wave 11 ----
 
+- title: P118 - Uncertainty Quantification in Healthcare Predictions
+  codelink: "tbu"
+  reportlink: "tbu"
+  stage: Wave 11 - November 2027 to February 2027
+  badge1: tbu
+  badge2: tbu
+  badge3: tbu
+  description: tbu
+  author: tbu
+  supervisor: tbu
+
+- title: P117 - Simulating Healthcare Decisions with LLMs as Agents
+  codelink: "tbu"
+  reportlink: "tbu"
+  stage: Wave 11 - April to Oct 2026
+  badge1: Simulation
+  badge2: LLM Agents
+  badge3: Text
+  description: Using large language models as agents to simulate healthcare decisions.
+  author: Daniela Valdes
+  supervisor: Jonathan Pearson
+
 - title: P116 - Applied Privacy Enhancing Technologies in Healthcare
   codelink: "tbu"
   reportlink: "tbu"
@@ -8,8 +30,8 @@
   badge2: Differential Privacy
   badge3: Tabular
   description: Applying privacy-enhancing technologies including differential privacy to real-world NHS healthcare data.
-  author: tbu
-  supervisor: tbu
+  author: Akasha Shafiq
+  supervisor: Jonathan Pearson
 
 - title: P115 - Genomic Data Incorporated into Healthcare Predictions
   codelink: "tbu"
@@ -101,7 +123,7 @@
   badge3: Tabular
   description: Exploring causal inference methods for estimating the impact of community health interventions from observational data.
   author: Jamie Wong
-  supervisor: tbu
+  supervisor: Jonathan Pearson
 
 - title: P91 - Automated Evaluation and Benchmarking of Data Linkage Quality
   codelink: "tbu"
@@ -112,7 +134,7 @@
   badge3: Tabular
   description: Automated metrics and benchmarking pipeline for evaluating data linkage quality and communicating transparency to end users.
   author: Joseph Lam
-  supervisor: tbu
+  supervisor: Jonathan Pearson
 
 # ---- Wave 8 ----
 
